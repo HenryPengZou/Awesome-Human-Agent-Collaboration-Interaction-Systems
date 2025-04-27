@@ -1,4 +1,4 @@
-# Awesome-LLM-Based-Human-Agent-Systems
+# 🚀 Awesome-LLM-Based-Human-Agent-Systems
 [![Paper](https://img.shields.io/badge/Paper-Human_Agent_Systems-white.svg)](https://openreview.net/pdf?id=OUsZtCgYxy) 
 [![arXiv](https://img.shields.io/badge/arXiv-Human_Agent_Systems-b31b1b.svg)](https://openreview.net/forum?id=OUsZtCgYxy) 
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)]()
@@ -40,16 +40,16 @@ Welcome to the repository associated with our survey paper, "A Survey on Large L
   - [🌟 Introduction](#-introduction)
   - [🤝 Human Feedback](#-human-feedback)
   - [🔄 Interaction](#-interaction)
-  - [🎛️ Orchestration](#-orchestration)
+  - [🎛️ Orchestration](#️-orchestration)
   - [💬 Communication](#-communication)
-  - [📚 Applications, Datasets & Benchmarks](#-applications-datasets--benchmarks)
+  - [📚 Applications, Datasets \& Benchmarks](#-applications-datasets--benchmarks)
 
 
 
 ![image](./images/taxonomy.png)
 
 
-## 🏆 Human Feedback
+## 🤝 Human Feedback
  ([©️click here back to table of contents👆🏻](#contents))
 | Title | Date | Code | Feedback Type | Feedback Subtype | Feedback Granularity | Feedback Phase |
 | ---  | :---: | :---: | :---: | :---: | :---: | :---: |
@@ -57,7 +57,7 @@ Welcome to the repository associated with our survey paper, "A Survey on Large L
 | [FinArena: A Human-Agent Collaboration Framework for Financial Market Analysis and Forecasting](https://arxiv.org/abs/2503.02692) | 2025/03 | - | Guidance | Demonstration | Segment | During Task
 
 
-## Interaction
+## 🔄 Interaction
  ([©️click here back to table of contents👆🏻](#contents))
 | Title | Date | Code | Interaction Types | Interaction Variant
 | ---   | :---: | :---: | :---: | :---: |
@@ -65,7 +65,7 @@ Welcome to the repository associated with our survey paper, "A Survey on Large L
 | [FinArena: A Human-Agent Collaboration Framework for Financial Market Analysis and Forecasting](https://arxiv.org/abs/2503.02692) | 2025/03 | - | Collaboration | Delegation
 
 
-## Orchestration
+## 🎛️ Orchestration
  ([©️click here back to table of contents👆🏻](#contents))
 | Title | Date | Code | Orchestration Strategy | Orchestration Synchronization 
 | ---  | :---: | :---: | :---: | :---: |
@@ -74,7 +74,7 @@ Welcome to the repository associated with our survey paper, "A Survey on Large L
 
 
 
-## Communication
+## 💬 Communication
  ([©️click here back to table of contents👆🏻](#contents))
 | Title | Date | Code | Communication Structure | Communication Mode 
 | ---  | :---: | :---: | :---: | :---: |
@@ -82,7 +82,7 @@ Welcome to the repository associated with our survey paper, "A Survey on Large L
 | [FinArena: A Human-Agent Collaboration Framework for Financial Market Analysis and Forecasting](https://arxiv.org/abs/2503.02692) | 2025/03 | - | Hierarchical | Conversation
 
 
-## Applications, Datasets & Benchmarks
+## 📚 Applications, Datasets & Benchmarks
  ([©️click here back to table of contents👆🏻](#contents))
 | Domain | Datasets & Benchmarks | Proposed or Used by | Data Link |
 | ---  | :---: | :---: | :---: |
