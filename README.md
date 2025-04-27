@@ -115,10 +115,57 @@ Welcome to the repository associated with our survey paper, "A Survey on Large L
 
 ## 🎛️ Orchestration
  ([©️click here back to table of contents👆🏻](#contents))
-| Title | Date | Code | Orchestration Strategy | Orchestration Synchronization 
-| ---  | :---: | :---: | :---: | :---: |
-| [Collaborative Gym: A Framework for Enabling and Evaluating Human-Agent Collaboration](https://arxiv.org/abs/2309.13007) | 2024/12 | [Link](https://github.com/SALT-NLP/collaborative-gym) | One-by-One | Asynchronous
-| [FinArena: A Human-Agent Collaboration Framework for Financial Market Analysis and Forecasting](https://arxiv.org/abs/2503.02692) | 2025/03 | - | One-by-One | Asynchronous
+| Title | Date | Code | Orchestration Strategy | Orchestration Synchronization |
+|---|:---:|:---:|:---:|:---:|
+| [Collaborative Gym: A Framework for Enabling and Evaluating Human-Agent Collaboration (Co-Gym)](https://arxiv.org/abs/2412.15701) | 2025/01 | [Link](https://github.com/SALT-NLP/collaborative-gym) | One-by-One | Asynchronous |
+| [Mutual Theory of Mind in Human-AI Collaboration: An Empirical Study with LLM-driven AI Agents in a Real-time Shared Workspace Task](https://arxiv.org/abs/2409.08811) | 2024/09 | - | Simultaneous | Synchronous |
+| [FinArena: A Human-Agent Collaboration Framework for Financial Market Analysis and Forecasting](https://arxiv.org/abs/2503.02692) | 2025/03 | - | One-by-One | Synchronous |
+| [Experimental Exploration: Investigating Cooperative Interaction Behavior Between Humans and Large Language Model Agents](https://arxiv.org/abs/2503.07320) | 2025/03 | - | One-by-One | Synchronous |
+| [InteractGen: Enhancing Human-Involved Embodied Task Reasoning through LLM-Based Multi-Agent Collaboration](https://openreview.net/forum?id=WDdiCIkpxC) | 2024/12 | - | One-by-One | Asynchronous |
+| [AI Chains: Transparent and Controllable Human-AI Interaction by Chaining Large Language Model Prompts](https://dl.acm.org/doi/abs/10.1145/3491102.3517582) | 2022/04 | - | One-by-One | Synchronous |
+| [Drive As You Speak: Enabling Human-Like Interaction With Large Language Models in Autonomous Vehicles](https://openaccess.thecvf.com/content/WACV2024W/LLVM-AD/html/Cui_Drive_As_You_Speak_Enabling_Human-Like_Interaction_With_Large_Language_WACVW_2024_paper.html) | 2024 | - | One-by-One | Synchronous |
+| [AgentCoord: Visually Exploring Coordination Strategy for LLM-based Multi-Agent Collaboration](https://arxiv.org/abs/2404.11943) | 2024/04 | [Link](https://github.com/AgentCoord/AgentCoord) | One-by-One | Synchronous |
+| [CoWPilot: A Framework for Autonomous and Human-Agent Collaborative Web Navigation](https://arxiv.org/abs/2501.16609) | 2025/04 | [Link](https://oaishi.github.io/cowpilot.html) | One-by-One | Synchronous |
+| [A Human-Computer Collaborative Tool for Training a Single Large Language Model Agent into a Network through Few Examples](https://arxiv.org/abs/2404.15974) | 2024/04 | - | One-by-One | Synchronous |
+| [LLM-Powered Hierarchical Language Agent for Real-time Human-AI Coordination](https://arxiv.org/abs/2312.15224) | 2024/01 | - | Simultaneous | Synchronous |
+| [SWEET-RL: Training Multi-Turn LLM Agents on Collaborative Reasoning Tasks](https://arxiv.org/abs/2503.15478) | 2025/03 | [Link](https://github.com/facebookresearch/sweet_rl) | One-by-One | Synchronous |
+| [An LLM-based approach for Enabling Seamless Human-Robot Collaboration in Assembly](https://www.sciencedirect.com/science/article/pii/S000785062400012X) | 2024/04 | - | One-by-One | Synchronous |
+| [REVECA: Adaptive Planning and Trajectory-based Validation in Cooperative Language Agents Using Information Relevance and Relative Proximity](https://arxiv.org/abs/2405.16751) | 2024/05 | - | One-by-One | Asynchronous |
+| [AssistantX: An LLM-Powered Proactive Assistant in Collaborative Human-Populated Environment](https://arxiv.org/abs/2409.17655) | 2024/09 | [Link](https://github.com/AssistantX-Agent/AssistantX) | One-by-One | Asynchronous |
+| [MINT: Evaluating LLMs in Multi-turn Interaction with Tools and Language Feedback](https://arxiv.org/pdf/2309.10691) | 2023/09 | [Link](https://xwang.dev/mint-bench/) | One-by-One | Synchronous |
+| [Improving Grounded Language Understanding in a Collaborative Environment by Interacting with Agents through Help Feedback](https://arxiv.org/abs/2304.10750) | 2023/04 | - | One-by-One | Synchronous |
+| [ConvCodeWorld: Benchmarking Conversational Code Generation in Reproducible Feedback Environments](https://arxiv.org/abs/2502.19852) | 2025/02 | [Link](https://github.com/stovecat/convcodeworld) | One-by-One | Asynchronous |
+| [Large Language Model-based Human-Agent Collaboration for Complex Task Solving](https://arxiv.org/abs/2402.12914) | 2024/02 | [Link](https://github.com/XueyangFeng/ReHAC) | One-by-One | Synchronous |
+| [Leveraging Dual Process Theory in Language Agent Framework for Real-time Simultaneous Human-AI Collaboration](https://arxiv.org/abs/2502.11882) | 2025/02 | [Link](https://github.com/sjtu-marl/DPT-Agent) | Simultaneous | Asynchronous |
+| [LLM-Based Human-Robot Collaboration Framework for Manipulation Tasks](https://arxiv.org/abs/2308.14972) | 2023/08 | - | One-by-One | Synchronous |
+| [Enhancing the LLM-Based Robot Manipulation Through Human-Robot Collaboration](https://ieeexplore.ieee.org/abstract/document/10561501) | 2024 | - | One-by-One | Synchronous |
+| [PARTNR: A Benchmark for Planning and Reasoning in Embodied Multi-Agent Tasks](https://openreview.net/forum?id=T5QLRRHyL1) | 2025/01 | [Link](https://github.com/facebookresearch/partnr-planner/tree/main/) | One-by-One | Asynchronous |
+| [Embodied LLM Agents Learn to Cooperate in Organized Teams](https://arxiv.org/abs/2403.12482) | 2024/03 | [Link](https://github.com/tobeatraceur/Organized-LLM-Agents) | One-by-One | Synchronous |
+| [Building Cooperative Embodied Agents Modularly with Large Language Models](https://arxiv.org/abs/2307.02485) | 2023/07 | - | Simultaneous | Synchronous |
+| [Investigating Agency of LLMs in Human-AI Collaboration Tasks](https://arxiv.org/abs/2305.12815) | 2023/05 | [Link](https://github.com/microsoft/agency-dialogue) | One-by-One | Synchronous |
+| [Human-LLM Collaboration in Generative Design for Customization](https://www.sciencedirect.com/science/article/abs/pii/S0278612525000731) | 2025 | - | One-by-One | Synchronous |
+| [PDFChatAnnotator: A Human-LLM Collaborative Multi-Modal Data Annotation Tool for PDF-Format Catalogs](https://dl.acm.org/doi/abs/10.1145/3640543.3645174) | 2024 | - | One-by-One | Synchronous |
+| [To Help or Not to Help: LLM-based Attentive Support for Human-Robot Group Interactions](https://ieeexplore.ieee.org/abstract/document/10801517) | 2024 | [Link](https://github.com/HRI-EU/AttentiveSupport) | One-by-One | Synchronous |
+| [Improved Trust in Human-Robot Collaboration With ChatGPT](https://ieeexplore.ieee.org/abstract/document/10141597) | 2023 | - | One-by-One | Synchronous |
+| [Challenges in Human-Agent Communication](https://arxiv.org/abs/2412.10380) | 2024 | - | One-by-One | Synchronous |
+| [Towards Modeling Human-Agentic Collaborative Workflows: A BPMN Extension](https://arxiv.org/abs/2412.05958) | 2024/12 | [Link](https://github.com/BESSER-PEARL/agentic-bpmn) | One-by-One | Asynchronous |
+| [Into the Unknown Unknowns: Engaged Human Learning through Participation in Language Model Agent Conversations](https://arxiv.org/abs/2408.15232) | 2024/08 | [Link](https://github.com/stanford-oval/storm) | One-by-One | Synchronous |
+| [Enhancing Human-Robot Collaborative Assembly in Manufacturing Systems Using Large Language Models](https://arxiv.org/abs/2406.01915) | 2024/06 | - | One-by-One | Synchronous |
+| [A2C: A Modular Multi-stage Collaborative Decision Framework for Human-AI Teams](https://arxiv.org/abs/2401.14432) | 2024/01 | [Link](https://anonymous.4open.science/r/A2C/README.md) | One-by-One | Asynchronous |
+| [MindAgent: Emergent Gaming Interaction](https://arxiv.org/abs/2309.09971) | 2023/09 | [Link](https://github.com/mindagent/mindagent) | One-by-One | Synchronous |
+| [Ask-before-Plan: Proactive Language Agents for Real-World Planning](https://arxiv.org/abs/2401.14432) | 2024/01 | [Link](https://github.com/magicgh/Ask-before-Plan) | One-by-One | Synchronous |
+| [SOTOPIA: Interactive Evaluation for Social Intelligence in Language Agents](https://arxiv.org/abs/2310.11667) | 2023/10 | - | One-by-One | Synchronous |
+| [PaLM-E: An Embodied Multimodal Language Model](https://openreview.net/forum?id=VTpHpqM3Cf&utm_campaign=The%20Batch&utm_source=hs_email&utm_medium=email&utm_content=284568789&_hsenc=p2ANqtz-9lsSL4nXMrOGBQqGoqktY5Yno_r9-nTOARZinDcgihFNqcOFEQb_MVtHKdpgI2AC3N8SrNW5PxcD0uxl4WeKcPJgUOgw) | 2023/04 | [Link](https://palm-e.github.io) | One-by-One | Synchronous |
+| [Embodied Task Planning with Large Language Models](https://arxiv.org/abs/2307.01848) | 2023/07 | [Link](https://github.com/Gary3410/TaPA) | One-by-One | Asynchronous |
+| [MetaGPT: Meta Programming for a Multi-Agent Collaborative Framework](https://arxiv.org/abs/2308.00352) | 2023/08 | [Link](https://github.com/geekan/MetaGPT) | One-by-One | Asynchronous |
+| [DigiRL: Training In-The-Wild Device-Control Agents with Autonomous Reinforcement Learning](https://proceedings.neurips.cc/paper_files/paper/2024/hash/1704ddd0bb89f159dfe609b32c889995-Abstract-Conference.html) | 2024 | [Link](https://github.com/DigiRL-agent/digirl) | One-by-One | Asynchronous |
+| [WebLINX: Real-World Website Navigation with Multi-Turn Dialogue](https://arxiv.org/abs/2402.05930) | 2024/02 | [Link](https://github.com/McGill-NLP/WebLINX) | One-by-One | Synchronous |
+| [Autonomous Evaluation and Refinement of Digital Agents](https://arxiv.org/abs/2404.06474) | 2024/04 | [Link](https://github.com/Berkeley-NLP/Agent-Eval-Refine) | One-by-One | Asynchronous |
+| [WebCanvas: Benchmarking Web Agents in Online Environments](https://arxiv.org/pdf/2406.12373) | 2024/06 | [Link](https://huggingface.co/datasets/iMeanAI/Mind2Web-Live) | One-by-One | Synchronous |
+| [MineWorld: A Real-Time and Open-Source Interactive World Model on Minecraft](https://arxiv.org/abs/2504.08388) | 2025/04 | [Link](https://github.com/microsoft/MineWorld) | One-by-One | Synchronous |
+
+
+
 
 
 
