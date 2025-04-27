@@ -24,7 +24,8 @@ A Survey on Large Language Model based Human-Agent Systems
 ## 🔥 News
 - **2025.04**: 🎉🎉🎉 We have published a survey paper titled "[A Survey on Large Language Model based Human-Agent Systems](https://openreview.net/forum?id=OUsZtCgYxy)". Please feel free to cite or open pull requests for your awesome studies.
 
-<!-- omit in toc -->
+
+
 ## 🌟 Introduction
 
 Welcome to the repository associated with our survey paper, "A Survey on Large Language Model based Human-Agent Systems". This repository contains **resources and updates** related to our ongoing Human-Agent-System research. For a detailed introduction, please refer to [our survey paper](https://openreview.net/pdf?id=OUsZtCgYxy).
@@ -33,9 +34,32 @@ Welcome to the repository associated with our survey paper, "A Survey on Large L
 <!-- omit in toc -->
 ## 📄 Contents
 
+- [Awesome-LLM-Based-Human-Agent-Systems](#awesome-llm-based-human-agent-systems)
+  - [🌟 Introduction](#-introduction)
+  - [Environment Configuration](#environment-configuration)
+  - [Human Feedback](#human-feedback)
+  - [Interaction](#interaction)
+  - [Orchestration](#orchestration)
+  - [Communication](#communication)
+  - [Application](#application)
+  - [Datasets and Benchmarks](#datasets-and-benchmarks)
+
+
+
 ![image](./images/taxonomy.png)
 
+## Environment Configuration
 
+## Human Feedback
 
+## Interaction
+
+## Orchestration
+
+## Communication
+
+## Application
+
+## Datasets and Benchmarks
 
 
