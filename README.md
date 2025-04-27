@@ -36,13 +36,13 @@ Welcome to the repository associated with our survey paper, "A Survey on Large L
 <!-- omit in toc -->
 ## 📄 Contents
 
-- [Awesome-LLM-Based-Human-Agent-Systems](#awesome-llm-based-human-agent-systems)
+- [🚀 Awesome-LLM-Based-Human-Agent-Systems](#-awesome-llm-based-human-agent-systems)
   - [🌟 Introduction](#-introduction)
-  - [🏆 Human Feedback](#-human-feedback)
-  - [Interaction](#interaction)
-  - [Orchestration](#orchestration)
-  - [Communication](#communication)
-  - [Applications, Datasets \& Benchmarks](#applications-datasets--benchmarks)
+  - [🤝 Human Feedback](#-human-feedback)
+  - [🔄 Interaction](#-interaction)
+  - [🎛️ Orchestration](#-orchestration)
+  - [💬 Communication](#-communication)
+  - [📚 Applications, Datasets & Benchmarks](#-applications-datasets--benchmarks)
 
 
 
