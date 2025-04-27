@@ -50,21 +50,21 @@ Welcome to the repository associated with our survey paper, "A Survey on Large L
 
 ## Human Feedback
 | Title | Date | Code | Feedback Type | Feedback Subtype | Feedback Granularity | Feedback Phase |
-| :---:  | :---: | :---: | :---: | :---: | :---: | :---: |
+| ---  | :---: | :---: | :---: | :---: | :---: | :---: |
 | [Collaborative Gym: A Framework for Enabling and Evaluating Human-Agent Collaboration](https://arxiv.org/abs/2309.13007) | 2024/12 | [Link](https://github.com/SALT-NLP/collaborative-gym) | Corrective | Refinement | Segment | During Task
 | [FinArena: A Human-Agent Collaboration Framework for Financial Market Analysis and Forecasting](https://arxiv.org/abs/2503.02692) | 2025/03 | - | Guidance | Demonstration | Segment | During Task
 
 
 ## Interaction
 | Title | Date | Code | Interaction Types | Interaction Variant
-| :---:  | :---: | :---: | :---: | :---: |
+| ---   | :---: | :---: | :---: | :---: |
 | [Collaborative Gym: A Framework for Enabling and Evaluating Human-Agent Collaboration](https://arxiv.org/abs/2309.13007) | 2024/12 | [Link](https://github.com/SALT-NLP/collaborative-gym) | Collaboration | Supervision, Delegation
 | [FinArena: A Human-Agent Collaboration Framework for Financial Market Analysis and Forecasting](https://arxiv.org/abs/2503.02692) | 2025/03 | - | Collaboration | Delegation
 
 
 ## Orchestration
 | Title | Date | Code | Orchestration Strategy | Orchestration Synchronization 
-| :---:  | :---: | :---: | :---: | :---: |
+| ---  | :---: | :---: | :---: | :---: |
 | [Collaborative Gym: A Framework for Enabling and Evaluating Human-Agent Collaboration](https://arxiv.org/abs/2309.13007) | 2024/12 | [Link](https://github.com/SALT-NLP/collaborative-gym) | One-by-One | Asynchronous
 | [FinArena: A Human-Agent Collaboration Framework for Financial Market Analysis and Forecasting](https://arxiv.org/abs/2503.02692) | 2025/03 | - | One-by-One | Asynchronous
 
