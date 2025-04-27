@@ -146,7 +146,7 @@ Welcome to the repository associated with our survey paper, "A Survey on Large L
 | [A2C: A Modular Multi-stage Collaborative Decision Framework for Human-AI Teams](https://arxiv.org/abs/2401.14432) | 2024/01 | [Link](https://anonymous.4open.science/r/A2C/README.md) | Collaboration | Coordination |
 | [MindAgent: Emergent Gaming Interaction](https://arxiv.org/abs/2309.09971) | 2023/09 | [Link](https://github.com/mindagent/mindagent) | Collaboration | Coordination |
 | [Ask-before-Plan: Proactive Language Agents for Real-World Planning](https://arxiv.org/abs/2401.14432) | 2024/01 | [Link](https://github.com/magicgh/Ask-before-Plan) | Collaboration | Coordination |
-| [SOTOPIA: Interactive Evaluation for Social Intelligence in Language Agents](https://arxiv.org/abs/2310.11667) | 2023/10 | - | Collaboration/Competition/Coopetition | Coordination |
+| [SOTOPIA: Interactive Evaluation for Social Intelligence in Language Agents](https://arxiv.org/abs/2310.11667) | 2023/10 | - | Collaboration, Competition, Coopetition | Coordination |
 | [PaLM-E: An Embodied Multimodal Language Model](https://openreview.net/forum?id=VTpHpqM3Cf&utm_campaign=The%20Batch&utm_source=hs_email&utm_medium=email&utm_content=284568789&_hsenc=p2ANqtz-9lsSL4nXMrOGBQqGoqktY5Yno_r9-nTOARZinDcgihFNqcOFEQb_MVtHKdpgI2AC3N8SrNW5PxcD0uxl4WeKcPJgUOgw) | 2023/04 | [Link](https://palm-e.github.io) | Collaboration | Delegation |
 | [Embodied Task Planning with Large Language Models](https://arxiv.org/abs/2307.01848) | 2023/07 | [Link](https://github.com/Gary3410/TaPA) | Collaboration | Delegation |
 | [MetaGPT: Meta Programming for a Multi-Agent Collaborative Framework](https://arxiv.org/abs/2308.00352) | 2023/08 | [Link](https://github.com/geekan/MetaGPT) | Collaboration | Coordination |
@@ -270,9 +270,31 @@ Welcome to the repository associated with our survey paper, "A Survey on Large L
 ## 📚 Applications, Datasets & Benchmarks
  ([©️click here back to table of contents👆🏻](#contents))
 | Domain | Datasets & Benchmarks | Proposed or Used by | Data Link |
-| ---  | :---: | :---: | :---: |
-Embodied AI | TaPA | TaPA ([Wu et al., 2023](https://arxiv.org/abs/2307.01848)) | [Link](https://github.com/Gary3410/TaPA) |
-Embodied AI | EmboInteract|  InteractGen ([Sun et al., 2024b](https://openreview.net/forum?id=WDdiCIkpxC)) | -
+|---|:---:|:---:|:---:|
+| Embodied AI | TaPA | [Wu et al., 2023](https://arxiv.org/abs/2307.01848) | [Link](https://github.com/Gary3410/TaPA) |
+| Embodied AI | EmboInteract | [Sun et al., 2024b](https://openreview.net/forum?id=WDdiCIkpxC) | – |
+| Embodied AI | AssistantX | [Sun et al., 2024](https://arxiv.org/abs/2409.17655) | – |
+| Embodied AI | IGLU Multi-Turn | [Mehta et al., 2024](https://arxiv.org/abs/2304.10750) | [Link](https://github.com/microsoft/iglu-datasets) |
+| Embodied AI | PARTNR | [Chang et al., 2024](https://arxiv.org/abs/2411.00081) | [Link](https://github.com/facebookresearch/partnr-planner/tree/main/) |
+| Embodied AI | MINT | [Wang et al., 2024](https://arxiv.org/abs/2309.10691) | [Link](https://github.com/xingyaoww/mint-bench) |
+| Embodied AI | C-WAH | [Seo et al., 2025](https://arxiv.org/abs/2405.16751) | [Link](https://github.com/UMass-Embodied-AGI/CoELA) |
+| Conversational Systems | WEBLINX | [Lu et al., 2024](https://arxiv.org/abs/2402.05930) | – |
+| Conversational Systems | Ask-before-Plan | [Zhang et al., 2024](https://arxiv.org/abs/2401.14432) | [Link](https://github.com/magicgh/Ask-before-Plan) |
+| Conversational Systems | Agency Dialogue | [Sharma et al., 2024](https://arxiv.org/abs/2305.12815) | – |
+| Conversational Systems | WildSeek | [Jiang et al., 2024](https://aclanthology.org/2024.emnlp-main.554/) | [Link](https://github.com/stanford-oval/storm?tab=readme-ov-file) |
+| Conversational Systems | MINT | [Wang et al., 2024](https://arxiv.org/abs/2309.10691) | [Link](https://github.com/xingyaoww/mint-bench) |
+| Conversational Systems | HOTPOTQA | [Feng et al., 2024](https://hotpotqa.github.io/) | [Link](https://hotpotqa.github.io/) |
+| Conversational Systems | StrategyQA | [Feng et al., 2024](https://github.com/eladsegal/strategyqa) | [Link](https://github.com/eladsegal/strategyqa) |
+| Software Development | MINT | [Wang et al., 2024](https://arxiv.org/abs/2309.10691) | [Link](https://github.com/xingyaoww/mint-bench) |
+| Software Development | InterCode | [Feng et al., 2024](https://github.com/princeton-nlp/intercode) | [Link](https://github.com/princeton-nlp/intercode) |
+| Software Development | ColBench | [Zhou et al., 2025](https://arxiv.org/abs/2503.15478) | [Link](https://huggingface.co/datasets/facebook/collaborative_agent_bench) |
+| Software Development | ConvCodeWorld | [Han et al., 2025](https://arxiv.org/abs/2502.19852) | [Link](https://github.com/stovecat/convcodeworld) |
+| Software Development | ConvCodeBench | [Han et al., 2025](https://arxiv.org/abs/2502.19852) | [Link](https://github.com/stovecat/convcodeworld) |
+| Gaming | CuisineWorld | [Gong et al., 2023](https://arxiv.org/abs/2309.09971) | [Link](https://github.com/mindagent/mindagent) |
+| Gaming | MineWorld | [Guo et al., 2025](https://arxiv.org/abs/2504.08388) | [Link](https://github.com/microsoft/MineWorld) |
+| Finance | FinArena-Low-Cost | [Xu et al., 2025](https://arxiv.org/abs/2503.02692) | [Link](https://huggingface.co/datasets/Illogicaler/FinArena-low-cost-dataset) |
+
+
 
 
 
