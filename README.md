@@ -1,4 +1,4 @@
-# Awesome-LLM-Based-Human-Agent-System-Papers
+# Awesome-LLM-Based-Human-Agent-Systems
 A Survey on Large Language Model based Human-Agent Systems
 
 ⭐ Star and stay tuned! :> Our survey paper will be publicly available on ArXiv within the next three days, and comprehensive paper lists and resources will be added here very soon.
