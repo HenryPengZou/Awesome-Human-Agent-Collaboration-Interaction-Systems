@@ -43,6 +43,7 @@ Welcome to the repository associated with our survey paper, "A Survey on Large L
   - [🎛️ Orchestration](#️-orchestration)
   - [💬 Communication](#-communication)
   - [📚 Applications, Datasets \& Benchmarks](#-applications-datasets--benchmarks)
+  - [📌 Contributing](#-contributing)
   - [📝 Citation](#-citation)
 
 
@@ -90,6 +91,14 @@ Welcome to the repository associated with our survey paper, "A Survey on Large L
 Embodied AI | TaPA | TaPA ([Wu et al., 2023](https://arxiv.org/abs/2307.01848)) | [Link](https://github.com/Gary3410/TaPA) |
 Embodied AI | EmboInteract|  InteractGen ([Sun et al., 2024b](https://openreview.net/forum?id=WDdiCIkpxC)) | -
 
+
+
+<!-- ## 🔗 Other Resources   -->
+
+
+## 📌 Contributing  
+
+Contributions are welcome! If you have relevant papers, code, or insights, feel free to submit a request.  
 
 
 
