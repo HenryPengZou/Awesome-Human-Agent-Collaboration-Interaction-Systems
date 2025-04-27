@@ -171,10 +171,55 @@ Welcome to the repository associated with our survey paper, "A Survey on Large L
 
 ## 💬 Communication
  ([©️click here back to table of contents👆🏻](#contents))
-| Title | Date | Code | Communication Structure | Communication Mode 
-| ---  | :---: | :---: | :---: | :---: |
-| [Collaborative Gym: A Framework for Enabling and Evaluating Human-Agent Collaboration](https://arxiv.org/abs/2309.13007) | 2024/12 | [Link](https://github.com/SALT-NLP/collaborative-gym) | Decentralized | Conversation
-| [FinArena: A Human-Agent Collaboration Framework for Financial Market Analysis and Forecasting](https://arxiv.org/abs/2503.02692) | 2025/03 | - | Hierarchical | Conversation
+| Title | Date | Code | Communication Structure | Communication Mode |
+|---|:---:|:---:|:---:|:---:|
+| [Collaborative Gym: A Framework for Enabling and Evaluating Human-Agent Collaboration (Co-Gym)](https://arxiv.org/abs/2412.15701) | 2025/01 | [Link](https://github.com/SALT-NLP/collaborative-gym) | Decentralized | Conversation |
+| [Mutual Theory of Mind in Human-AI Collaboration: An Empirical Study with LLM-driven AI Agents in a Real-time Shared Workspace Task](https://arxiv.org/abs/2409.08811) | 2024/09 | - | Decentralized | Conversation |
+| [FinArena: A Human-Agent Collaboration Framework for Financial Market Analysis and Forecasting](https://arxiv.org/abs/2503.02692) | 2025/03 | - | Hierarchical | Conversation |
+| [Experimental Exploration: Investigating Cooperative Interaction Behavior Between Humans and Large Language Model Agents](https://arxiv.org/abs/2503.07320) | 2025/03 | - | Decentralized | Conversation |
+| [InteractGen: Enhancing Human-Involved Embodied Task Reasoning through LLM-Based Multi-Agent Collaboration](https://openreview.net/forum?id=WDdiCIkpxC) | 2024/12 | - | Decentralized | Message Pool |
+| [AI Chains: Transparent and Controllable Human-AI Interaction by Chaining Large Language Model Prompts](https://dl.acm.org/doi/abs/10.1145/3491102.3517582) | 2022/04 | - | Hierarchical | Conversation |
+| [Drive As You Speak: Enabling Human-Like Interaction With Large Language Models in Autonomous Vehicles](https://openaccess.thecvf.com/content/WACV2024W/LLVM-AD/html/Cui_Drive_As_You_Speak_Enabling_Human-Like_Interaction_With_Large_Language_WACVW_2024_paper.html) | 2024 | - | Centralized | Conversation |
+| [AgentCoord: Visually Exploring Coordination Strategy for LLM-based Multi-Agent Collaboration](https://arxiv.org/abs/2404.11943) | 2024/04 | [Link](https://github.com/AgentCoord/AgentCoord) | Decentralized | Conversation |
+| [CoWPilot: A Framework for Autonomous and Human-Agent Collaborative Web Navigation](https://arxiv.org/abs/2501.16609) | 2025/04 | [Link](https://oaishi.github.io/cowpilot.html) | Decentralized | Conversation |
+| [A Human-Computer Collaborative Tool for Training a Single Large Language Model Agent into a Network through Few Examples](https://arxiv.org/abs/2404.15974) | 2024/04 | - | Decentralized | Conversation |
+| [LLM-Powered Hierarchical Language Agent for Real-time Human-AI Coordination](https://arxiv.org/abs/2312.15224) | 2024/01 | - | Hierarchical | Conversation |
+| [SWEET-RL: Training Multi-Turn LLM Agents on Collaborative Reasoning Tasks](https://arxiv.org/abs/2503.15478) | 2025/03 | [Link](https://github.com/facebookresearch/sweet_rl) | Decentralized | Conversation |
+| [An LLM-based approach for Enabling Seamless Human-Robot Collaboration in Assembly](https://www.sciencedirect.com/science/article/pii/S000785062400012X) | 2024/04 | - | Centralized | Conversation |
+| [REVECA: Adaptive Planning and Trajectory-based Validation in Cooperative Language Agents Using Information Relevance and Relative Proximity](https://arxiv.org/abs/2405.16751) | 2024/05 | - | Hierarchical | Observation |
+| [AssistantX: An LLM-Powered Proactive Assistant in Collaborative Human-Populated Environment](https://arxiv.org/abs/2409.17655) | 2024/09 | [Link](https://github.com/AssistantX-Agent/AssistantX) | Decentralized | Message Pool |
+| [MINT: Evaluating LLMs in Multi-turn Interaction with Tools and Language Feedback](https://arxiv.org/pdf/2309.10691) | 2023/09 | [Link](https://xwang.dev/mint-bench/) | Decentralized | Conversation |
+| [Improving Grounded Language Understanding in a Collaborative Environment by Interacting with Agents through Help Feedback](https://arxiv.org/abs/2304.10750) | 2023/04 | - | Decentralized | Conversation |
+| [ConvCodeWorld: Benchmarking Conversational Code Generation in Reproducible Feedback Environments](https://arxiv.org/abs/2502.19852) | 2025/02 | [Link](https://github.com/stovecat/convcodeworld) | Decentralized | Conversation |
+| [Large Language Model-based Human-Agent Collaboration for Complex Task Solving](https://arxiv.org/abs/2402.12914) | 2024/02 | [Link](https://github.com/XueyangFeng/ReHAC) | Decentralized | Conversation |
+| [Leveraging Dual Process Theory in Language Agent Framework for Real-time Simultaneous Human-AI Collaboration](https://arxiv.org/abs/2502.11882) | 2025/02 | [Link](https://github.com/sjtu-marl/DPT-Agent) | Decentralized | Observation |
+| [LLM-Based Human-Robot Collaboration Framework for Manipulation Tasks](https://arxiv.org/abs/2308.14972) | 2023/08 | - | Decentralized | Conversation |
+| [Enhancing the LLM-Based Robot Manipulation Through Human-Robot Collaboration](https://ieeexplore.ieee.org/abstract/document/10561501) | 2024 | - | Decentralized | Conversation |
+| [PARTNR: A Benchmark for Planning and Reasoning in Embodied Multi-Agent Tasks](https://openreview.net/forum?id=T5QLRRHyL1) | 2025/01 | [Link](https://github.com/facebookresearch/partnr-planner/tree/main/) | Decentralized | Conversation |
+| [Embodied LLM Agents Learn to Cooperate in Organized Teams](https://arxiv.org/abs/2403.12482) | 2024/03 | [Link](https://github.com/tobeatraceur/Organized-LLM-Agents) | Decentralized | Conversation |
+| [Building Cooperative Embodied Agents Modularly with Large Language Models](https://arxiv.org/abs/2307.02485) | 2023/07 | - | Decentralized | Conversation |
+| [Investigating Agency of LLMs in Human-AI Collaboration Tasks](https://arxiv.org/abs/2305.12815) | 2023/05 | [Link](https://github.com/microsoft/agency-dialogue) | Decentralized | Conversation |
+| [Human-LLM Collaboration in Generative Design for Customization](https://www.sciencedirect.com/science/article/abs/pii/S0278612525000731) | 2025 | - | Decentralized | Conversation |
+| [PDFChatAnnotator: A Human-LLM Collaborative Multi-Modal Data Annotation Tool for PDF-Format Catalogs](https://dl.acm.org/doi/abs/10.1145/3640543.3645174) | 2024 | - | Decentralized | Conversation |
+| [To Help or Not to Help: LLM-based Attentive Support for Human-Robot Group Interactions](https://ieeexplore.ieee.org/abstract/document/10801517) | 2024 | [Link](https://github.com/HRI-EU/AttentiveSupport) | Decentralized | Observation |
+| [Improved Trust in Human-Robot Collaboration With ChatGPT](https://ieeexplore.ieee.org/abstract/document/10141597) | 2023 | - | Decentralized | Conversation |
+| [Challenges in Human-Agent Communication](https://arxiv.org/abs/2412.10380) | 2024 | - | Decentralized | Conversation |
+| [Towards Modeling Human-Agentic Collaborative Workflows: A BPMN Extension](https://arxiv.org/abs/2412.05958) | 2024/12 | [Link](https://github.com/BESSER-PEARL/agentic-bpmn) | Decentralized | Conversation |
+| [Into the Unknown Unknowns: Engaged Human Learning through Participation in Language Model Agent Conversations](https://arxiv.org/abs/2408.15232) | 2024/08 | [Link](https://github.com/stanford-oval/storm) | Decentralized | Conversation |
+| [Enhancing Human-Robot Collaborative Assembly in Manufacturing Systems Using Large Language Models](https://arxiv.org/abs/2406.01915) | 2024/06 | - | Decentralized | Conversation |
+| [A2C: A Modular Multi-stage Collaborative Decision Framework for Human-AI Teams](https://arxiv.org/abs/2401.14432) | 2024/01 | [Link](https://anonymous.4open.science/r/A2C/README.md) | Decentralized | Conversation |
+| [MindAgent: Emergent Gaming Interaction](https://arxiv.org/abs/2309.09971) | 2023/09 | [Link](https://github.com/mindagent/mindagent) | Centralized | Conversation |
+| [Ask-before-Plan: Proactive Language Agents for Real-World Planning](https://arxiv.org/abs/2401.14432) | 2024/01 | [Link](https://github.com/magicgh/Ask-before-Plan) | Centralized | Conversation |
+| [SOTOPIA: Interactive Evaluation for Social Intelligence in Language Agents](https://arxiv.org/abs/2310.11667) | 2023/10 | - | Centralized | Conversation |
+| [PaLM-E: An Embodied Multimodal Language Model](https://openreview.net/forum?id=VTpHpqM3Cf&utm_campaign=The%20Batch&utm_source=hs_email&utm_medium=email&utm_content=284568789&_hsenc=p2ANqtz-9lsSL4nXMrOGBQqGoqktY5Yno_r9-nTOARZinDcgihFNqcOFEQb_MVtHKdpgI2AC3N8SrNW5PxcD0uxl4WeKcPJgUOgw) | 2023/04 | [Link](https://palm-e.github.io) | Decentralized | Conversation |
+| [Embodied Task Planning with Large Language Models](https://arxiv.org/abs/2307.01848) | 2023/07 | [Link](https://github.com/Gary3410/TaPA) | Decentralized | Conversation |
+| [MetaGPT: Meta Programming for a Multi-Agent Collaborative Framework](https://arxiv.org/abs/2308.00352) | 2023/08 | [Link](https://github.com/geekan/MetaGPT) | Decentralized | Message Pool |
+| [DigiRL: Training In-The-Wild Device-Control Agents with Autonomous Reinforcement Learning](https://proceedings.neurips.cc/paper_files/paper/2024/hash/1704ddd0bb89f159dfe609b32c889995-Abstract-Conference.html) | 2024 | [Link](https://github.com/DigiRL-agent/digirl) | Decentralized | Conversation |
+| [WebLINX: Real-World Website Navigation with Multi-Turn Dialogue](https://arxiv.org/abs/2402.05930) | 2024/02 | [Link](https://github.com/McGill-NLP/WebLINX) | Decentralized | Conversation |
+| [Autonomous Evaluation and Refinement of Digital Agents](https://arxiv.org/abs/2404.06474) | 2024/04 | [Link](https://github.com/Berkeley-NLP/Agent-Eval-Refine) | Decentralized | Conversation |
+| [WebCanvas: Benchmarking Web Agents in Online Environments](https://arxiv.org/pdf/2406.12373) | 2024/06 | [Link](https://huggingface.co/datasets/iMeanAI/Mind2Web-Live) | Decentralized | Conversation |
+| [MineWorld: A Real-Time and Open-Source Interactive World Model on Minecraft](https://arxiv.org/abs/2504.08388) | 2025/04 | [Link](https://github.com/microsoft/MineWorld) | Decentralized | Conversation |
+
 
 
 ## 📚 Applications, Datasets & Benchmarks
