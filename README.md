@@ -84,8 +84,8 @@ Welcome to the repository associated with our survey paper, "A Survey on Large L
 | [Human-LLM collaboration in generative design for customization](https://www.sciencedirect.com/science/article/abs/pii/S0278612525000731) | 2025/6 | -- | Guidance, Evaluative | Demonstration, Binary Assessment, Preference Ranking | Holistic, Segment | Initial Setup, Post Task |
 | [PDFChatAnnotator: A Human-LLM Collaborative Multi-Modal Data Annotation Tool for PDF-Format Catalogs](https://dl.acm.org/doi/abs/10.1145/3640543.3645174) | 2024/4 | -- | Corrective, Guidance | Demonstration, Refinement | Segment | During Task |
 | [To Help or Not to Help: LLM-based Attentive Support for Human-Robot Group Interactions](https://ieeexplore.ieee.org/abstract/document/10801517) | 2024/10 | [Link](https://github.com/HRI-EU/AttentiveSupport) | Implicit, Guidance | Demonstration, User Action | Holistic | Initial Setup, During Task |
-| [Improved Trust in Human-Robot Collaboration With ChatGPT](https://ieeexplore.ieee.org/abstract/document/10141597) | 2023 | -- | Guidance | Demonstration, Critique | Segment | During Task |
-| [Challenges in Human-Agent Communication](https://arxiv.org/abs/2412.10380) | 2024 | -- | Guidance | Demonstration, Critique | Holistic, Segment | Initial Setup, During Task, Post Task |
+| [Improved Trust in Human-Robot Collaboration With ChatGPT](https://ieeexplore.ieee.org/abstract/document/10141597) | 2023/6 | -- | Guidance | Demonstration, Critique | Segment | During Task |
+| [Challenges in Human-Agent Communication](https://arxiv.org/abs/2412.10380) | 2024/11 | -- | Guidance | Demonstration, Critique | Holistic, Segment | Initial Setup, During Task, Post Task |
 | [Towards Modeling Human-Agentic Collaborative Workflows: A BPMN Extension](https://arxiv.org/abs/2412.05958) | 2024/12 | [Link](https://github.com/BESSER-PEARL/agentic-bpmn) | Guidance | Demonstration | Holistic | Initial Setup, During Task, Post Task |
 | [Into the Unknown Unknowns: Engaged Human Learning through Participation in Language Model Agent Conversations](https://arxiv.org/abs/2408.15232) | 2024/08 | [Link](https://github.com/stanford-oval/storm) | Guidance | Demonstration | Segment | During Task |
 | [Enhancing Human-Robot Collaborative Assembly in Manufacturing Systems Using Large Language Models](https://arxiv.org/abs/2406.01915) | 2024/06 | -- | Corrective, Guidance | Demonstration, Refinement, Critique | Segment | Initial Setup, During Task |
@@ -118,7 +118,7 @@ Welcome to the repository associated with our survey paper, "A Survey on Large L
 | [Drive As You Speak: Enabling Human-Like Interaction With Large Language Models in Autonomous Vehicles](https://openaccess.thecvf.com/content/WACV2024W/LLVM-AD/html/Cui_Drive_As_You_Speak_Enabling_Human-Like_Interaction_With_Large_Language_WACVW_2024_paper.html) | 2024 | - | Collaboration | Delegation |
 | [AgentCoord: Visually Exploring Coordination Strategy for LLM-based Multi-Agent Collaboration](https://arxiv.org/abs/2404.11943) | 2024/04 | [Link](https://github.com/AgentCoord/AgentCoord) | Collaboration | Coordination |
 | [CowPilot: A Framework for Autonomous and Human-Agent Collaborative Web Navigation](https://arxiv.org/abs/2501.16609) | 2025/04 | [Link](https://oaishi.github.io/cowpilot.html) | Collaboration | Supervision, Delegation, Coordination |
-| [EasyLAN: Human-Like Interactive Language Navigation](https://arxiv.org/abs/pan2024human) | 2024/Arxiv | - | Collaboration | Delegation, Supervision |
+| [A Human-Computer Collaborative Tool for Training a Single Large Language Model Agent into a Network through Few Examples](https://arxiv.org/abs/2404.15974) | 2024/04 | - | Collaboration | Delegation, Supervision |
 | [LLM-Powered Hierarchical Language Agent for Real-time Human-AI Coordination](https://arxiv.org/abs/2312.15224) | 2024/01 | - | Collaboration | Supervision, Delegation |
 | [SWEET-RL: Training Multi-Turn LLM Agents on Collaborative Reasoning Tasks](https://arxiv.org/abs/2503.15478) | 2025/03 | [Link](https://github.com/facebookresearch/sweet_rl) | Collaboration | Delegation |
 | [An LLM-based approach for Enabling Seamless Human-Robot Collaboration in Assembly](https://www.sciencedirect.com/science/article/pii/S000785062400012X) | 2024/04 | - | Collaboration | Delegation |
@@ -138,8 +138,8 @@ Welcome to the repository associated with our survey paper, "A Survey on Large L
 | [Human-LLM Collaboration in Generative Design for Customization](https://www.sciencedirect.com/science/article/abs/pii/S0278612525000731) | 2025/6 | - | Collaboration | Delegation |
 | [PDFChatAnnotator: A Human-LLM Collaborative Multi-Modal Data Annotation Tool for PDF-Format Catalogs](https://dl.acm.org/doi/abs/10.1145/3640543.3645174) | 2024/4 | - | Collaboration | Delegation |
 | [To Help or Not to Help: LLM-based Attentive Support for Human-Robot Group Interactions](https://ieeexplore.ieee.org/abstract/document/10801517) | 2024/10 | [Link](https://github.com/HRI-EU/AttentiveSupport) | Collaboration | Coordination |
-| [Improved Trust in Human-Robot Collaboration With ChatGPT](https://ieeexplore.ieee.org/abstract/document/10141597) | 2023 | - | Collaboration | Delegation |
-| [Challenges in Human-Agent Communication](https://arxiv.org/abs/2412.10380) | 2024 | - | Collaboration | Delegation |
+| [Improved Trust in Human-Robot Collaboration With ChatGPT](https://ieeexplore.ieee.org/abstract/document/10141597) | 2023/6 | - | Collaboration | Delegation |
+| [Challenges in Human-Agent Communication](https://arxiv.org/abs/2412.10380) | 2024/11 | - | Collaboration | Delegation |
 | [Towards Modeling Human-Agentic Collaborative Workflows: A BPMN Extension](https://arxiv.org/abs/2412.05958) | 2024/12 | [Link](https://github.com/BESSER-PEARL/agentic-bpmn) | Collaboration | Coordination |
 | [Into the Unknown Unknowns: Engaged Human Learning through Participation in Language Model Agent Conversations](https://arxiv.org/abs/2408.15232) | 2024/08 | [Link](https://github.com/stanford-oval/storm) | Collaboration | Delegation |
 | [Enhancing Human-Robot Collaborative Assembly in Manufacturing Systems Using Large Language Models](https://arxiv.org/abs/2406.01915) | 2024/06 | - | Collaboration | Delegation |
@@ -191,8 +191,8 @@ Welcome to the repository associated with our survey paper, "A Survey on Large L
 | [Human-LLM Collaboration in Generative Design for Customization](https://www.sciencedirect.com/science/article/abs/pii/S0278612525000731) | 2025/6 | - | One-by-One | Synchronous |
 | [PDFChatAnnotator: A Human-LLM Collaborative Multi-Modal Data Annotation Tool for PDF-Format Catalogs](https://dl.acm.org/doi/abs/10.1145/3640543.3645174) | 2024/4 | - | One-by-One | Synchronous |
 | [To Help or Not to Help: LLM-based Attentive Support for Human-Robot Group Interactions](https://ieeexplore.ieee.org/abstract/document/10801517) | 2024/10 | [Link](https://github.com/HRI-EU/AttentiveSupport) | One-by-One | Synchronous |
-| [Improved Trust in Human-Robot Collaboration With ChatGPT](https://ieeexplore.ieee.org/abstract/document/10141597) | 2023 | - | One-by-One | Synchronous |
-| [Challenges in Human-Agent Communication](https://arxiv.org/abs/2412.10380) | 2024 | - | One-by-One | Synchronous |
+| [Improved Trust in Human-Robot Collaboration With ChatGPT](https://ieeexplore.ieee.org/abstract/document/10141597) | 2023/6 | - | One-by-One | Synchronous |
+| [Challenges in Human-Agent Communication](https://arxiv.org/abs/2412.10380) | 2024/11 | - | One-by-One | Synchronous |
 | [Towards Modeling Human-Agentic Collaborative Workflows: A BPMN Extension](https://arxiv.org/abs/2412.05958) | 2024/12 | [Link](https://github.com/BESSER-PEARL/agentic-bpmn) | One-by-One | Asynchronous |
 | [Into the Unknown Unknowns: Engaged Human Learning through Participation in Language Model Agent Conversations](https://arxiv.org/abs/2408.15232) | 2024/08 | [Link](https://github.com/stanford-oval/storm) | One-by-One | Synchronous |
 | [Enhancing Human-Robot Collaborative Assembly in Manufacturing Systems Using Large Language Models](https://arxiv.org/abs/2406.01915) | 2024/06 | - | One-by-One | Synchronous |
@@ -247,8 +247,8 @@ Welcome to the repository associated with our survey paper, "A Survey on Large L
 | [Human-LLM Collaboration in Generative Design for Customization](https://www.sciencedirect.com/science/article/abs/pii/S0278612525000731) | 2025/6 | - | Decentralized | Conversation |
 | [PDFChatAnnotator: A Human-LLM Collaborative Multi-Modal Data Annotation Tool for PDF-Format Catalogs](https://dl.acm.org/doi/abs/10.1145/3640543.3645174) | 2024/4 | - | Decentralized | Conversation |
 | [To Help or Not to Help: LLM-based Attentive Support for Human-Robot Group Interactions](https://ieeexplore.ieee.org/abstract/document/10801517) | 2024/10 | [Link](https://github.com/HRI-EU/AttentiveSupport) | Decentralized | Observation |
-| [Improved Trust in Human-Robot Collaboration With ChatGPT](https://ieeexplore.ieee.org/abstract/document/10141597) | 2023 | - | Decentralized | Conversation |
-| [Challenges in Human-Agent Communication](https://arxiv.org/abs/2412.10380) | 2024 | - | Decentralized | Conversation |
+| [Improved Trust in Human-Robot Collaboration With ChatGPT](https://ieeexplore.ieee.org/abstract/document/10141597) | 2023/6 | - | Decentralized | Conversation |
+| [Challenges in Human-Agent Communication](https://arxiv.org/abs/2412.10380) | 2024/11 | - | Decentralized | Conversation |
 | [Towards Modeling Human-Agentic Collaborative Workflows: A BPMN Extension](https://arxiv.org/abs/2412.05958) | 2024/12 | [Link](https://github.com/BESSER-PEARL/agentic-bpmn) | Decentralized | Conversation |
 | [Into the Unknown Unknowns: Engaged Human Learning through Participation in Language Model Agent Conversations](https://arxiv.org/abs/2408.15232) | 2024/08 | [Link](https://github.com/stanford-oval/storm) | Decentralized | Conversation |
 | [Enhancing Human-Robot Collaborative Assembly in Manufacturing Systems Using Large Language Models](https://arxiv.org/abs/2406.01915) | 2024/06 | - | Decentralized | Conversation |
