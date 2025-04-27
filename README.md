@@ -36,19 +36,18 @@ Welcome to the repository associated with our survey paper, "A Survey on Large L
 
 - [Awesome-LLM-Based-Human-Agent-Systems](#awesome-llm-based-human-agent-systems)
   - [🌟 Introduction](#-introduction)
-  - [Human Feedback](#human-feedback)
+  - [🏆 Human Feedback](#-human-feedback)
   - [Interaction](#interaction)
   - [Orchestration](#orchestration)
   - [Communication](#communication)
-  - [Application](#application)
-  - [Datasets and Benchmarks](#datasets-and-benchmarks)
+  - [Applications, Datasets \& Benchmarks](#applications-datasets--benchmarks)
 
 
 
 ![image](./images/taxonomy.png)
 
 
-## Human Feedback
+## 🏆 Human Feedback
 | Title | Date | Code | Feedback Type | Feedback Subtype | Feedback Granularity | Feedback Phase |
 | ---  | :---: | :---: | :---: | :---: | :---: | :---: |
 | [Collaborative Gym: A Framework for Enabling and Evaluating Human-Agent Collaboration](https://arxiv.org/abs/2309.13007) | 2024/12 | [Link](https://github.com/SALT-NLP/collaborative-gym) | Corrective | Refinement | Segment | During Task
@@ -77,8 +76,14 @@ Welcome to the repository associated with our survey paper, "A Survey on Large L
 | [FinArena: A Human-Agent Collaboration Framework for Financial Market Analysis and Forecasting](https://arxiv.org/abs/2503.02692) | 2025/03 | - | Hierarchical | Conversation
 
 
-## Application
+## Applications, Datasets & Benchmarks
+| Domain | Datasets & Benchmarks | Proposed or Used by | Data Link |
+| ---  | :---: | :---: | :---: |
+Embodied AI | TaPA | TaPA ([Wu et al., 2023](https://arxiv.org/abs/2307.01848)) | [Link](https://github.com/Gary3410/TaPA) |
+Embodied AI | EmboInteract|  InteractGen ([Sun et al., 2024b](https://openreview.net/forum?id=WDdiCIkpxC)) | -
 
-## Datasets and Benchmarks
+
+
+
 
 
