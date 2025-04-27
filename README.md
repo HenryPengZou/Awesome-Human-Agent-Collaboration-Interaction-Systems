@@ -30,5 +30,12 @@ A Survey on Large Language Model based Human-Agent Systems
 Welcome to the repository associated with our survey paper, "A Survey on Large Language Model based Human-Agent Systems". This repository contains **resources and updates** related to our ongoing Human-Agent-System research. For a detailed introduction, please refer to [our survey paper](https://openreview.net/pdf?id=OUsZtCgYxy).
 
 
+<!-- omit in toc -->
+## 📄 Contents
+
+![image](./images/taxonomy.png)
+
+
+
 
 
