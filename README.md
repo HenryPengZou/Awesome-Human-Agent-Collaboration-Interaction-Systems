@@ -57,7 +57,7 @@ Welcome to the repository associated with our survey paper, "A Survey on Large L
 ## Orchestration
 | Title | Date | Code | Orchestration Strategy | Orchestration Synchronization 
 | --- | --- | --- | --- | --- |
-| Collaborative Gym: A Framework for Enabling and Evaluating Human-Agent Collaboration | Dec 2024 | [link](https://github.com/SALT-NLP/collaborative-gym) | One-by-One | Asynchronous
+| [Collaborative Gym: A Framework for Enabling and Evaluating Human-Agent Collaboration](https://arxiv.org/abs/2309.13007) | 2024/12 | [Link](https://github.com/SALT-NLP/collaborative-gym) | One-by-One | Asynchronous
 
 
 
