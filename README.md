@@ -31,6 +31,8 @@ A Survey on Large Language Model based Human-Agent Systems
 Welcome to the repository associated with our survey paper, "A Survey on Large Language Model based Human-Agent Systems". This repository contains **resources and updates** related to our ongoing Human-Agent-System research. For a detailed introduction, please refer to [our survey paper](https://openreview.net/pdf?id=OUsZtCgYxy).
 
 
+<div id="contents"></div>
+
 <!-- omit in toc -->
 ## 📄 Contents
 
@@ -48,6 +50,7 @@ Welcome to the repository associated with our survey paper, "A Survey on Large L
 
 
 ## 🏆 Human Feedback
+ ([©️click here back to table of contents👆🏻](#contents))
 | Title | Date | Code | Feedback Type | Feedback Subtype | Feedback Granularity | Feedback Phase |
 | ---  | :---: | :---: | :---: | :---: | :---: | :---: |
 | [Collaborative Gym: A Framework for Enabling and Evaluating Human-Agent Collaboration](https://arxiv.org/abs/2309.13007) | 2024/12 | [Link](https://github.com/SALT-NLP/collaborative-gym) | Corrective | Refinement | Segment | During Task
@@ -55,6 +58,7 @@ Welcome to the repository associated with our survey paper, "A Survey on Large L
 
 
 ## Interaction
+ ([©️click here back to table of contents👆🏻](#contents))
 | Title | Date | Code | Interaction Types | Interaction Variant
 | ---   | :---: | :---: | :---: | :---: |
 | [Collaborative Gym: A Framework for Enabling and Evaluating Human-Agent Collaboration](https://arxiv.org/abs/2309.13007) | 2024/12 | [Link](https://github.com/SALT-NLP/collaborative-gym) | Collaboration | Supervision, Delegation
@@ -62,6 +66,7 @@ Welcome to the repository associated with our survey paper, "A Survey on Large L
 
 
 ## Orchestration
+ ([©️click here back to table of contents👆🏻](#contents))
 | Title | Date | Code | Orchestration Strategy | Orchestration Synchronization 
 | ---  | :---: | :---: | :---: | :---: |
 | [Collaborative Gym: A Framework for Enabling and Evaluating Human-Agent Collaboration](https://arxiv.org/abs/2309.13007) | 2024/12 | [Link](https://github.com/SALT-NLP/collaborative-gym) | One-by-One | Asynchronous
@@ -70,6 +75,7 @@ Welcome to the repository associated with our survey paper, "A Survey on Large L
 
 
 ## Communication
+ ([©️click here back to table of contents👆🏻](#contents))
 | Title | Date | Code | Communication Structure | Communication Mode 
 | ---  | :---: | :---: | :---: | :---: |
 | [Collaborative Gym: A Framework for Enabling and Evaluating Human-Agent Collaboration](https://arxiv.org/abs/2309.13007) | 2024/12 | [Link](https://github.com/SALT-NLP/collaborative-gym) | Decentralized | Conversation
@@ -77,6 +83,7 @@ Welcome to the repository associated with our survey paper, "A Survey on Large L
 
 
 ## Applications, Datasets & Benchmarks
+ ([©️click here back to table of contents👆🏻](#contents))
 | Domain | Datasets & Benchmarks | Proposed or Used by | Data Link |
 | ---  | :---: | :---: | :---: |
 Embodied AI | TaPA | TaPA ([Wu et al., 2023](https://arxiv.org/abs/2307.01848)) | [Link](https://github.com/Gary3410/TaPA) |
@@ -87,3 +94,14 @@ Embodied AI | EmboInteract|  InteractGen ([Sun et al., 2024b](https://openreview
 
 
 
+
+<!-- omit in toc -->
+## ⭐ Star History
+
+<a href="https://www.star-history.com/#HenryPengZou/Awesome-LLM-Based-Human-Agent-System-Papers&Date">
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=HenryPengZou/Awesome-LLM-Based-Human-Agent-System-Papers&type=Date&theme=dark" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=HenryPengZou/Awesome-LLM-Based-Human-Agent-System-Papers&type=Date" />
+   <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=HenryPengZou/Awesome-LLM-Based-Human-Agent-System-Papers&type=Date" />
+ </picture>
+</a>
