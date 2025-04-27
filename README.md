@@ -71,6 +71,10 @@ Welcome to the repository associated with our survey paper, "A Survey on Large L
 
 
 ## Communication
+| Title | Date | Code | Communication Structure | Communication Mode 
+| ---  | :---: | :---: | :---: | :---: |
+| [Collaborative Gym: A Framework for Enabling and Evaluating Human-Agent Collaboration](https://arxiv.org/abs/2309.13007) | 2024/12 | [Link](https://github.com/SALT-NLP/collaborative-gym) | Decentralized | Conversation
+| [FinArena: A Human-Agent Collaboration Framework for Financial Market Analysis and Forecasting](https://arxiv.org/abs/2503.02692) | 2025/03 | - | Hierarchical | Conversation
 
 
 ## Application
