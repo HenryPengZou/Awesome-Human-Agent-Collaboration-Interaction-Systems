@@ -43,6 +43,7 @@ Welcome to the repository associated with our survey paper, "A Survey on Large L
   - [🎛️ Orchestration](#️-orchestration)
   - [💬 Communication](#-communication)
   - [📚 Applications, Datasets \& Benchmarks](#-applications-datasets--benchmarks)
+  - [📝 Citation](#-citation)
 
 
 
@@ -92,6 +93,19 @@ Embodied AI | EmboInteract|  InteractGen ([Sun et al., 2024b](https://openreview
 
 
 
+## 📝 Citation
+
+If you find our survey helpful, please consider citing our work:
+
+```
+
+@article{hassurvey2025,
+  title={A Survey on Large Language Model based Human-Agent Systems},
+  author={Henry Peng Zou, Wei-Chieh Huang, Yaozu Wu, Yankai Chen, Chunyu Miao, Hoang H Nguyen, Yue Zhou, Weizhi Zhang, Renhe Jiang Liancheng Fang, Langzhou He, Yangning Li, Yuwei Cao, Dongyuan Li, Philip S. Yu},
+  year={2025}
+}
+
+```
 
 
 
