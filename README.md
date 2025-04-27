@@ -22,7 +22,7 @@ A Survey on Large Language Model based Human-Agent Systems
 
 <!-- omit in toc -->
 ## 🔥 News
-- **2025.04**: 🎉🎉🎉 We have published a survey paper titled "[A Survey on Large Language Model based Human-Agent Systems](https://openreview.net/forum?id=OUsZtCgYxy)". Please feel free to cite or open pull requests for your awesome studies.
+- **2025.04**: 🎉🎉🎉 We have published a survey paper titled "[A Survey on Large Language Model based Human-Agent Systems](https://openreview.net/forum?id=OUsZtCgYxy)". Please feel free to cite or open requests for your awesome studies.
 
 
 
@@ -43,6 +43,7 @@ Welcome to the repository associated with our survey paper, "A Survey on Large L
   - [🎛️ Orchestration](#️-orchestration)
   - [💬 Communication](#-communication)
   - [📚 Applications, Datasets \& Benchmarks](#-applications-datasets--benchmarks)
+  - [� Other Resources](#-other-resources)
   - [📌 Contributing](#-contributing)
   - [📝 Citation](#-citation)
 
@@ -93,7 +94,7 @@ Embodied AI | EmboInteract|  InteractGen ([Sun et al., 2024b](https://openreview
 
 
 
-<!-- ## 🔗 Other Resources   -->
+## 🔗 Other Resources  
 
 
 ## 📌 Contributing  
