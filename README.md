@@ -43,7 +43,6 @@ Welcome to the repository associated with our survey paper, "A Survey on Large L
   - [🎛️ Orchestration](#️-orchestration)
   - [💬 Communication](#-communication)
   - [📚 Applications, Datasets \& Benchmarks](#-applications-datasets--benchmarks)
-  - [� Other Resources](#-other-resources)
   - [📌 Contributing](#-contributing)
   - [📝 Citation](#-citation)
 
@@ -94,7 +93,7 @@ Embodied AI | EmboInteract|  InteractGen ([Sun et al., 2024b](https://openreview
 
 
 
-## 🔗 Other Resources  
+<!-- ## 🔗 Other Resources   -->
 
 
 ## 📌 Contributing  
