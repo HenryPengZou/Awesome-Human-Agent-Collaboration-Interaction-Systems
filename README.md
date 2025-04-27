@@ -107,10 +107,55 @@ Welcome to the repository associated with our survey paper, "A Survey on Large L
 
 ## 🔄 Interaction
  ([©️click here back to table of contents👆🏻](#contents))
-| Title | Date | Code | Interaction Types | Interaction Variant
-| ---   | :---: | :---: | :---: | :---: |
-| [Collaborative Gym: A Framework for Enabling and Evaluating Human-Agent Collaboration](https://arxiv.org/abs/2309.13007) | 2024/12 | [Link](https://github.com/SALT-NLP/collaborative-gym) | Collaboration | Supervision, Delegation
-| [FinArena: A Human-Agent Collaboration Framework for Financial Market Analysis and Forecasting](https://arxiv.org/abs/2503.02692) | 2025/03 | - | Collaboration | Delegation
+| Title | Date | Code | Interaction Types | Interaction Variant |
+|---|:---:|:---:|:---:|:---:|
+| [Collaborative Gym: A Framework for Enabling and Evaluating Human-Agent Collaboration (Co-Gym)](https://arxiv.org/abs/2412.15701) | 2025/01 | [Link](https://github.com/SALT-NLP/collaborative-gym) | Collaboration | Supervision, Delegation |
+| [Mutual Theory of Mind in Human-AI Collaboration: An Empirical Study with LLM-driven AI Agents in a Real-time Shared Workspace Task](https://arxiv.org/abs/2409.08811) | 2024/09 | - | Collaboration | Coordination |
+| [FinArena: A Human-Agent Collaboration Framework for Financial Market Analysis and Forecasting](https://arxiv.org/abs/2503.02692) | 2025/03 | - | Collaboration | Delegation |
+| [Experimental Exploration: Investigating Cooperative Interaction Behavior Between Humans and Large Language Model Agents](https://arxiv.org/abs/2503.07320) | 2025/03 | - | Coopetition | - |
+| [InteractGen: Enhancing Human-Involved Embodied Task Reasoning through LLM-Based Multi-Agent Collaboration](https://openreview.net/forum?id=WDdiCIkpxC) | 2024/12 | - | Collaboration | Cooperation, Delegation, Coordination |
+| [AI Chains: Transparent and Controllable Human-AI Interaction by Chaining Large Language Model Prompts](https://dl.acm.org/doi/abs/10.1145/3491102.3517582) | 2022/04 | - | Collaboration | Delegation |
+| [Drive As You Speak: Enabling Human-Like Interaction With Large Language Models in Autonomous Vehicles](https://openaccess.thecvf.com/content/WACV2024W/LLVM-AD/html/Cui_Drive_As_You_Speak_Enabling_Human-Like_Interaction_With_Large_Language_WACVW_2024_paper.html) | 2024 | - | Collaboration | Delegation |
+| [AgentCoord: Visually Exploring Coordination Strategy for LLM-based Multi-Agent Collaboration](https://arxiv.org/abs/2404.11943) | 2024/04 | [Link](https://github.com/AgentCoord/AgentCoord) | Collaboration | Coordination |
+| [CowPilot: A Framework for Autonomous and Human-Agent Collaborative Web Navigation](https://arxiv.org/abs/2501.16609) | 2025/04 | [Link](https://oaishi.github.io/cowpilot.html) | Collaboration | Supervision, Delegation, Coordination |
+| [EasyLAN: Human-Like Interactive Language Navigation](https://arxiv.org/abs/pan2024human) | 2024/Arxiv | - | Collaboration | Delegation, Supervision |
+| [LLM-Powered Hierarchical Language Agent for Real-time Human-AI Coordination](https://arxiv.org/abs/2312.15224) | 2024/01 | - | Collaboration | Supervision, Delegation |
+| [SWEET-RL: Training Multi-Turn LLM Agents on Collaborative Reasoning Tasks](https://arxiv.org/abs/2503.15478) | 2025/03 | [Link](https://github.com/facebookresearch/sweet_rl) | Collaboration | Delegation |
+| [An LLM-based approach for Enabling Seamless Human-Robot Collaboration in Assembly](https://www.sciencedirect.com/science/article/pii/S000785062400012X) | 2024/04 | - | Collaboration | Delegation |
+| [REVECA: Adaptive Planning and Trajectory-based Validation in Cooperative Language Agents Using Information Relevance and Relative Proximity](https://arxiv.org/abs/2405.16751) | 2024/05 | - | Collaboration | Delegation |
+| [AssistantX: An LLM-Powered Proactive Assistant in Collaborative Human-Populated Environment](https://arxiv.org/abs/2409.17655) | 2024/09 | [Link](https://github.com/AssistantX-Agent/AssistantX) | Collaboration | Delegation |
+| [MINT: Evaluating LLMs in Multi-turn Interaction with Tools and Language Feedback](https://arxiv.org/pdf/2309.10691) | 2023/09 | [Link](https://xwang.dev/mint-bench/) | Collaboration | Delegation |
+| [Improving Grounded Language Understanding in a Collaborative Environment by Interacting with Agents through Help Feedback](https://arxiv.org/abs/2304.10750) | 2023/04 | - | Collaboration | Delegation |
+| [ConvCodeWorld: Benchmarking Conversational Code Generation in Reproducible Feedback Environments](https://arxiv.org/abs/2502.19852) | 2025/02 | [Link](https://github.com/stovecat/convcodeworld) | Collaboration | Supervision, Delegation |
+| [Large Language Model-based Human-Agent Collaboration for Complex Task Solving](https://arxiv.org/abs/2402.12914) | 2024/02 | [Link](https://github.com/XueyangFeng/ReHAC) | Collaboration | Delegation |
+| [Leveraging Dual Process Theory in Language Agent Framework for Real-time Simultaneous Human-AI Collaboration](https://arxiv.org/abs/2502.11882) | 2025/02 | [Link](https://github.com/sjtu-marl/DPT-Agent) | Collaboration | - |
+| [LLM-Based Human-Robot Collaboration Framework for Manipulation Tasks](https://arxiv.org/abs/2308.14972) | 2023/08 | - | Collaboration | Supervision, Delegation |
+| [Enhancing the LLM-Based Robot Manipulation Through Human-Robot Collaboration](https://ieeexplore.ieee.org/abstract/document/10561501) | 2024 | - | Collaboration | Delegation |
+| [PARTNR: A Benchmark for Planning and Reasoning in Embodied Multi-Agent Tasks](https://openreview.net/forum?id=T5QLRRHyL1) | 2025/01 | [Link](https://github.com/facebookresearch/partnr-planner/tree/main/) | Collaboration | Coordination, Cooperation |
+| [Embodied LLM Agents Learn to Cooperate in Organized Teams](https://arxiv.org/abs/2403.12482) | 2024/03 | [Link](https://github.com/tobeatraceur/Organized-LLM-Agents) | Collaboration | Delegation |
+| [Building Cooperative Embodied Agents Modularly with Large Language Models](https://arxiv.org/abs/2307.02485) | 2023/07 | - | Collaboration | Cooperation |
+| [Investigating Agency of LLMs in Human-AI Collaboration Tasks](https://arxiv.org/abs/2305.12815) | 2023/05 | [Link](https://github.com/microsoft/agency-dialogue) | Collaboration | Cooperation, Delegation |
+| [Human-LLM Collaboration in Generative Design for Customization](https://www.sciencedirect.com/science/article/abs/pii/S0278612525000731) | 2025 | - | Collaboration | Delegation |
+| [PDFChatAnnotator: A Human-LLM Collaborative Multi-Modal Data Annotation Tool for PDF-Format Catalogs](https://dl.acm.org/doi/abs/10.1145/3640543.3645174) | 2024 | - | Collaboration | Delegation |
+| [To Help or Not to Help: LLM-based Attentive Support for Human-Robot Group Interactions](https://ieeexplore.ieee.org/abstract/document/10801517) | 2024 | [Link](https://github.com/HRI-EU/AttentiveSupport) | Collaboration | Coordination |
+| [Improved Trust in Human-Robot Collaboration With ChatGPT](https://ieeexplore.ieee.org/abstract/document/10141597) | 2023 | - | Collaboration | Delegation |
+| [Challenges in Human-Agent Communication](https://arxiv.org/abs/2412.10380) | 2024 | - | Collaboration | Delegation |
+| [Towards Modeling Human-Agentic Collaborative Workflows: A BPMN Extension](https://arxiv.org/abs/2412.05958) | 2024/12 | [Link](https://github.com/BESSER-PEARL/agentic-bpmn) | Collaboration | Coordination |
+| [Into the Unknown Unknowns: Engaged Human Learning through Participation in Language Model Agent Conversations](https://arxiv.org/abs/2408.15232) | 2024/08 | [Link](https://github.com/stanford-oval/storm) | Collaboration | Delegation |
+| [Enhancing Human-Robot Collaborative Assembly in Manufacturing Systems Using Large Language Models](https://arxiv.org/abs/2406.01915) | 2024/06 | - | Collaboration | Delegation |
+| [A2C: A Modular Multi-stage Collaborative Decision Framework for Human-AI Teams](https://arxiv.org/abs/2401.14432) | 2024/01 | [Link](https://anonymous.4open.science/r/A2C/README.md) | Collaboration | Coordination |
+| [MindAgent: Emergent Gaming Interaction](https://arxiv.org/abs/2309.09971) | 2023/09 | [Link](https://github.com/mindagent/mindagent) | Collaboration | Coordination |
+| [Ask-before-Plan: Proactive Language Agents for Real-World Planning](https://arxiv.org/abs/2401.14432) | 2024/01 | [Link](https://github.com/magicgh/Ask-before-Plan) | Collaboration | Coordination |
+| [SOTOPIA: Interactive Evaluation for Social Intelligence in Language Agents](https://arxiv.org/abs/2310.11667) | 2023/10 | - | Collaboration/Competition/Coopetition | Coordination |
+| [PaLM-E: An Embodied Multimodal Language Model](https://openreview.net/forum?id=VTpHpqM3Cf&utm_campaign=The%20Batch&utm_source=hs_email&utm_medium=email&utm_content=284568789&_hsenc=p2ANqtz-9lsSL4nXMrOGBQqGoqktY5Yno_r9-nTOARZinDcgihFNqcOFEQb_MVtHKdpgI2AC3N8SrNW5PxcD0uxl4WeKcPJgUOgw) | 2023/04 | [Link](https://palm-e.github.io) | Collaboration | Delegation |
+| [Embodied Task Planning with Large Language Models](https://arxiv.org/abs/2307.01848) | 2023/07 | [Link](https://github.com/Gary3410/TaPA) | Collaboration | Delegation |
+| [MetaGPT: Meta Programming for a Multi-Agent Collaborative Framework](https://arxiv.org/abs/2308.00352) | 2023/08 | [Link](https://github.com/geekan/MetaGPT) | Collaboration | Coordination |
+| [DigiRL: Training In-The-Wild Device-Control Agents with Autonomous Reinforcement Learning](https://proceedings.neurips.cc/paper_files/paper/2024/hash/1704ddd0bb89f159dfe609b32c889995-Abstract-Conference.html) | 2024 | [Link](https://github.com/DigiRL-agent/digirl) | Collaboration | Delegation |
+| [WebLINX: Real-World Website Navigation with Multi-Turn Dialogue](https://arxiv.org/abs/2402.05930) | 2024/02 | [Link](https://github.com/McGill-NLP/WebLINX) | Collaboration | Delegation |
+| [Autonomous Evaluation and Refinement of Digital Agents](https://arxiv.org/abs/2404.06474) | 2024/04 | [Link](https://github.com/Berkeley-NLP/Agent-Eval-Refine) | Collaboration | Delegation |
+| [WebCanvas: Benchmarking Web Agents in Online Environments](https://arxiv.org/pdf/2406.12373) | 2024/06 | [Link](https://huggingface.co/datasets/iMeanAI/Mind2Web-Live) | Collaboration | Delegation |
+| [MineWorld: A Real-Time and Open-Source Interactive World Model on Minecraft](https://arxiv.org/abs/2504.08388) | 2025/04 | [Link](https://github.com/microsoft/MineWorld) | Collaboration | Delegation |
+
 
 
 ## 🎛️ Orchestration
