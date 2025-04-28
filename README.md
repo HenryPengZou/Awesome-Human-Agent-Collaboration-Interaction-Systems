@@ -12,9 +12,10 @@
 ![image](./images/overview_llm_has.jpg)
 
 
-⭐ Star and stay tuned! :> Our survey paper has already been submitted and will be publicly available on ArXiv within the next few days. We’ll also continue adding new papers and resources here.
+⭐ Star and stay tuned! :> Our survey paper has been submitted and will be publicly available on ArXiv within the next few days. We’ll also continue adding new papers and resources here.
 
-😊 Feel free to star and fork this repository to stay updated with the latest advancements, and let us know if you have any suggestions, comments, or papers you'd like us to include!
+😊 Feel free to star and fork this repository to follow the latest updates, and let us know if you have any suggestions, comments, or recommended papers!
+
 
 <!-- omit in toc -->
 ## 🔥 News
