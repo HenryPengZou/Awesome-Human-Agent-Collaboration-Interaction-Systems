@@ -12,12 +12,9 @@
 ![image](./images/overview_llm_has.jpg)
 
 
-A Survey on Large Language Model based Human-Agent Systems
+⭐ Star and stay tuned! :> Our survey paper has already been submitted and will be publicly available on ArXiv within the next few days. We’ll also continue adding more papers and resources here.
 
-⭐ Star and stay tuned! :> Our survey paper will be publicly available on ArXiv within the next three days, and comprehensive paper lists and resources will be added here very soon.
-
-😊 Feel free to let us know if you want all paper lists and resources even earlier~ 
-
+😊 Feel free to star and fork this repository to stay updated on the latest advancements and contribute to the community! If you have any suggestions, comments, or recommended papers you'd like us to include in the list or our survey, please let us know~
 
 
 <!-- omit in toc -->
