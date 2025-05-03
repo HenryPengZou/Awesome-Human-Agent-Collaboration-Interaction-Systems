@@ -1,4 +1,4 @@
-# 🚀 Awesome-LLM-Based-Human-Agent-Systems
+# 🚀 Awesome LLM Based Human-Agent Systems
 [![Paper](https://img.shields.io/badge/Paper-Human_Agent_Systems-white.svg)](https://openreview.net/pdf?id=OUsZtCgYxy) 
 [![arXiv](https://img.shields.io/badge/arXiv-Human_Agent_Systems-b31b1b.svg)](https://openreview.net/forum?id=OUsZtCgYxy) 
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)]()
@@ -300,7 +300,7 @@ Welcome to the repository associated with our survey paper, "A Survey on Large L
 
 ## 📌 Contributing  
 
-Contributions are welcome! If you have relevant papers, code, or insights, feel free to submit a request.  
+Contributions are welcome! If you have relevant papers, code, or insights, feel free to submit a request 🤗.  
 
 
 
