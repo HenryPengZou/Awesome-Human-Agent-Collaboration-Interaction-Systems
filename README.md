@@ -1,9 +1,9 @@
 # 🚀 Awesome LLM-Based Human-Agent Systems
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![Paper](https://img.shields.io/badge/Paper-Human_Agent_Systems-white.svg)](https://openreview.net/pdf?id=OUsZtCgYxy) 
 [![arXiv](https://img.shields.io/badge/arXiv-Human_Agent_Systems-b31b1b.svg)](https://openreview.net/forum?id=OUsZtCgYxy) 
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)]()
 [![Contribution Welcome](https://img.shields.io/badge/Contributions-welcome-blue)]()
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 
 
