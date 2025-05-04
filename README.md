@@ -1,4 +1,4 @@
-# 🚀 Awesome LLM-Based Human-Agent Systems
+# Awesome LLM-Based Human-Agent Systems
 [![Github](https://img.shields.io/badge/Github-Repo-c8a4bf.svg)](https://github.com/HenryPengZou/Awesome-LLM-Based-Human-Agent-System-Papers) 
 [![Paper](https://img.shields.io/badge/Paper-Human_Agent_Systems-white.svg)](https://openreview.net/pdf?id=OUsZtCgYxy) 
 [![arXiv](https://img.shields.io/badge/arXiv-Human_Agent_Systems-b31b1b.svg)](https://openreview.net/forum?id=OUsZtCgYxy) 
@@ -15,7 +15,7 @@
 ![image](./images/overview_llm_has.jpg)
 
 
-⭐ Star and stay tuned! :> Our survey paper has been submitted and will be publicly available on ArXiv within the next few days. We’ll also continue adding new papers and resources here.
+⭐ [Star](https://github.com/HenryPengZou/Awesome-LLM-Based-Human-Agent-System-Papers) and stay tuned! :> Our survey paper has been submitted and will be publicly available on ArXiv within the next few days. We’ll also continue adding new papers and resources here.
 
 😊 Feel free to star and fork [this repository](https://github.com/HenryPengZou/Awesome-LLM-Based-Human-Agent-System-Papers) to follow the latest updates, and let us know if you have any suggestions, comments, or recommended papers!
 
