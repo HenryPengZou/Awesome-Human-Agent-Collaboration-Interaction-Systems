@@ -328,6 +328,4 @@ If you find our survey helpful, please consider citing our work:
 <!-- omit in toc -->
 ## ⭐ Star History
 
-## Star History
-
 [![Star History Chart](https://api.star-history.com/svg?repos=HenryPengZou/Awesome-LLM-Based-Human-Agent-System-Papers&type=Date)](https://www.star-history.com/#HenryPengZou/Awesome-LLM-Based-Human-Agent-System-Papers&Date)
