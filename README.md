@@ -36,7 +36,7 @@ Welcome to the repository associated with our survey paper, "A Survey on Large L
 <!-- omit in toc -->
 ## 📄 Contents
 
-- [🚀 Awesome-LLM-Based-Human-Agent-Systems](#-awesome-llm-based-human-agent-systems)
+- [🚀 Awesome LLM-Based Human-Agent Systems](#-awesome-llm-based-human-agent-systems)
   - [🌟 Introduction](#-introduction)
   - [🤝 Human Feedback](#-human-feedback)
   - [🔄 Interaction](#-interaction)
@@ -53,6 +53,8 @@ Welcome to the repository associated with our survey paper, "A Survey on Large L
 
 ## 🤝 Human Feedback
  ([©️click here back to table of contents👆🏻](#contents))
+
+
 | Title | Date | Code | Feedback Type | Feedback Subtype | Feedback Granularity | Feedback Phase |
 | ---  | :---: | :---: | :---: | :---: | :---: | :---: |
 | [Collaborative Gym: A Framework for Enabling and Evaluating Human-Agent Collaboration (Co-Gym)](https://arxiv.org/abs/2412.15701) | 2025/01 | [Link](https://github.com/SALT-NLP/collaborative-gym) | Corrective | Refinement | Segment | During Task |
@@ -107,6 +109,8 @@ Welcome to the repository associated with our survey paper, "A Survey on Large L
 
 ## 🔄 Interaction
  ([©️click here back to table of contents👆🏻](#contents))
+
+
 | Title | Date | Code | Interaction Types | Interaction Variant |
 |---|:---:|:---:|:---:|:---:|
 | [Collaborative Gym: A Framework for Enabling and Evaluating Human-Agent Collaboration (Co-Gym)](https://arxiv.org/abs/2412.15701) | 2025/01 | [Link](https://github.com/SALT-NLP/collaborative-gym) | Collaboration | Supervision, Delegation |
@@ -160,6 +164,8 @@ Welcome to the repository associated with our survey paper, "A Survey on Large L
 
 ## 🎛️ Orchestration
  ([©️click here back to table of contents👆🏻](#contents))
+
+
 | Title | Date | Code | Orchestration Strategy | Orchestration Synchronization |
 |---|:---:|:---:|:---:|:---:|
 | [Collaborative Gym: A Framework for Enabling and Evaluating Human-Agent Collaboration (Co-Gym)](https://arxiv.org/abs/2412.15701) | 2025/01 | [Link](https://github.com/SALT-NLP/collaborative-gym) | One-by-One | Asynchronous |
@@ -216,6 +222,8 @@ Welcome to the repository associated with our survey paper, "A Survey on Large L
 
 ## 💬 Communication
  ([©️click here back to table of contents👆🏻](#contents))
+
+
 | Title | Date | Code | Communication Structure | Communication Mode |
 |---|:---:|:---:|:---:|:---:|
 | [Collaborative Gym: A Framework for Enabling and Evaluating Human-Agent Collaboration (Co-Gym)](https://arxiv.org/abs/2412.15701) | 2025/01 | [Link](https://github.com/SALT-NLP/collaborative-gym) | Decentralized | Conversation |
@@ -269,6 +277,8 @@ Welcome to the repository associated with our survey paper, "A Survey on Large L
 
 ## 📚 Applications, Datasets & Benchmarks
  ([©️click here back to table of contents👆🏻](#contents))
+
+ 
 | Domain | Datasets & Benchmarks | Proposed or Used by | Data Link |
 |---|:---:|:---:|:---:|
 | Embodied AI | TaPA | [Wu et al., 2023](https://arxiv.org/abs/2307.01848) | [Link](https://github.com/Gary3410/TaPA) |
