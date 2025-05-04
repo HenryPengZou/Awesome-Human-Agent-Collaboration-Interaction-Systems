@@ -301,13 +301,15 @@ Welcome to the repository associated with our survey paper, "A Survey on Large L
 <!-- ## 🔗 Other Resources   -->
 
 
-## 📌 Contributing  
+## 📌 Contributing
+ ([©️click here back to table of contents👆🏻](#contents))
 
 Contributions are welcome! If you have relevant papers, code, or insights, feel free to submit a request 🤗.  
 
 
 
 ## 📝 Citation
+ ([©️click here back to table of contents👆🏻](#contents))
 
 If you find our survey helpful, please consider citing our work:
 
