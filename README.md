@@ -1,7 +1,7 @@
 # Awesome LLM-Based Human-Agent Systems
 [![Github](https://img.shields.io/badge/Github-Repo-c8a4bf.svg)](https://github.com/HenryPengZou/Awesome-LLM-Based-Human-Agent-System-Papers) 
-[![Paper](https://img.shields.io/badge/Paper-Human_Agent_Systems-white.svg)](https://openreview.net/pdf?id=OUsZtCgYxy) 
-[![arXiv](https://img.shields.io/badge/arXiv-Human_Agent_Systems-b31b1b.svg)](https://openreview.net/forum?id=OUsZtCgYxy) 
+[![Paper](https://img.shields.io/badge/Paper-Human_Agent_Systems-white.svg)](https://arxiv.org/pdf/2505.00753)
+[![arXiv](https://img.shields.io/badge/arXiv-Human_Agent_Systems-b31b1b.svg)](https://arxiv.org/abs/2505.00753)
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)]()
 [![Contribution Welcome](https://img.shields.io/badge/Contributions-welcome-blue)]()
 
@@ -15,20 +15,20 @@
 ![image](./images/overview_llm_has.jpg)
 
 
-⭐ [Star](https://github.com/HenryPengZou/Awesome-LLM-Based-Human-Agent-System-Papers) and stay tuned! :> Our survey paper has been submitted and will be publicly available on ArXiv within the next few days. We’ll also continue adding new papers and resources here.
+⭐ [Star](https://github.com/HenryPengZou/Awesome-LLM-Based-Human-Agent-System-Papers) and stay tuned! :> Our survey paper has finally been published on arXiv after about 1.5 weeks on hold. We’ll keep adding new papers and resources here.
 
 😊 Feel free to star and fork [this repository](https://github.com/HenryPengZou/Awesome-LLM-Based-Human-Agent-System-Papers) to follow the latest updates, and let us know if you have any suggestions, comments, or recommended papers!
 
 
 <!-- omit in toc -->
 ## 🔥 News
-- **2025.04**: 🎉🎉🎉 We have published a survey paper titled "[A Survey on Large Language Model based Human-Agent Systems](https://openreview.net/forum?id=OUsZtCgYxy)". Please feel free to cite or open requests for your awesome studies.
+- **2025.04**: 🎉🎉🎉 We have published a survey paper titled "[A Survey on Large Language Model based Human-Agent Systems](https://arxiv.org/abs/2505.00753)". Please feel free to cite or open requests for your awesome studies.
 
 
 
 ## 🌟 Introduction
 
-Welcome to the repository associated with our survey paper, "A Survey on Large Language Model based Human-Agent Systems". This repository contains **resources and updates** related to our ongoing Human-Agent-System research. For a detailed introduction, please refer to [our survey paper](https://openreview.net/pdf?id=OUsZtCgYxy).
+Welcome to the repository associated with our survey paper, "A Survey on Large Language Model based Human-Agent Systems". This repository contains **resources and updates** related to our ongoing Human-Agent-System research. For a detailed introduction, please refer to [our survey paper](https://arxiv.org/abs/2505.00753).
 
 
 <div id="contents"></div>
@@ -321,13 +321,14 @@ Contributions are welcome! If you have relevant papers, code, or insights, feel 
 ## 📝 Citation
  ([©️click here back to table of contents👆🏻](#contents))
 
-If you find our survey helpful, please consider citing our work:
+If you find our survey helpful, please consider citing our work 💕:
 
 ```
 
 @article{hassurvey2025,
   title={A Survey on Large Language Model based Human-Agent Systems},
-  author={Henry Peng Zou, Wei-Chieh Huang, Yaozu Wu, Yankai Chen, Chunyu Miao, Hoang H Nguyen, Yue Zhou, Weizhi Zhang, Renhe Jiang Liancheng Fang, Langzhou He, Yangning Li, Yuwei Cao, Dongyuan Li, Philip S. Yu},
+  author={Henry Peng Zou, Wei-Chieh Huang, Yaozu Wu, Yankai Chen, Chunyu Miao, Hoang Nguyen, Yue Zhou, Weizhi Zhang, Liancheng Fang, Langzhou He, Yangning Li, Yuwei Cao, Dongyuan Li, Renhe Jiang, Philip S. Yu},
+  journal={arXiv preprint arXiv:2505.00753},
   year={2025}
 }
 
