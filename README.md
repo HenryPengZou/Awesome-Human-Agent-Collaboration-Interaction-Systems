@@ -15,7 +15,7 @@
 ![image](./images/overview_llm_has.jpg)
 
 
-⭐ [Star](https://github.com/HenryPengZou/Awesome-LLM-Based-Human-Agent-System-Papers) and stay tuned! :> Our survey paper has finally been published on arXiv after about 1.5 weeks on hold. We’ll keep adding new papers and resources here.
+⭐ Star and stay tuned! :> Our survey paper has finally been published on arXiv after about 1.5 weeks on hold. We’ll keep adding new papers and resources here.
 
 😊 Feel free to star and fork [this repository](https://github.com/HenryPengZou/Awesome-LLM-Based-Human-Agent-System-Papers) to follow the latest updates, and let us know if you have any suggestions, comments, or recommended papers!
 
