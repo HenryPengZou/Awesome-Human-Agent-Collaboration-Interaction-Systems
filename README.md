@@ -324,14 +324,15 @@ Contributions are welcome! If you have relevant papers, code, or insights, feel 
 If you find our survey helpful, please consider citing our work 💕:
 
 ```
-
-@article{hassurvey2025,
-  title={A Survey on Large Language Model based Human-Agent Systems},
-  author={Henry Peng Zou, Wei-Chieh Huang, Yaozu Wu, Yankai Chen, Chunyu Miao, Hoang Nguyen, Yue Zhou, Weizhi Zhang, Liancheng Fang, Langzhou He, Yangning Li, Yuwei Cao, Dongyuan Li, Renhe Jiang, Philip S. Yu},
-  journal={arXiv preprint arXiv:2505.00753},
-  year={2025}
+@misc{zou2025surveylargelanguagemodel,
+      title={A Survey on Large Language Model based Human-Agent Systems}, 
+      author={Henry Peng Zou and Wei-Chieh Huang and Yaozu Wu and Yankai Chen and Chunyu Miao and Hoang Nguyen and Yue Zhou and Weizhi Zhang and Liancheng Fang and Langzhou He and Yangning Li and Yuwei Cao and Dongyuan Li and Renhe Jiang and Philip S. Yu},
+      year={2025},
+      eprint={2505.00753},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2505.00753}, 
 }
-
 ```
 
 
