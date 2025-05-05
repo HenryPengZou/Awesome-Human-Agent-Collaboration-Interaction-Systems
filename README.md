@@ -42,7 +42,7 @@ Welcome to the repository associated with our survey paper, "A Survey on Large L
   - [🔄 Interaction](#-interaction)
   - [🎛️ Orchestration](#️-orchestration)
   - [💬 Communication](#-communication)
-  - [📚 Applications, Datasets \& Benchmarks](#-applications-datasets--benchmarks)
+  - [📚 Applications, Datasets & Benchmarks](#-applications-datasets--benchmarks)
   - [📌 Contributing](#-contributing)
   - [📝 Citation](#-citation)
 
