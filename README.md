@@ -1,5 +1,5 @@
 # Awesome LLM-Based Human-Agent Systems
-[![Code](https://img.shields.io/badge/Code-Repo-c8a4bf.svg)](https://github.com/HenryPengZou/Awesome-LLM-Based-Human-Agent-System-Papers) 
+[![Code](https://img.shields.io/badge/Code-GithubRepo-c8a4bf.svg)](https://github.com/HenryPengZou/Awesome-LLM-Based-Human-Agent-System-Papers) 
 [![Paper](https://img.shields.io/badge/Paper-Human_Agent_Systems-white.svg)](https://arxiv.org/pdf/2505.00753)
 [![arXiv](https://img.shields.io/badge/arXiv-Human_Agent_Systems-b31b1b.svg)](https://arxiv.org/abs/2505.00753)
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)]()
