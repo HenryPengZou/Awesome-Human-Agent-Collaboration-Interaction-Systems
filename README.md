@@ -55,7 +55,7 @@ Welcome to the repository associated with our survey paper, "A Survey on Large L
  ([©️click here back to table of contents👆🏻](#contents))
 
 
-| Title &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  | Date | Code | Feedback Type | Feedback Subtype | Feedback Granularity | Feedback Phase |
+| Title | Date | Code | Feedback Type | Feedback Subtype | Feedback Granularity | Feedback Phase |
 | ---  | :---: | :---: | :---: | :---: | :---: | :---: |
 | [Collaborative Gym: A Framework for Enabling and Evaluating Human-Agent Collaboration (Co-Gym)](https://arxiv.org/abs/2412.15701) | 2025/01 | [Link](https://github.com/SALT-NLP/collaborative-gym) | Corrective | Refinement | Segment | During Task |
 | [Mutual Theory of Mind in Human-AI Collaboration: An Empirical Study with LLM-driven AI Agents in a Real-time Shared Workspace Task](https://arxiv.org/abs/2409.08811) | 2024/09 | -- | Corrective | Refinement | Segment | During Task |
