@@ -1,2 +1,0 @@
-User-agent: *
-Sitemap: https://HenryPengZou.github.io/Awesome-LLM-Based-Human-Agent-System-Papers/sitemap.xml
