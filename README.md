@@ -90,8 +90,7 @@ Welcome to the repository associated with our survey paper, "A Survey on Large L
 [Investigating Agency of LLMs in Human-AI Collaboration Tasks](https://arxiv.org/abs/2305.12815) | [2023/05](https://github.com/microsoft/agency-dialogue) [![GitHub stars](https://img.shields.io/github/stars/microsoft/agency-dialogue?style=social)](https://github.com/microsoft/agency-dialogue) | Guidance | Demonstration, Critique | Segment | During Task |
 [Improving grounded language understanding in a collaborative environment by interacting with agents through help feedback](https://arxiv.org/abs/2304.10750) | [2023/04](https://arxiv.org/abs/2304.10750) | Corrective, Guidance | Demonstration, Refinement | Holistic | During Task |
 [PaLM-E: An Embodied Multimodal Language Model](https://openreview.net/forum?id=VTpHpqM3Cf&utm_campaign=The%20Batch&utm_source=hs_email&utm_medium=email&utm_content=284568789&_hsenc=p2ANqtz-9lsSL4nXMrOGBQqGoqktY5Yno_r9-nTOARZinDcgihFNqcOFEQb_MVtHKdpgI2AC3N8SrNW5PxcD0uxl4WeKcPJgUOgw) | [2023/04](https://palm-e.github.io) | Guidance, Implicit | Demonstration, User Action | Segment | During Task |
-[Ai chains: Transparent and controllable human-ai interaction by chaining large language model prompts]
-(https://dl.acm.org/doi/abs/10.1145/3491102.3517582) | [2022/04](https://dl.acm.org/doi/abs/10.1145/3491102.3517582) | Corrective | Refinement | Segment | During Task |
+[Ai chains: Transparent and controllable human-ai interaction by chaining large language model prompts](https://dl.acm.org/doi/abs/10.1145/3491102.3517582) | [2022/04](https://dl.acm.org/doi/abs/10.1145/3491102.3517582) | Corrective | Refinement | Segment | During Task |
 
 ## 🔄 Interaction
  ([©️click here back to table of contents👆🏻](#contents))
