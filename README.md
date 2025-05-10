@@ -36,13 +36,13 @@ Welcome to the repository associated with our survey paper, "A Survey on Large L
 <!-- omit in toc -->
 ## 📄 Contents
 
-- [🚀 Awesome LLM-Based Human-Agent Systems](#-awesome-llm-based-human-agent-systems)
+- [Awesome LLM-Based Human-Agent Systems](#awesome-llm-based-human-agent-systems)
   - [🌟 Introduction](#-introduction)
   - [🤝 Human Feedback](#-human-feedback)
   - [🔄 Interaction](#-interaction)
   - [🎛️ Orchestration](#️-orchestration)
   - [💬 Communication](#-communication)
-  - [📚 Applications, Datasets & Benchmarks](#-applications-datasets--benchmarks)
+  - [📚 Applications, Datasets \& Benchmarks](#-applications-datasets--benchmarks)
   - [📌 Contributing](#-contributing)
   - [📝 Citation](#-citation)
 
@@ -54,6 +54,10 @@ Welcome to the repository associated with our survey paper, "A Survey on Large L
 ## 🤝 Human Feedback
  ([©️click here back to table of contents👆🏻](#contents))
 
+Refining... (Show #stars, sort by date, add more papers)
+| Title | Date & Code | Feedback Type | Feedback Subtype | Feedback Granularity | Feedback Phase |
+| ---  | :---: | :---: | :---: | :---: | :---: |
+| [Collaborative Gym: A Framework for Enabling and Evaluating Human-Agent Collaboration (Co-Gym)](https://arxiv.org/abs/2412.15701) | 2025/01 [![GitHub stars](https://img.shields.io/github/stars/SALT-NLP/collaborative-gym?style=social)](https://github.com/SALT-NLP/collaborative-gym) | Corrective | Refinement | Segment | During Task |
 
 | Title | Date | Code | Feedback Type | Feedback Subtype | Feedback Granularity | Feedback Phase |
 | ---  | :---: | :---: | :---: | :---: | :---: | :---: |
@@ -159,6 +163,7 @@ Welcome to the repository associated with our survey paper, "A Survey on Large L
 | [Autonomous Evaluation and Refinement of Digital Agents](https://arxiv.org/abs/2404.06474) | 2024/04 | [Link](https://github.com/Berkeley-NLP/Agent-Eval-Refine) | Collaboration | Delegation |
 | [WebCanvas: Benchmarking Web Agents in Online Environments](https://arxiv.org/pdf/2406.12373) | 2024/06 | [Link](https://huggingface.co/datasets/iMeanAI/Mind2Web-Live) | Collaboration | Delegation |
 | [MineWorld: A Real-Time and Open-Source Interactive World Model on Minecraft](https://arxiv.org/abs/2504.08388) | 2025/04 | [Link](https://github.com/microsoft/MineWorld) | Collaboration | Delegation |
+
 
 
 
