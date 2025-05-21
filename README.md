@@ -15,13 +15,15 @@
 ![image](./images/overview_llm_has.jpg)
 
 
-⭐ Star and stay tuned! :> Our survey paper has finally been published on arXiv after about 1.5 weeks on hold. We’ll keep adding new papers and resources here. We have a major update this Saturday/Sunday to include more papers and further refine our survey.
+⭐ Star and stay tuned! :> Our survey paper has finally been published on arXiv after about 1.5 weeks on hold. We’ll keep adding new papers and resources here.
 
-😊 Feel free to star and fork [this repository](https://github.com/HenryPengZou/Awesome-LLM-Based-Human-Agent-System-Papers) to follow the latest updates, and let us know if you have any suggestions, comments, or recommended papers!
+😊 Feel free to star and fork [this repository](https://github.com/HenryPengZou/Awesome-LLM-Based-Human-Agent-System-Papers) to follow the latest updates, and let us know if you have any suggestions, comments, or recommended papers and resources!
 
 
 <!-- omit in toc -->
 ## 🔥 News
+- **2025.04**: 🌲🌲🌲 The [second version of our survey](https://arxiv.org/abs/2505.00753) has been released! We have added more papers and refined many sections~
+
 - **2025.04**: 🎉🎉🎉 We have published a survey paper titled "[A Survey on Large Language Model based Human-Agent Systems](https://arxiv.org/abs/2505.00753)". Please feel free to cite or open requests for your awesome studies.
 
 
