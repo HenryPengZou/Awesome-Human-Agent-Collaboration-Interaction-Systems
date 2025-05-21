@@ -22,7 +22,7 @@
 
 <!-- omit in toc -->
 ## 🔥 News
-- **2025.04**: 🌲🌲🌲 The [second version of our survey](https://arxiv.org/abs/2505.00753) has been released! We have added more papers and refined many sections~
+- **2025.05**: 🌲🌲🌲 The [second version of our survey](https://arxiv.org/abs/2505.00753) has been released! We have added more papers and refined many sections~
 
 - **2025.04**: 🎉🎉🎉 We have published a survey paper titled "[A Survey on Large Language Model based Human-Agent Systems](https://arxiv.org/abs/2505.00753)". Please feel free to cite or open requests for your awesome studies.
 
