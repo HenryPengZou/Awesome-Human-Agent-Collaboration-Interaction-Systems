@@ -27,7 +27,9 @@ Feel free to ⭐ and fork [this repository](https://github.com/HenryPengZou/Awes
 
 ## 🌟 Introduction
 
-Welcome to the repository associated with our survey paper, "A Survey on Large Language Model based Human-Agent Systems". This repository contains **resources and updates** related to our ongoing Human-Agent-System research. For a detailed introduction, please refer to [our survey paper](https://arxiv.org/abs/2505.00753).
+Welcome to the repository associated with our survey paper, "A Survey on Large Language Model based Human-Agent Systems". This repository contains **resources and updates** related to our ongoing Human-Agent-System research. 
+
+We define LLM-based Human-Agent Systems (LLM-HAS) as interactive frameworks where humans actively provide additional information, feedback, or control during interaction with LLM-powered agents to enhance system performance, reliability, and safety. For a detailed introduction, please refer to [our survey paper](https://arxiv.org/abs/2505.00753).
 
 
 <div id="contents"></div>
