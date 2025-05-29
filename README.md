@@ -14,7 +14,7 @@
 
 ![image](./images/overview_llm_has.jpg)
 
-😊 Feel free to star and fork [this repository](https://github.com/HenryPengZou/Awesome-LLM-Based-Human-Agent-System-Papers) to follow the latest updates, and let us know if you have any suggestions, comments, or recommended papers and resources! We’ll keep adding new papers and resources here.
+Feel free to ⭐ and fork [this repository](https://github.com/HenryPengZou/Awesome-LLM-Based-Human-Agent-System-Papers) to follow the latest updates. Let us know if you have any suggestions, recommended papers and resources! We’ll keep adding new papers and resources here.
 
 
 <!-- omit in toc -->
