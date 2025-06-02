@@ -17,12 +17,6 @@
 Feel free to ⭐ and fork [this repository](https://github.com/HenryPengZou/Awesome-LLM-Based-Human-Agent-System-Papers) to follow the latest updates. Let us know if you have any suggestions, recommended papers and resources! We’ll keep adding new papers and resources here.
 
 
-<!-- omit in toc -->
-## 🔥 News
-- **2025.05**: 🌲🌲🌲 The [second version of our survey](https://arxiv.org/abs/2505.00753) has been released! We have added more papers and refined the whole paper~
-
-- **2025.04**: 🎉🎉🎉 We have published a survey paper titled "[A Survey on Large Language Model based Human-Agent Systems](https://arxiv.org/abs/2505.00753)". Please feel free to cite or open requests for your awesome studies.
-
 
 
 ## 🌟 Introduction
