@@ -21,7 +21,7 @@ Feel free to ⭐ and fork [this repository](https://github.com/HenryPengZou/Awes
 
 ## 🌟 Introduction
 
-LLM-based Human-Agent Systems (LLM-HAS) are interactive frameworks where humans actively provide additional information, feedback, or control during interaction with LLM-powered agents to enhance system performance, reliability, and safety. For a detailed introduction, please refer to [our survey paper](https://arxiv.org/abs/2505.00753). Our goal with this project is to build an exhaustive collection of awesome resources relevant to LLM-HAS encompassing papers, repositories, and more
+LLM-based Human-Agent Systems (LLM-HAS) are interactive frameworks where humans actively provide additional information, feedback, or control during interaction with LLM-powered agents to enhance system performance, reliability, and safety. For a detailed introduction, please refer to our survey paper: [A Survey on Large Language Model based Human-Agent Systems](https://arxiv.org/abs/2505.00753). Our goal with this project is to build an exhaustive collection of awesome resources relevant to LLM-HAS encompassing papers, repositories, and more
 
 <div id="contents"></div>
 
