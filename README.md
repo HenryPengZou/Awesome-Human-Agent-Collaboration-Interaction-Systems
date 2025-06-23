@@ -53,6 +53,8 @@ LLM-based Human-Agent Systems (LLM-HAS) are interactive frameworks where humans 
 
 - [2 Feb 2025] **CollabLLM: From Passive Responders to Active Collaborators**, [**ICML 2025**](https://openreview.net/forum?id=DmH4HHVb3y), [![GitHub stars](https://img.shields.io/github/stars/Wuyxin/collabllm?style=social)](https://github.com/Wuyxin/collabllm)
 
+- [20 Dec 2024] **Collaborative Gym: A Framework for Enabling and Evaluating Human-Agent Collaboration**, [**arXiv**](https://arxiv.org/abs/2412.15701), [![GitHub stars](https://img.shields.io/github/stars/SALT-NLP/collaborative-gym?style=social)](https://github.com/SALT-NLP/collaborative-gym)
+
 - [16 Oct 2024] **Proactive Agent: Shifting LLM Agents from Reactive Responses to Active Assistance**, [**ICLR 2025**](https://openreview.net/forum?id=sRIU6k2TcU), [![GitHub stars](https://img.shields.io/github/stars/thunlp/ProactiveAgent?style=social)](https://github.com/thunlp/ProactiveAgent)
 
 
