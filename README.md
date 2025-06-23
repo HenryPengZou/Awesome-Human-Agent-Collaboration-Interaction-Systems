@@ -110,7 +110,8 @@ adding more papers, stay tuned...
 
  ### 💰 Finance
 
- | Finance | FinArena-Low-Cost | [Xu et al., 2025](https://arxiv.org/abs/2503.02692) | [Link](https://huggingface.co/datasets/Illogicaler/FinArena-low-cost-dataset) |
+  - [4 Mar 2025] **FinArena: A Human-Agent Collaboration Framework for Financial Market Analysis and Forecasting**, [arXiv](https://arxiv.org/abs/2503.02692), [Data Link](https://huggingface.co/datasets/Illogicaler/FinArena-low-cost-dataset)
+
 
  ### 🏥 Health, Healthcare, Medicine
   - [13 Apr 2025] **EmoAgent: Assessing and Safeguarding Human-AI Interaction for Mental Health Safety**, [arXiv](https://arxiv.org/abs/2504.09689), [![GitHub stars](https://img.shields.io/github/stars/xingyaoww/mint-bench?style=social)](https://github.com/xingyaoww/mint-bench)
