@@ -77,34 +77,42 @@ LLM-based Human-Agent Systems (LLM-HAS) are interactive frameworks where humans 
  - [19 Sep 2023] **MINT: Evaluating LLMs in Multi-turn Interaction with Tools and Language Feedback**, [ICLR 2024](https://arxiv.org/abs/2309.10691), [![GitHub stars](https://img.shields.io/github/stars/xingyaoww/mint-bench?style=social)](https://github.com/xingyaoww/mint-bench)
 
 
+ - [26 Jun 2023] **InterCode: Standardizing and Benchmarking Interactive Coding with Execution Feedback**, [NeurIPS 2023](https://arxiv.org/abs/2306.14898), [![GitHub stars](https://img.shields.io/github/stars/princeton-nlp/intercode?style=social)](https://github.com/princeton-nlp/intercode)
+
+
+
+| Software Development | ColBench | [Zhou et al., 2025](https://arxiv.org/abs/2503.15478) | [Link](https://huggingface.co/datasets/facebook/collaborative_agent_bench) |
+| Software Development | ConvCodeWorld | [Han et al., 2025](https://arxiv.org/abs/2502.19852) | [Link](https://github.com/stovecat/convcodeworld) |
+| Software Development | ConvCodeBench | [Han et al., 2025](https://arxiv.org/abs/2502.19852) | [Link](https://github.com/stovecat/convcodeworld) |
+
+
+
  ### 💬 Conversation System
- - [19 Sep 2023] **MINT: Evaluating LLMs in Multi-turn Interaction with Tools and Language Feedback**, [ICLR 2024](https://arxiv.org/abs/2309.10691), [![GitHub stars](https://img.shields.io/github/stars/xingyaoww/mint-bench?style=social)](https://github.com/xingyaoww/mint-bench)
-
- ### 🎮 Gaming
-
- ### 💰 Finance
-
- ### 🏥 Health, Healthcare, Medicine
+ - [19 Sep 2023] **MINT: Evaluating LLMs in Multi-turn Interaction with Tools and Language Feedback**, [ICLR 2024](https://arxiv.org/abs/2309.10691), [![GitHub stars](https://img.shields.io/github/stars/1akaman/EmoAgent?style=social)](https://github.com/1akaman/EmoAgent)
 
 
-
-
-| Domain | Datasets & Benchmarks | Proposed or Used by | Data Link |
-|---|:---:|:---:|:---:|
 | Conversational Systems | WEBLINX | [Lu et al., 2024](https://arxiv.org/abs/2402.05930) | – |
 | Conversational Systems | Ask-before-Plan | [Zhang et al., 2024](https://arxiv.org/abs/2401.14432) | [Link](https://github.com/magicgh/Ask-before-Plan) |
 | Conversational Systems | Agency Dialogue | [Sharma et al., 2024](https://arxiv.org/abs/2305.12815) | – |
 | Conversational Systems | WildSeek | [Jiang et al., 2024](https://aclanthology.org/2024.emnlp-main.554/) | [Link](https://github.com/stanford-oval/storm?tab=readme-ov-file) |
 | Conversational Systems | HOTPOTQA | [Feng et al., 2024](https://hotpotqa.github.io/) | [Link](https://hotpotqa.github.io/) |
 | Conversational Systems | StrategyQA | [Feng et al., 2024](https://github.com/eladsegal/strategyqa) | [Link](https://github.com/eladsegal/strategyqa) |
-| Software Development | InterCode | [Feng et al., 2024](https://github.com/princeton-nlp/intercode) | [Link](https://github.com/princeton-nlp/intercode) |
-| Software Development | ColBench | [Zhou et al., 2025](https://arxiv.org/abs/2503.15478) | [Link](https://huggingface.co/datasets/facebook/collaborative_agent_bench) |
-| Software Development | ConvCodeWorld | [Han et al., 2025](https://arxiv.org/abs/2502.19852) | [Link](https://github.com/stovecat/convcodeworld) |
-| Software Development | ConvCodeBench | [Han et al., 2025](https://arxiv.org/abs/2502.19852) | [Link](https://github.com/stovecat/convcodeworld) |
+
+
+
+ ### 🎮 Gaming
 | Gaming | CuisineWorld | [Gong et al., 2023](https://arxiv.org/abs/2309.09971) | [Link](https://github.com/mindagent/mindagent) |
 | Gaming | MineWorld | [Guo et al., 2025](https://arxiv.org/abs/2504.08388) | [Link](https://github.com/microsoft/MineWorld) |
-| Finance | FinArena-Low-Cost | [Xu et al., 2025](https://arxiv.org/abs/2503.02692) | [Link](https://huggingface.co/datasets/Illogicaler/FinArena-low-cost-dataset) |
-| Health | EmoAgent| [Qiu et al., 2025](https://arxiv.org/abs/2504.09689) | [Link](https://github.com/1akaman/EmoAgent) |
+
+
+
+ ### 💰 Finance
+
+ | Finance | FinArena-Low-Cost | [Xu et al., 2025](https://arxiv.org/abs/2503.02692) | [Link](https://huggingface.co/datasets/Illogicaler/FinArena-low-cost-dataset) |
+
+ ### 🏥 Health, Healthcare, Medicine
+  - [13 Apr 2025] **EmoAgent: Assessing and Safeguarding Human-AI Interaction for Mental Health Safety**, [arXiv](https://arxiv.org/abs/2504.09689), [![GitHub stars](https://img.shields.io/github/stars/xingyaoww/mint-bench?style=social)](https://github.com/xingyaoww/mint-bench)
+
 
 
 
