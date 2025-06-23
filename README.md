@@ -131,8 +131,7 @@ adding more papers, stay tuned...
 
 - [13 Apr 2025] **EmoAgent: Assessing and Safeguarding Human-AI Interaction for Mental Health Safety**, [**arXiv**](https://arxiv.org/abs/2504.09689), [![GitHub stars](https://img.shields.io/github/stars/xingyaoww/mint-bench?style=social)](https://github.com/xingyaoww/mint-bench)
 
-
-
+<br>
 
 ## 🔍 Taxonomy
  ([©️click here back to table of contents👆🏻](#contents))
