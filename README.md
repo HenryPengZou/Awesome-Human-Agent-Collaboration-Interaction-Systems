@@ -1,9 +1,9 @@
 # Awesome LLM-Based Human-Agent Systems
-[![Code](https://img.shields.io/badge/Code-GithubRepo-c8a4bf.svg)](https://github.com/HenryPengZou/Awesome-LLM-Based-Human-Agent-System-Papers) 
-[![Paper](https://img.shields.io/badge/Paper-Human_Agent_Systems-white.svg)](https://arxiv.org/pdf/2505.00753)
+![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)
 [![arXiv](https://img.shields.io/badge/arXiv-Human_Agent_Systems-b31b1b.svg)](https://arxiv.org/abs/2505.00753)
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)]()
 [![Contribution Welcome](https://img.shields.io/badge/Contributions-welcome-blue)]()
+[![Code](https://img.shields.io/badge/Code-GithubRepo-c8a4bf.svg)](https://github.com/HenryPengZou/Awesome-LLM-Based-Human-Agent-System-Papers) 
 
 
 
@@ -14,14 +14,11 @@
 
 ![image](./images/overview_llm_has.jpg)
 
-Feel free to ⭐ and fork [this repository](https://github.com/HenryPengZou/Awesome-LLM-Based-Human-Agent-System-Papers) to follow the latest updates. Let us know if you have any suggestions, recommended papers and resources! We’ll keep adding new papers and resources here.
-
-
-
 
 ## 🌟 Introduction
 
-LLM-based Human-Agent Systems (LLM-HAS) are interactive frameworks where humans actively provide additional information, feedback, or control during interaction with LLM-powered agents to enhance system performance, reliability, and safety. For a detailed introduction, please refer to our survey paper: [A Survey on Large Language Model based Human-Agent Systems](https://arxiv.org/abs/2505.00753). Our goal with this project is to build an exhaustive collection of awesome resources relevant to LLM-HAS encompassing papers, repositories, and more
+LLM-based Human-Agent Systems (LLM-HAS) are interactive frameworks where humans actively provide additional information, feedback, or control during interaction with LLM-powered agents to enhance system performance, reliability, and safety. For a detailed introduction, please refer to our survey paper: [A Survey on Large Language Model based Human-Agent Systems](https://arxiv.org/abs/2505.00753). Our goal with this project is to build an exhaustive collection of awesome resources relevant to LLM-HAS encompassing papers, repositories, and more.
+
 
 <div id="contents"></div>
 
@@ -42,6 +39,12 @@ LLM-based Human-Agent Systems (LLM-HAS) are interactive frameworks where humans 
 
 ![image](./images/taxonomy.png)
 
+
+
+## 📚 Applications, Datasets & Benchmarks
+ ([©️click here back to table of contents👆🏻](#contents))
+
+ 
 
 ## 🤝 Human Feedback
  ([©️click here back to table of contents👆🏻](#contents))
