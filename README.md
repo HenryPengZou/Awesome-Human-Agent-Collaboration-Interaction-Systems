@@ -19,7 +19,9 @@
 
 Recent advances in large language models (LLMs) have sparked growing interest in building fully autonomous agents. However, fully autonomous LLM-based agents still face significant challenges, including limited reliability due to hallucinations, difficulty in handling complex tasks, and substantial safety and ethical risks, all of which limit their feasibility and trustworthiness in real-world applications.
 
-**LLM-based Human-Agent Systems (LLM-HAS)** are interactive frameworks where humans actively provide additional information, feedback, or control during interaction with LLM-powered agents to enhance system performance, reliability, and safety. These human-agent collaboration systems enable humans and LLM-based agents to collaborate effectively by leveraging their complementary strengths. For a detailed introduction, please refer to our survey paper: [A Survey on Large Language Model based Human-Agent Systems](https://arxiv.org/abs/2505.00753). Our goal with this project is to build an exhaustive collection of awesome resources relevant to LLM-HAS encompassing papers, repositories, and more to foster further research and innovation in this rapidly evolving interdisciplinary field of human-ai collaboration.
+**LLM-based Human-Agent Systems (LLM-HAS)** are interactive frameworks where humans actively provide additional information, feedback, or control during interaction with LLM-powered agents to enhance system performance, reliability, and safety. These human-agent collaboration systems enable humans and LLM-based agents to collaborate effectively by leveraging their complementary strengths. For a detailed introduction, please refer to our survey paper: [A Survey on Large Language Model based Human-Agent Systems](https://arxiv.org/abs/2505.00753). 
+
+Our goal with this project is to build an exhaustive collection of awesome resources relevant to LLM-HAS encompassing papers, repositories, and more to foster further research and innovation in this rapidly evolving interdisciplinary field of human-ai collaboration.
 
 
 <div id="contents"></div>
