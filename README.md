@@ -69,7 +69,9 @@ adding more papers, stay tuned...
 ## 📚 Applications, Datasets & Benchmarks
  ([©️click here back to table of contents👆🏻](#contents))
 
+
 ### 🤖 Emobodied AI, Robotics
+
 - [31 Oct 2024] **PARTNR: A Benchmark for Planning and Reasoning in Embodied Multi-agent Tasks**, [**arxiv-FAIR Meta**](https://arxiv.org/abs/2411.00081), [![GitHub stars](https://img.shields.io/github/stars/facebookresearch/partnr-planner?style=social)](https://github.com/facebookresearch/partnr-planner)
 
 
@@ -82,11 +84,13 @@ adding more papers, stay tuned...
 - [21 Apr 2023] **Improving Grounded Language Understanding in a Collaborative Environment by Interacting with Agents Through Help Feedback**, [**EACL 2024 Findings**](https://arxiv.org/abs/2304.10750), [![GitHub stars](https://img.shields.io/github/stars/microsoft/iglu-datasets?style=social)](https://github.com/microsoft/iglu-datasets)
 
 
+
 ### 💻 Software Engineering, Coding
- - [19 Sep 2023] **MINT: Evaluating LLMs in Multi-turn Interaction with Tools and Language Feedback**, [**ICLR 2024**](https://arxiv.org/abs/2309.10691), [![GitHub stars](https://img.shields.io/github/stars/xingyaoww/mint-bench?style=social)](https://github.com/xingyaoww/mint-bench)
+
+- [19 Sep 2023] **MINT: Evaluating LLMs in Multi-turn Interaction with Tools and Language Feedback**, [**ICLR 2024**](https://arxiv.org/abs/2309.10691), [![GitHub stars](https://img.shields.io/github/stars/xingyaoww/mint-bench?style=social)](https://github.com/xingyaoww/mint-bench)
 
 
- - [26 Jun 2023] **InterCode: Standardizing and Benchmarking Interactive Coding with Execution Feedback**, [**NeurIPS 2023**](https://arxiv.org/abs/2306.14898), [![GitHub stars](https://img.shields.io/github/stars/princeton-nlp/intercode?style=social)](https://github.com/princeton-nlp/intercode)
+- [26 Jun 2023] **InterCode: Standardizing and Benchmarking Interactive Coding with Execution Feedback**, [**NeurIPS 2023**](https://arxiv.org/abs/2306.14898), [![GitHub stars](https://img.shields.io/github/stars/princeton-nlp/intercode?style=social)](https://github.com/princeton-nlp/intercode)
 
 
 
@@ -97,7 +101,8 @@ adding more papers, stay tuned...
 
 
 ### 💬 Conversation System
- - [19 Sep 2023] **MINT: Evaluating LLMs in Multi-turn Interaction with Tools and Language Feedback**, [**ICLR 2024**](https://arxiv.org/abs/2309.10691), [![GitHub stars](https://img.shields.io/github/stars/1akaman/EmoAgent?style=social)](https://github.com/1akaman/EmoAgent)
+
+- [19 Sep 2023] **MINT: Evaluating LLMs in Multi-turn Interaction with Tools and Language Feedback**, [**ICLR 2024**](https://arxiv.org/abs/2309.10691), [![GitHub stars](https://img.shields.io/github/stars/1akaman/EmoAgent?style=social)](https://github.com/1akaman/EmoAgent)
 
 
 | Conversational Systems | WEBLINX | [Lu et al., 2024](https://arxiv.org/abs/2402.05930) | – |
@@ -110,18 +115,21 @@ adding more papers, stay tuned...
 
 
 ### 🎮 Gaming
-| Gaming | CuisineWorld | [Gong et al., 2023](https://arxiv.org/abs/2309.09971) | [Link](https://github.com/mindagent/mindagent) |
-| Gaming | MineWorld | [Guo et al., 2025](https://arxiv.org/abs/2504.08388) | [Link](https://github.com/microsoft/MineWorld) |
 
+- [18 Sep 2023] **MindAgent: Emergent Gaming Interaction**, [**ICLR 2024**](https://arxiv.org/abs/2309.09971), [![GitHub stars](https://img.shields.io/github/stars/mindagent/mindagent?style=social)](https://github.com/mindagent/mindagent)
+
+
+- [11 Apr 2025] **MineWorld: a Real-Time and Open-Source Interactive World Model on Minecraft**, [**arXiv**](https://arxiv.org/abs/2504.08388), [![GitHub stars](https://img.shields.io/github/stars/microsoft/MineWorldt?style=social)](https://github.com/microsoft/MineWorld)
 
 
 ### 💰 Finance
 
-  - [4 Mar 2025] **FinArena: A Human-Agent Collaboration Framework for Financial Market Analysis and Forecasting**, [arXiv](https://arxiv.org/abs/2503.02692), [Data Link](https://huggingface.co/datasets/Illogicaler/FinArena-low-cost-dataset)
+- [4 Mar 2025] **FinArena: A Human-Agent Collaboration Framework for Financial Market Analysis and Forecasting**, [**arXiv**](https://arxiv.org/abs/2503.02692), [Data Link](https://huggingface.co/datasets/Illogicaler/FinArena-low-cost-dataset)
 
 
 ### 🏥 Healthcare, Medicine
-  - [13 Apr 2025] **EmoAgent: Assessing and Safeguarding Human-AI Interaction for Mental Health Safety**, [arXiv](https://arxiv.org/abs/2504.09689), [![GitHub stars](https://img.shields.io/github/stars/xingyaoww/mint-bench?style=social)](https://github.com/xingyaoww/mint-bench)
+
+- [13 Apr 2025] **EmoAgent: Assessing and Safeguarding Human-AI Interaction for Mental Health Safety**, [**arXiv**](https://arxiv.org/abs/2504.09689), [![GitHub stars](https://img.shields.io/github/stars/xingyaoww/mint-bench?style=social)](https://github.com/xingyaoww/mint-bench)
 
 
 
@@ -214,24 +222,24 @@ adding more papers, stay tuned...
 | [Autonomous Evaluation and Refinement of Digital Agents](https://arxiv.org/abs/2404.06474) | [2024/04](https://github.com/Berkeley-NLP/Agent-Eval-Refine) [![GitHub stars](https://img.shields.io/github/stars/Berkeley-NLP/Agent-Eval-Refine?style=social)](https://github.com/Berkeley-NLP/Agent-Eval-Refine) | Collaboration | Delegation |
 | [PDFChatAnnotator: A Human-LLM Collaborative Multi-Modal Data Annotation Tool for PDF-Format Catalogs](https://dl.acm.org/doi/abs/10.1145/3640543.3645174) | [2024/04](https://dl.acm.org/doi/abs/10.1145/3640543.3645174) | Collaboration | Delegation |
 | [Embodied LLM Agents Learn to Cooperate in Organized Teams](https://arxiv.org/abs/2403.12482) | [2024/03](https://github.com/tobeatraceur/Organized-LLM-Agents) [![GitHub stars](https://img.shields.io/github/stars/tobeatraceur/Organized-LLM-Agents?style=social)](https://github.com/tobeatraceur/Organized-LLM-Agents) | Collaboration | Delegation |
-| [Large Language Model-based Human-Agent Collaboration for Complex Task Solving](https://arxiv.org/abs/2402.12914) | [2024/02](https://github.com/XueyangFeng/ReHAC) [![GitHub stars](https://img.shields.io/github/stars/XueyangFeng/ReHAC?style=social)](https://github.com/XueyangFeng/ReHAC) | Implicit  | Human Control  | Segment | During Task |
-| [WebLINX: Real-World Website Navigation with Multi-Turn Dialogue](https://arxiv.org/abs/2402.05930) | [2024/02](https://github.com/McGill-NLP/WebLINX) [![GitHub stars](https://img.shields.io/github/stars/McGill-NLP/WebLINX?style=social)](https://github.com/McGill-NLP/WebLINX) | Guidance  | Demonstration | Holistic, Segment | During Task |
-| [Ask-before-Plan: Proactive Language Agents for Real-World Planning](https://arxiv.org/abs/2401.14432) | [2024/01](https://github.com/magicgh/Ask-before-Plan) [![GitHub stars](https://img.shields.io/github/stars/magicgh/Ask-before-Plan?style=social)](https://github.com/magicgh/Ask-before-Plan) | Guidance | Demonstration, Critique | Segment | During Task |
-| [A2C: A Modular Multi-stage Collaborative Decision Framework for Human-AI Teams](https://arxiv.org/abs/2401.14432) | [2024/01](https://anonymous.4open.science/r/A2C/README.md) | Guidance, Implicit, Corrective, Evaluative | Refinement, Binary Assessment, Critique, Human Control | Holistic, Segment | During Task |
-| [LLM-Powered Hierarchical Language Agent for Real-time Human-AI Coordination](https://arxiv.org/abs/2312.15224) | [2023/12](https://github.com/HosnLS/Hierarchical-Language-Agent) [![GitHub stars](https://img.shields.io/github/stars/HosnLS/Hierarchical-Language-Agent?style=social)](https://github.com/HosnLS/Hierarchical-Language-Agent) | Guidance, Corrective | Demonstration, Refinement | Segment | During Task |
-| [SOTOPIA: Interactive Evaluation for Social Intelligence in Language Agents](https://arxiv.org/abs/2310.11667) | [2023/10](https://arxiv.org/abs/2310.11667) | Evaluative, Implicit | Scaler Rating, User Action | Holistic, Segment | During Task, Post Task |
-| [MindAgent: Emergent Gaming Interaction](https://arxiv.org/abs/2309.09971) | [2023/09](https://github.com/mindagent/mindagent) [![GitHub stars](https://img.shields.io/github/stars/mindagent/mindagent?style=social)](https://github.com/mindagent/mindagent) | Corrective | Refinement | Segment | During Task |
-| [Drive As You Speak: Enabling Human-Like Interaction With Large Language Models in Autonomous Vehicles](https://arxiv.org/abs/2309.10228) | [2023/09](https://arxiv.org/abs/2309.10228) | Guidance | Demonstration | Segment | During Task |
-| [MINT: Evaluating LLMs in Multi-turn Interaction with Tools and Language Feedback](https://arxiv.org/pdf/2309.10691) | [2023/09](https://xwang.dev/mint-bench/) | Evaluative | Binary Assessment | Holistic | During Task |
-| [MetaGPT: Meta Programming for A Multi-Agent Collaborative Framework](https://arxiv.org/abs/2308.00352) | [2023/08](https://github.com/geekan/MetaGPT) [![GitHub stars](https://img.shields.io/github/stars/geekan/MetaGPT?style=social)](https://github.com/geekan/MetaGPT) | Evaluative, Guidance | Binary Assessment | Holistic | Initial Setup, Post Task |
-| [LLM-Based Human-Robot Collaboration Framework for Manipulation Tasks](https://arxiv.org/abs/2308.14972) | [2023/08](https://arxiv.org/abs/2308.14972) | Corrective, Guidance | Demonstration, Refinement | Segment | During Task |
-| [Embodied Task Planning with Large Language Models](https://arxiv.org/abs/2307.01848) | [2023/07](https://github.com/Gary3410/TaPA) [![GitHub stars](https://img.shields.io/github/stars/Gary3410/TaPA?style=social)](https://github.com/Gary3410/TaPA) | Guidance, Evaluative | Demonstration, Binary Assessment | Holistic, Segment | Initial Setup, Post Task |
-| [Building cooperative embodied agents modularly with large language models](https://arxiv.org/abs/2307.02485) | [2023/07](https://arxiv.org/abs/2307.02485) | Evaluative | Scaler Rating | Holistic | Post Task |
-| [Improved Trust in Human-Robot Collaboration With ChatGPT](https://ieeexplore.ieee.org/abstract/document/10141597) | [2023/06](https://ieeexplore.ieee.org/abstract/document/10141597) | Guidance | Demonstration, Critique | Segment | During Task |
-| [Investigating Agency of LLMs in Human-AI Collaboration Tasks](https://arxiv.org/abs/2305.12815) | [2023/05](https://arxiv.org/abs/2305.12815) | Guidance | Demonstration, Critique | Segment | During Task |
-| [Improving grounded language understanding in a collaborative environment by interacting with agents through help feedback](https://arxiv.org/abs/2304.10750) | [2023/04](https://arxiv.org/abs/2304.10750) | Corrective, Guidance | Demonstration, Refinement | Holistic | During Task |
-| [PaLM-E: An Embodied Multimodal Language Model](https://openreview.net/forum?id=VTpHpqM3Cf&utm_campaign=The%20Batch&utm_source=hs_email&utm_medium=email&utm_content=284568789&_hsenc=p2ANqtz-9lsSL4nXMrOGBQqGoqktY5Yno_r9-nTOARZinDcgihFNqcOFEQb_MVtHKdpgI2AC3N8SrNW5PxcD0uxl4WeKcPJgUOgw) | [2023/03](https://palm-e.github.io) | Guidance, Implicit | Demonstration, User Action | Segment | During Task |
-| [Ai chains: Transparent and controllable human-ai interaction by chaining large language model prompts](https://dl.acm.org/doi/abs/10.1145/3491102.3517582) | [2021/10](https://dl.acm.org/doi/abs/10.1145/3491102.3517582) | Corrective | Refinement | Segment | During Task |
+| [Large Language Model-based Human-Agent Collaboration for Complex Task Solving](https://arxiv.org/abs/2402.12914) | [2024/02](https://github.com/XueyangFeng/ReHAC) [![GitHub stars](https://img.shields.io/github/stars/XueyangFeng/ReHAC?style=social)](https://github.com/XueyangFeng/ReHAC) | Collaboration | Delegation |
+| [WebLINX: Real-World Website Navigation with Multi-Turn Dialogue](https://arxiv.org/abs/2402.05930) | [2024/02](https://github.com/McGill-NLP/WebLINX) [![GitHub stars](https://img.shields.io/github/stars/McGill-NLP/WebLINX?style=social)](https://github.com/McGill-NLP/WebLINX) | Collaboration | Delegation |
+| [A2C: A Modular Multi-stage Collaborative Decision Framework for Human-AI Teams](https://arxiv.org/abs/2401.14432) | [2024/01](https://anonymous.4open.science/r/A2C/README.md) | Collaboration | Coordination |
+| [Ask-before-Plan: Proactive Language Agents for Real-World Planning](https://arxiv.org/abs/2401.14432) | [2024/01](https://github.com/magicgh/Ask-before-Plan) [![GitHub stars](https://img.shields.io/github/stars/magicgh/Ask-before-Plan?style=social)](https://github.com/magicgh/Ask-before-Plan) | Collaboration | Coordination |
+| [LLM-Powered Hierarchical Language Agent for Real-time Human-AI Coordination](https://arxiv.org/abs/2312.15224) | [2023/12](https://github.com/HosnLS/Hierarchical-Language-Agent) [![GitHub stars](https://img.shields.io/github/stars/HosnLS/Hierarchical-Language-Agent?style=social)](https://github.com/HosnLS/Hierarchical-Language-Agent) | Collaboration | Supervision, Delegation |
+| [SOTOPIA: Interactive Evaluation for Social Intelligence in Language Agents](https://arxiv.org/abs/2310.11667) | [2023/10](https://arxiv.org/abs/2310.11667) | Collaboration, Competition, Coopetition | Coordination |
+| [Drive As You Speak: Enabling Human-Like Interaction With Large Language Models in Autonomous Vehicles](https://arxiv.org/abs/2309.10228) | [2023/09](https://arxiv.org/abs/2309.10228) | Collaboration | Delegation |
+| [MINT: Evaluating LLMs in Multi-turn Interaction with Tools and Language Feedback](https://arxiv.org/pdf/2309.10691) | [2023/09](https://xwang.dev/mint-bench/) | Collaboration | Delegation |
+| [MindAgent: Emergent Gaming Interaction](https://arxiv.org/abs/2309.09971) | [2023/09](https://github.com/mindagent/mindagent) [![GitHub stars](https://img.shields.io/github/stars/mindagent/mindagent?style=social)](https://github.com/mindagent/mindagent) | Collaboration | Coordination |
+| [LLM-Based Human-Robot Collaboration Framework for Manipulation Tasks](https://arxiv.org/abs/2308.14972) | [2023/08](https://arxiv.org/abs/2308.14972) | Collaboration | Supervision, Delegation |
+| [MetaGPT: Meta Programming for a Multi-Agent Collaborative Framework](https://arxiv.org/abs/2308.00352) | [2023/08](https://github.com/geekan/MetaGPT) [![GitHub stars](https://img.shields.io/github/stars/geekan/MetaGPT?style=social)](https://github.com/geekan/MetaGPT) | Collaboration | Coordination |
+| [Building Cooperative Embodied Agents Modularly with Large Language Models](https://arxiv.org/abs/2307.02485) | [2023/07](https://arxiv.org/abs/2307.02485) | Collaboration | Cooperation |
+| [Embodied Task Planning with Large Language Models](https://arxiv.org/abs/2307.01848) | [2023/07](https://github.com/Gary3410/TaPA) [![GitHub stars](https://img.shields.io/github/stars/Gary3410/TaPA?style=social)](https://github.com/Gary3410/TaPA) | Collaboration | Delegation |
+| [Improved Trust in Human-Robot Collaboration With ChatGPT](https://ieeexplore.ieee.org/abstract/document/10141597) | [2023/06](https://ieeexplore.ieee.org/abstract/document/10141597) | Collaboration | Delegation |
+| [Investigating Agency of LLMs in Human-AI Collaboration Tasks](https://arxiv.org/abs/2305.12815) | [2023/05](https://arxiv.org/abs/2305.12815) | Collaboration | Cooperation, Delegation |
+| [Improving Grounded Language Understanding in a Collaborative Environment by Interacting with Agents through Help Feedback](https://arxiv.org/abs/2304.10750) | [2023/04](https://arxiv.org/abs/2304.10750) | Collaboration | Delegation |
+| [PaLM-E: An Embodied Multimodal Language Model](https://openreview.net/forum?id=VTpHpqM3Cf&utm_campaign=The%20Batch&utm_source=hs_email&utm_medium=email&utm_content=284568789&_hsenc=p2ANqtz-9lsSL4nXMrOGBQqGoqktY5Yno_r9-nTOARZinDcgihFNqcOFEQb_MVtHKdpgI2AC3N8SrNW5PxcD0uxl4WeKcPJgUOgw) | [2023/03](https://palm-e.github.io) | Collaboration | Delegation |
+| [AI Chains: Transparent and Controllable Human-AI Interaction by Chaining Large Language Model Prompts](https://dl.acm.org/doi/abs/10.1145/3491102.3517582) | [2021/10](https://dl.acm.org/doi/abs/10.1145/3491102.3517582) | Collaboration | Delegation |
 
 
 
