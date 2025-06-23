@@ -52,7 +52,9 @@ LLM-based Human-Agent Systems (LLM-HAS) are interactive frameworks where humans 
 - [[23 Apr 2024]](https://arxiv.org/abs/2404.15059) **Aligning LLM Agents by Learning Latent Preference from User Edits**, [**NeurIPS 2024**](https://openreview.net/forum?id=DlYNGpCuwa), [![GitHub stars](https://img.shields.io/github/stars/gao-g/prelude?style=social)](https://github.com/gao-g/prelude)
 
 
-- [[23 Apr 2024]](https://arxiv.org/abs/2404.15059) **Aligning LLM Agents by Learning Latent Preference from User Edits**, arXiv, [![GitHub stars](https://img.shields.io/github/stars/gao-g/prelude?style=social)](https://github.com/gao-g/prelude)
+- [[23 Apr 2024]](https://arxiv.org/abs/2404.15059) **Aligning LLM Agents by Learning Latent Preference from User Edits**, [arXiv]((https://arxiv.org/abs/2404.15059) ), [![GitHub stars](https://img.shields.io/github/stars/gao-g/prelude?style=social)](https://github.com/gao-g/prelude)
+
+
 
 
 ## 📚 Applications, Datasets & Benchmarks
