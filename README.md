@@ -28,10 +28,6 @@ LLM-based Human-Agent Systems (LLM-HAS) are interactive frameworks where humans 
 - [Awesome LLM-Based Human-Agent Systems](#awesome-llm-based-human-agent-systems)
   - [🌟 Introduction](#-introduction)
   - [📄 Latest Research Papers](#-latest-research-papers)
-    - [🤖 Embodied AI, Robotics](#-embodied-ai-robotics)
-    - [💻 Software Development](#-software-development)
-    - [🎮 Gaming](#-gaming)
-    - [💰 Finance](#-finance)
   - [🤝 Human Feedback](#-human-feedback)
   - [🔄 Interaction](#-interaction)
   - [🎛️ Orchestration](#️-orchestration)
@@ -49,15 +45,8 @@ LLM-based Human-Agent Systems (LLM-HAS) are interactive frameworks where humans 
 ## 📄 Latest Research Papers
  ([©️click here back to table of contents👆🏻](#contents))
 
-### 🤖 Embodied AI, Robotics
 
-### 💻 Software Development 
-
-### 🎮 Gaming
-
-### 💰 Finance
-
-
+[CollabLLM: From Passive Responders to Active Collaborators](https://arxiv.org/abs/2502.00640), ICML 2025, arXiv 2 Feb 2025, [![GitHub stars](https://img.shields.io/github/stars/Wuyxin/collabllm?style=social)](https://github.com/Wuyxin/collabllm)
 
 
 
