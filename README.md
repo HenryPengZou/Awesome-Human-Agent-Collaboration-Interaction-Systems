@@ -44,14 +44,15 @@ LLM-based Human-Agent Systems (LLM-HAS) are interactive frameworks where humans 
  ([©️click here back to table of contents👆🏻](#contents))
 
 
-- **CollabLLM: From Passive Responders to Active Collaborators**, [**ICML 2025**](https://openreview.net/forum?id=DmH4HHVb3y), [arXiv 2 Feb 2025](https://arxiv.org/abs/2502.00640), [![GitHub stars](https://img.shields.io/github/stars/Wuyxin/collabllm?style=social)](https://github.com/Wuyxin/collabllm)
+- [[2 Feb 2025]](https://arxiv.org/abs/2502.00640) **CollabLLM: From Passive Responders to Active Collaborators**, [**ICML 2025**](https://openreview.net/forum?id=DmH4HHVb3y), [![GitHub stars](https://img.shields.io/github/stars/Wuyxin/collabllm?style=social)](https://github.com/Wuyxin/collabllm)
 
-- **Proactive Agent: Shifting LLM Agents from Reactive Responses to Active Assistance**, [**ICLR 2025**](https://openreview.net/forum?id=sRIU6k2TcU), [arXiv 16 Oct 2024](https://arxiv.org/abs/2410.08772), [![GitHub stars](https://img.shields.io/github/stars/thunlp/ProactiveAgent?style=social)](https://github.com/thunlp/ProactiveAgent)
-
-
-- **Aligning LLM Agents by Learning Latent Preference from User Edits**, [**NeurIPS 2024**](https://openreview.net/forum?id=DlYNGpCuwa), [arXiv 23 Apr 2024](https://arxiv.org/abs/2404.15059), [![GitHub stars](https://img.shields.io/github/stars/gao-g/prelude?style=social)](https://github.com/gao-g/prelude)
+- [[16 Oct 2024]](https://arxiv.org/abs/2410.08772) **Proactive Agent: Shifting LLM Agents from Reactive Responses to Active Assistance**, [**ICLR 2025**](https://openreview.net/forum?id=sRIU6k2TcU), [![GitHub stars](https://img.shields.io/github/stars/thunlp/ProactiveAgent?style=social)](https://github.com/thunlp/ProactiveAgent)
 
 
+- [[23 Apr 2024]](https://arxiv.org/abs/2404.15059) **Aligning LLM Agents by Learning Latent Preference from User Edits**, [**NeurIPS 2024**](https://openreview.net/forum?id=DlYNGpCuwa), [![GitHub stars](https://img.shields.io/github/stars/gao-g/prelude?style=social)](https://github.com/gao-g/prelude)
+
+
+- [23 Apr 2024](https://arxiv.org/abs/2404.15059) **Aligning LLM Agents by Learning Latent Preference from User Edits**, [**NeurIPS 2024**](https://openreview.net/forum?id=DlYNGpCuwa), [![GitHub stars](https://img.shields.io/github/stars/gao-g/prelude?style=social)](https://github.com/gao-g/prelude)
 
 
 ## 📚 Applications, Datasets & Benchmarks
