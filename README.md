@@ -27,22 +27,20 @@ LLM-based Human-Agent Systems (LLM-HAS) are interactive frameworks where humans 
 
 - [Awesome LLM-Based Human-Agent Systems](#awesome-llm-based-human-agent-systems)
   - [🌟 Introduction](#-introduction)
-  - [📄 Latest Research Papers](#-latest-research-papers)
-  - [🤝 Human Feedback](#-human-feedback)
-  - [🔄 Interaction](#-interaction)
-  - [🎛️ Orchestration](#️-orchestration)
-  - [💬 Communication](#-communication)
+  - [📄 Research Papers](#-research-papers)
   - [📚 Applications, Datasets \& Benchmarks](#-applications-datasets--benchmarks)
+  - [🔍 Taxonomy](#-taxonomy)
+    - [🤝 Human Feedback](#-human-feedback)
+    - [🔄 Interaction](#-interaction)
+    - [🎛️ Orchestration](#️-orchestration)
+    - [💬 Communication](#-communication)
   - [📌 Contributing](#-contributing)
   - [📝 Citation](#-citation)
 
 
 
-![image](./images/taxonomy.png)
 
-
-
-## 📄 Latest Research Papers
+## 📄 Research Papers
  ([©️click here back to table of contents👆🏻](#contents))
 
 
@@ -56,7 +54,43 @@ LLM-based Human-Agent Systems (LLM-HAS) are interactive frameworks where humans 
 
 
 
-## 🤝 Human Feedback
+## 📚 Applications, Datasets & Benchmarks
+ ([©️click here back to table of contents👆🏻](#contents))
+
+ 
+| Domain | Datasets & Benchmarks | Proposed or Used by | Data Link |
+|---|:---:|:---:|:---:|
+| Embodied AI | TaPA | [Wu et al., 2023](https://arxiv.org/abs/2307.01848) | [Link](https://github.com/Gary3410/TaPA) |
+| Embodied AI | EmboInteract | [Sun et al., 2024b](https://openreview.net/forum?id=WDdiCIkpxC) | – |
+| Embodied AI | AssistantX | [Sun et al., 2024](https://arxiv.org/abs/2409.17655) | – |
+| Embodied AI | IGLU Multi-Turn | [Mehta et al., 2024](https://arxiv.org/abs/2304.10750) | [Link](https://github.com/microsoft/iglu-datasets) |
+| Embodied AI | PARTNR | [Chang et al., 2024](https://arxiv.org/abs/2411.00081) | [Link](https://github.com/facebookresearch/partnr-planner/tree/main/) |
+| Embodied AI | MINT | [Wang et al., 2024](https://arxiv.org/abs/2309.10691) | [Link](https://github.com/xingyaoww/mint-bench) |
+| Embodied AI | C-WAH | [Seo et al., 2025](https://arxiv.org/abs/2405.16751) | [Link](https://github.com/UMass-Embodied-AGI/CoELA) |
+| Conversational Systems | WEBLINX | [Lu et al., 2024](https://arxiv.org/abs/2402.05930) | – |
+| Conversational Systems | Ask-before-Plan | [Zhang et al., 2024](https://arxiv.org/abs/2401.14432) | [Link](https://github.com/magicgh/Ask-before-Plan) |
+| Conversational Systems | Agency Dialogue | [Sharma et al., 2024](https://arxiv.org/abs/2305.12815) | – |
+| Conversational Systems | WildSeek | [Jiang et al., 2024](https://aclanthology.org/2024.emnlp-main.554/) | [Link](https://github.com/stanford-oval/storm?tab=readme-ov-file) |
+| Conversational Systems | MINT | [Wang et al., 2024](https://arxiv.org/abs/2309.10691) | [Link](https://github.com/xingyaoww/mint-bench) |
+| Conversational Systems | HOTPOTQA | [Feng et al., 2024](https://hotpotqa.github.io/) | [Link](https://hotpotqa.github.io/) |
+| Conversational Systems | StrategyQA | [Feng et al., 2024](https://github.com/eladsegal/strategyqa) | [Link](https://github.com/eladsegal/strategyqa) |
+| Software Development | MINT | [Wang et al., 2024](https://arxiv.org/abs/2309.10691) | [Link](https://github.com/xingyaoww/mint-bench) |
+| Software Development | InterCode | [Feng et al., 2024](https://github.com/princeton-nlp/intercode) | [Link](https://github.com/princeton-nlp/intercode) |
+| Software Development | ColBench | [Zhou et al., 2025](https://arxiv.org/abs/2503.15478) | [Link](https://huggingface.co/datasets/facebook/collaborative_agent_bench) |
+| Software Development | ConvCodeWorld | [Han et al., 2025](https://arxiv.org/abs/2502.19852) | [Link](https://github.com/stovecat/convcodeworld) |
+| Software Development | ConvCodeBench | [Han et al., 2025](https://arxiv.org/abs/2502.19852) | [Link](https://github.com/stovecat/convcodeworld) |
+| Gaming | CuisineWorld | [Gong et al., 2023](https://arxiv.org/abs/2309.09971) | [Link](https://github.com/mindagent/mindagent) |
+| Gaming | MineWorld | [Guo et al., 2025](https://arxiv.org/abs/2504.08388) | [Link](https://github.com/microsoft/MineWorld) |
+| Finance | FinArena-Low-Cost | [Xu et al., 2025](https://arxiv.org/abs/2503.02692) | [Link](https://huggingface.co/datasets/Illogicaler/FinArena-low-cost-dataset) |
+
+
+
+## 🔍 Taxonomy
+ ([©️click here back to table of contents👆🏻](#contents))
+
+![image](./images/taxonomy.png)
+
+### 🤝 Human Feedback
  ([©️click here back to table of contents👆🏻](#contents))
 
 | Title | Date & Code | Feedback Type | Feedback Subtype | Feedback Granularity | Feedback Phase |
@@ -107,7 +141,7 @@ LLM-based Human-Agent Systems (LLM-HAS) are interactive frameworks where humans 
 
 
 
-## 🔄 Interaction
+### 🔄 Interaction
  ([©️click here back to table of contents👆🏻](#contents))
 
 
@@ -160,7 +194,7 @@ LLM-based Human-Agent Systems (LLM-HAS) are interactive frameworks where humans 
 
 
 
-## 🎛️ Orchestration
+### 🎛️ Orchestration
  ([©️click here back to table of contents👆🏻](#contents))
 
 
@@ -216,7 +250,7 @@ LLM-based Human-Agent Systems (LLM-HAS) are interactive frameworks where humans 
 
 
 
-## 💬 Communication
+### 💬 Communication
  ([©️click here back to table of contents👆🏻](#contents))
 
 
@@ -266,39 +300,6 @@ LLM-based Human-Agent Systems (LLM-HAS) are interactive frameworks where humans 
 | [Improving Grounded Language Understanding in a Collaborative Environment by Interacting with Agents through Help Feedback](https://arxiv.org/abs/2304.10750) | [2023/04](https://arxiv.org/abs/2304.10750) | Decentralized | Conversation |
 | [PaLM-E: An Embodied Multimodal Language Model](https://openreview.net/forum?id=VTpHpqM3Cf&utm_campaign=The%20Batch&utm_source=hs_email&utm_medium=email&utm_content=284568789&_hsenc=p2ANqtz-9lsSL4nXMrOGBQqGoqktY5Yno_r9-nTOARZinDcgihFNqcOFEQb_MVtHKdpgI2AC3N8SrNW5PxcD0uxl4WeKcPJgUOgw) | [2023/03](https://palm-e.github.io) | Decentralized | Conversation |
 | [AI Chains: Transparent and Controllable Human-AI Interaction by Chaining Large Language Model Prompts](https://dl.acm.org/doi/abs/10.1145/3491102.3517582) | [2021/10](https://dl.acm.org/doi/abs/10.1145/3491102.3517582) | Hierarchical | Conversation |
-
-
-
-## 📚 Applications, Datasets & Benchmarks
- ([©️click here back to table of contents👆🏻](#contents))
-
- 
-| Domain | Datasets & Benchmarks | Proposed or Used by | Data Link |
-|---|:---:|:---:|:---:|
-| Embodied AI | TaPA | [Wu et al., 2023](https://arxiv.org/abs/2307.01848) | [Link](https://github.com/Gary3410/TaPA) |
-| Embodied AI | EmboInteract | [Sun et al., 2024b](https://openreview.net/forum?id=WDdiCIkpxC) | – |
-| Embodied AI | AssistantX | [Sun et al., 2024](https://arxiv.org/abs/2409.17655) | – |
-| Embodied AI | IGLU Multi-Turn | [Mehta et al., 2024](https://arxiv.org/abs/2304.10750) | [Link](https://github.com/microsoft/iglu-datasets) |
-| Embodied AI | PARTNR | [Chang et al., 2024](https://arxiv.org/abs/2411.00081) | [Link](https://github.com/facebookresearch/partnr-planner/tree/main/) |
-| Embodied AI | MINT | [Wang et al., 2024](https://arxiv.org/abs/2309.10691) | [Link](https://github.com/xingyaoww/mint-bench) |
-| Embodied AI | C-WAH | [Seo et al., 2025](https://arxiv.org/abs/2405.16751) | [Link](https://github.com/UMass-Embodied-AGI/CoELA) |
-| Conversational Systems | WEBLINX | [Lu et al., 2024](https://arxiv.org/abs/2402.05930) | – |
-| Conversational Systems | Ask-before-Plan | [Zhang et al., 2024](https://arxiv.org/abs/2401.14432) | [Link](https://github.com/magicgh/Ask-before-Plan) |
-| Conversational Systems | Agency Dialogue | [Sharma et al., 2024](https://arxiv.org/abs/2305.12815) | – |
-| Conversational Systems | WildSeek | [Jiang et al., 2024](https://aclanthology.org/2024.emnlp-main.554/) | [Link](https://github.com/stanford-oval/storm?tab=readme-ov-file) |
-| Conversational Systems | MINT | [Wang et al., 2024](https://arxiv.org/abs/2309.10691) | [Link](https://github.com/xingyaoww/mint-bench) |
-| Conversational Systems | HOTPOTQA | [Feng et al., 2024](https://hotpotqa.github.io/) | [Link](https://hotpotqa.github.io/) |
-| Conversational Systems | StrategyQA | [Feng et al., 2024](https://github.com/eladsegal/strategyqa) | [Link](https://github.com/eladsegal/strategyqa) |
-| Software Development | MINT | [Wang et al., 2024](https://arxiv.org/abs/2309.10691) | [Link](https://github.com/xingyaoww/mint-bench) |
-| Software Development | InterCode | [Feng et al., 2024](https://github.com/princeton-nlp/intercode) | [Link](https://github.com/princeton-nlp/intercode) |
-| Software Development | ColBench | [Zhou et al., 2025](https://arxiv.org/abs/2503.15478) | [Link](https://huggingface.co/datasets/facebook/collaborative_agent_bench) |
-| Software Development | ConvCodeWorld | [Han et al., 2025](https://arxiv.org/abs/2502.19852) | [Link](https://github.com/stovecat/convcodeworld) |
-| Software Development | ConvCodeBench | [Han et al., 2025](https://arxiv.org/abs/2502.19852) | [Link](https://github.com/stovecat/convcodeworld) |
-| Gaming | CuisineWorld | [Gong et al., 2023](https://arxiv.org/abs/2309.09971) | [Link](https://github.com/mindagent/mindagent) |
-| Gaming | MineWorld | [Guo et al., 2025](https://arxiv.org/abs/2504.08388) | [Link](https://github.com/microsoft/MineWorld) |
-| Finance | FinArena-Low-Cost | [Xu et al., 2025](https://arxiv.org/abs/2503.02692) | [Link](https://huggingface.co/datasets/Illogicaler/FinArena-low-cost-dataset) |
-
-
 
 
 
