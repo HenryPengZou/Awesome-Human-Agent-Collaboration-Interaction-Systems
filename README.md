@@ -52,32 +52,34 @@ LLM-based Human-Agent Systems (LLM-HAS) are interactive frameworks where humans 
 - [23 Apr 2024] **Aligning LLM Agents by Learning Latent Preference from User Edits**, [**NeurIPS 2024**](https://openreview.net/forum?id=DlYNGpCuwa), [![GitHub stars](https://img.shields.io/github/stars/gao-g/prelude?style=social)](https://github.com/gao-g/prelude)
 
 
-- [23 Apr 2024] **Aligning LLM Agents by Learning Latent Preference from User Edits**, [arXiv](https://arxiv.org/abs/2404.15059), [![GitHub stars](https://img.shields.io/github/stars/gao-g/prelude?style=social)](https://github.com/gao-g/prelude)
+- [19 Mar 2025] **SWEET-RL: Training Multi-Turn LLM Agents on Collaborative Reasoning Tasks**, [**arXiv-FAIR Meta**](https://arxiv.org/abs/2503.15478), [![GitHub stars](https://img.shields.io/github/stars/facebookresearch/sweet_rl?style=social)](https://github.com/facebookresearch/sweet_rl)
+
+- [Initial arXiv Date] **Paper Title**, [**arXiv or conference**](arxiv or OpenReview link), [![GitHub stars](https://img.shields.io/github/stars/gao-g/prelude?style=social)](https://github.com/gao-g/prelude)
 
 
-
+adding more papers, stay tuned...
 
 ## 📚 Applications, Datasets & Benchmarks
  ([©️click here back to table of contents👆🏻](#contents))
 
  ### 🤖 Emobodied AI, Robotics
-- [31 Oct 2024] **PARTNR: A Benchmark for Planning and Reasoning in Embodied Multi-agent Tasks**, [arxiv-FAIR Meta](https://arxiv.org/abs/2411.00081), [![GitHub stars](https://img.shields.io/github/stars/facebookresearch/partnr-planner?style=social)](https://github.com/facebookresearch/partnr-planner)
+- [31 Oct 2024] **PARTNR: A Benchmark for Planning and Reasoning in Embodied Multi-agent Tasks**, [**arxiv-FAIR Meta**](https://arxiv.org/abs/2411.00081), [![GitHub stars](https://img.shields.io/github/stars/facebookresearch/partnr-planner?style=social)](https://github.com/facebookresearch/partnr-planner)
 
 
-- [19 Sep 2023] **MINT: Evaluating LLMs in Multi-turn Interaction with Tools and Language Feedback**, [ICLR 2024](https://arxiv.org/abs/2309.10691), [![GitHub stars](https://img.shields.io/github/stars/xingyaoww/mint-bench?style=social)](https://github.com/xingyaoww/mint-bench)
+- [19 Sep 2023] **MINT: Evaluating LLMs in Multi-turn Interaction with Tools and Language Feedback**, [**ICLR 2024**](https://arxiv.org/abs/2309.10691), [![GitHub stars](https://img.shields.io/github/stars/xingyaoww/mint-bench?style=social)](https://github.com/xingyaoww/mint-bench)
 
-- [5 Jul 2023] **Building Cooperative Embodied Agents Modularly with Large Language Models**, [ICLR 2024](https://arxiv.org/abs/2307.02485), [![GitHub stars](https://img.shields.io/github/stars/UMass-Embodied-AGI/CoELA?style=social)](https://github.com/UMass-Embodied-AGI/CoELA)
+- [5 Jul 2023] **Building Cooperative Embodied Agents Modularly with Large Language Models**, [**ICLR 2024**](https://arxiv.org/abs/2307.02485), [![GitHub stars](https://img.shields.io/github/stars/UMass-Embodied-AGI/CoELA?style=social)](https://github.com/UMass-Embodied-AGI/CoELA)
 
-- [4 Jul 2023] **Embodied Task Planning with Large Language Models**, [arXiv](https://arxiv.org/abs/2307.01848), [![GitHub stars](https://img.shields.io/github/stars/Gary3410/TaPA?style=social)](https://github.com/Gary3410/TaPA)
+- [4 Jul 2023] **Embodied Task Planning with Large Language Models**, [**arXiv**](https://arxiv.org/abs/2307.01848), [![GitHub stars](https://img.shields.io/github/stars/Gary3410/TaPA?style=social)](https://github.com/Gary3410/TaPA)
 
-- [21 Apr 2023] **Improving Grounded Language Understanding in a Collaborative Environment by Interacting with Agents Through Help Feedback**, [EACL 2024 Findings](https://arxiv.org/abs/2304.10750), [![GitHub stars](https://img.shields.io/github/stars/microsoft/iglu-datasets?style=social)](https://github.com/microsoft/iglu-datasets)
+- [21 Apr 2023] **Improving Grounded Language Understanding in a Collaborative Environment by Interacting with Agents Through Help Feedback**, [**EACL 2024 Findings**](https://arxiv.org/abs/2304.10750), [![GitHub stars](https://img.shields.io/github/stars/microsoft/iglu-datasets?style=social)](https://github.com/microsoft/iglu-datasets)
 
 
  ### 💻 Software Engineering, Coding
- - [19 Sep 2023] **MINT: Evaluating LLMs in Multi-turn Interaction with Tools and Language Feedback**, [ICLR 2024](https://arxiv.org/abs/2309.10691), [![GitHub stars](https://img.shields.io/github/stars/xingyaoww/mint-bench?style=social)](https://github.com/xingyaoww/mint-bench)
+ - [19 Sep 2023] **MINT: Evaluating LLMs in Multi-turn Interaction with Tools and Language Feedback**, [**ICLR 2024**](https://arxiv.org/abs/2309.10691), [![GitHub stars](https://img.shields.io/github/stars/xingyaoww/mint-bench?style=social)](https://github.com/xingyaoww/mint-bench)
 
 
- - [26 Jun 2023] **InterCode: Standardizing and Benchmarking Interactive Coding with Execution Feedback**, [NeurIPS 2023](https://arxiv.org/abs/2306.14898), [![GitHub stars](https://img.shields.io/github/stars/princeton-nlp/intercode?style=social)](https://github.com/princeton-nlp/intercode)
+ - [26 Jun 2023] **InterCode: Standardizing and Benchmarking Interactive Coding with Execution Feedback**, [**NeurIPS 2023**](https://arxiv.org/abs/2306.14898), [![GitHub stars](https://img.shields.io/github/stars/princeton-nlp/intercode?style=social)](https://github.com/princeton-nlp/intercode)
 
 
 
@@ -88,7 +90,7 @@ LLM-based Human-Agent Systems (LLM-HAS) are interactive frameworks where humans 
 
 
  ### 💬 Conversation System
- - [19 Sep 2023] **MINT: Evaluating LLMs in Multi-turn Interaction with Tools and Language Feedback**, [ICLR 2024](https://arxiv.org/abs/2309.10691), [![GitHub stars](https://img.shields.io/github/stars/1akaman/EmoAgent?style=social)](https://github.com/1akaman/EmoAgent)
+ - [19 Sep 2023] **MINT: Evaluating LLMs in Multi-turn Interaction with Tools and Language Feedback**, [**ICLR 2024**](https://arxiv.org/abs/2309.10691), [![GitHub stars](https://img.shields.io/github/stars/1akaman/EmoAgent?style=social)](https://github.com/1akaman/EmoAgent)
 
 
 | Conversational Systems | WEBLINX | [Lu et al., 2024](https://arxiv.org/abs/2402.05930) | – |
