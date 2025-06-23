@@ -85,6 +85,7 @@ LLM-based Human-Agent Systems (LLM-HAS) are interactive frameworks where humans 
 | Gaming | CuisineWorld | [Gong et al., 2023](https://arxiv.org/abs/2309.09971) | [Link](https://github.com/mindagent/mindagent) |
 | Gaming | MineWorld | [Guo et al., 2025](https://arxiv.org/abs/2504.08388) | [Link](https://github.com/microsoft/MineWorld) |
 | Finance | FinArena-Low-Cost | [Xu et al., 2025](https://arxiv.org/abs/2503.02692) | [Link](https://huggingface.co/datasets/Illogicaler/FinArena-low-cost-dataset) |
+| Health | EmoAgent| [Qiu et al., 2025](https://arxiv.org/abs/2504.09689) | [Link](https://github.com/1akaman/EmoAgent) |
 
 
 
