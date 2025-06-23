@@ -51,6 +51,9 @@ LLM-based Human-Agent Systems (LLM-HAS) are interactive frameworks where humans 
 [Proactive Agent: Shifting LLM Agents from Reactive Responses to Active Assistance](https://openreview.net/pdf?id=sRIU6k2TcU), ICLR 2025, arXiv 16 Oct 2024, [![GitHub stars](https://img.shields.io/github/stars/thunlp/ProactiveAgent?style=social)](https://github.com/thunlp/ProactiveAgent)
 
 
+[Aligning LLM Agents by Learning Latent Preference from User Edits](https://openreview.net/pdf?id=DlYNGpCuwa), NeurIPS 2024, arXiv 23 Apr 2024, [![GitHub stars](https://img.shields.io/github/stars/gao-g/prelude?style=social)](https://github.com/gao-g/prelude)
+
+
 
 
 
