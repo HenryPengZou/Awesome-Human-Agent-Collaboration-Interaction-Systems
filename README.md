@@ -137,7 +137,7 @@ adding more papers, stay tuned...
 
 ## 🔍 Taxonomy
  ([©️click here back to table of contents👆🏻](#contents))
-For a detailed introduction, please refer to Section 3 in our survey paper: [A Survey on Large Language Model based Human-Agent Systems](https://arxiv.org/abs/2505.00753). 
+For a detailed introduction of the taxonomy, please refer to Section 3 in our survey paper: [A Survey on Large Language Model based Human-Agent Systems](https://arxiv.org/abs/2505.00753). 
 
 ![image](./images/taxonomy.png)
 
