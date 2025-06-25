@@ -44,7 +44,7 @@ Our goal with this project is to build an exhaustive collection of awesome resou
     - [🎮 Gaming](#-gaming)
     - [💰 Finance](#-finance)
     - [🏥 Healthcare, Medicine](#-healthcare-medicine)
-  - [📄 Research Papers](#-research-papers)
+  - [📄 Selected Research Papers](#-selected-research-papers)
   - [📌 Contributing](#-contributing)
   - [📝 Citation](#-citation)
 
