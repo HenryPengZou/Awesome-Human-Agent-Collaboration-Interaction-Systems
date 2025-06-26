@@ -2,12 +2,11 @@
 
 
 ![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)
-[![arXiv](https://img.shields.io/badge/arXiv-Human_Agent_Systems-b31b1b.svg)](https://arxiv.org/abs/2505.00753)
+[![arXiv](https://img.shields.io/badge/arXiv-Human_Agent_Collaboration-b31b1b.svg)](https://arxiv.org/abs/2505.00753)
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)]()
 [![Contribution Welcome](https://img.shields.io/badge/Contributions-welcome-blue)]()
-[![Code](https://img.shields.io/badge/Code-GithubRepo-c8a4bf.svg)](https://github.com/HenryPengZou/Awesome-LLM-Based-Human-Agent-System-Papers) 
-
-
+![Last Commit](https://img.shields.io/github/last-commit/HenryPengZou/Awesome-Human-Agent-Collaboration-Interaction-Systems)
+[![GitHub stars](https://img.shields.io/github/stars/HenryPengZou/Awesome-Human-Agent-Collaboration-Interaction-Systems)](https://github.com/HenryPengZou/Awesome-Human-Agent-Collaboration-Interaction-Systems)
 
 <p align="center">
     <img src="https://i.imgur.com/waxVImv.png" alt="Oryx Video-ChatGPT">
