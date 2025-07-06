@@ -310,13 +310,17 @@ For a detailed introduction of the taxonomy, please refer to Section 3 in our su
 
 - [19 Sep 2023] **MINT: Evaluating LLMs in Multi-turn Interaction with Tools and Language Feedback**, [**ICLR 2024**](https://arxiv.org/abs/2309.10691), [![GitHub stars](https://img.shields.io/github/stars/1akaman/EmoAgent?style=social)](https://github.com/1akaman/EmoAgent)
 
+- [8 Feb 2024] **WebLINX: Real-World Website Navigation with Multi-Turn Dialogue**, [**arXiv 2024**](https://arxiv.org/abs/2402.05930), [![GitHub stars](https://img.shields.io/github/stars/McGill-NLP/WebLINX?style=social)]
+  
+- [25 Jan 2024] **A2C: A Modular Multi-stage Collaborative Decision Framework for Human-AI Teams**, [**ESWA 2025**], [![GitHub stars](https://img.shields.io/github/stars/magicgh/Ask-before-Plan?style=social)]
 
-| Conversational Systems | WEBLINX | [Lu et al., 2024](https://arxiv.org/abs/2402.05930) | – |
-| Conversational Systems | Ask-before-Plan | [Zhang et al., 2024](https://arxiv.org/abs/2401.14432) | [Link](https://github.com/magicgh/Ask-before-Plan) |
-| Conversational Systems | Agency Dialogue | [Sharma et al., 2024](https://arxiv.org/abs/2305.12815) | – |
-| Conversational Systems | WildSeek | [Jiang et al., 2024](https://aclanthology.org/2024.emnlp-main.554/) | [Link](https://github.com/stanford-oval/storm?tab=readme-ov-file) |
-| Conversational Systems | HOTPOTQA | [Feng et al., 2024](https://hotpotqa.github.io/) | [Link](https://hotpotqa.github.io/) |
-| Conversational Systems | StrategyQA | [Feng et al., 2024](https://github.com/eladsegal/strategyqa) | [Link](https://github.com/eladsegal/strategyqa) |
+- [22 May 2023] **Investigating Agency of LLMs in Human-AI Collaboration Tasks**, [**EACL 2024**]
+
+- [27 Aug 2024] **Into the Unknown Unknowns: Engaged Human Learning through Participation in Language Model Agent Conversations**, [**EMNLP 2024**], [![GitHub stars](https://img.shields.io/github/stars/stanford-oval/storm?style=social)]
+
+- [25 Sep 2018] **HotpotQA: A Dataset for Diverse, Explainable Multi-hop Question Answering**, [**EMNLP 2018**], [![GitHub stars](https://img.shields.io/github/stars/eladsegal/strategyqa?style=social)]
+
+- [6 Jan 2021] **Did Aristotle Use a Laptop? A Question Answering Benchmark with Implicit Reasoning Strategies**, [**TACL 2021**], [![GitHub stars](https://img.shields.io/github/stars/hotpotqa/hotpot?style=social)]
 
 
 
