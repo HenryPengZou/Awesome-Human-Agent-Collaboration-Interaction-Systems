@@ -404,7 +404,13 @@ For a detailed introduction of the taxonomy, please refer to Section 3 in our su
 
 - [6 Mar 2023] **PaLM-E: An Embodied Multimodal Language Model**, [**ICML 2023**](https://openreview.net/forum?id=VTpHpqM3Cf&utm_campaign=The%20Batch&utm_source=hs_email&utm_medium=email&utm_content=284568789&_hsenc=p2ANqtz-9lsSL4nXMrOGBQqGoqktY5Yno_r9-nTOARZinDcgihFNqcOFEQb_MVtHKdpgI2AC3N8SrNW5PxcD0uxl4WeKcPJgUOgw), [![GitHub stars](https://img.shields.io/github/stars/kyegomez/PALM-E?style=social)](https://github.com/kyegomez/PALM-E)
 
+- [20 Dec 2024] **Collaborative Gym: A Framework for Enabling and Evaluating Human-Agent Collaboration (Co-Gym)**, [**arXiv**](https://arxiv.org/abs/2412.15701), [![GitHub stars](https://img.shields.io/github/stars/SALT-NLP/collaborative-gym?style=social)](https://github.com/SALT-NLP/collaborative-gym) 
 
+- [13 Sep 2024] **Mutual Theory of Mind in Human-AI Collaboration: An Empirical Study with LLM-driven AI Agents in a Real-time Shared Workspace Task**, [**arXiv**](https://arxiv.org/abs/2409.08811)
+
+- [4 Mar 2025] **FinArena: A Human-Agent Collaboration Framework for Financial Market Analysis and Forecasting**, [**arXiv**](https://arxiv.org/abs/2503.02692)
+ 
+- [10 Mar 2025] **Experimental Exploration: Investigating Cooperative Interaction Behavior Between Humans and Large Language Model Agents**, [**arXiv**](https://arxiv.org/abs/2503.07320)
 
 - [Initial arXiv Date] **Paper Title**, [**arXiv or conference**](arxiv or OpenReview link), [![GitHub stars](https://img.shields.io/github/stars/gao-g/prelude?style=social)](https://github.com/gao-g/prelude)
 
