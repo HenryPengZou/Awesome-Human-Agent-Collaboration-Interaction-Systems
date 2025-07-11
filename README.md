@@ -412,7 +412,43 @@ For a detailed introduction of the taxonomy, please refer to Section 3 in our su
  
 - [10 Mar 2025] **Experimental Exploration: Investigating Cooperative Interaction Behavior Between Humans and Large Language Model Agents**, [**arXiv**](https://arxiv.org/abs/2503.07320)
 
-- [Initial arXiv Date] **Paper Title**, [**arXiv or conference**](arxiv or OpenReview link), [![GitHub stars](https://img.shields.io/github/stars/gao-g/prelude?style=social)](https://github.com/gao-g/prelude)
+- [4 Oct 2021] **AI Chains: Transparent and Controllable Human-AI Interaction by Chaining Large Language Model Prompts**, [**CHI 2022**](https://arxiv.org/abs/2110.01691)
+
+- [19 Sep 2023] **Drive as You Speak: Enabling Human-Like Interaction with Large Language Models in Autonomous Vehicles**, [**WACV 2024**](https://arxiv.org/abs/2309.10228)
+ 
+- [18 Apr 2024]] **AgentCoord: Visually Exploring Coordination Strategy for LLM-based Multi-Agent Collaboration**, [**arXiv 2024**](https://arxiv.org/abs/2404.11943), [![GitHub stars](https://img.shields.io/github/stars/AgentCoord/AgentCoord)](https://github.com/AgentCoord/AgentCoord)
+
+- [28 Jan 2025] **CowPilot: A Framework for Autonomous and Human-Agent Collaborative Web Navigation**, [**arXiv**](https://arxiv.org/abs/2501.16609)
+ 
+- [24 Apr 2024] **A Human-Computer Collaborative Tool for Training a Single Large Language Model Agent into a Network through Few Examples**, [**arXiv**](https://arxiv.org/abs/2404.15974)
+
+- [23 Dec 2023] **LLM-Powered Hierarchical Language Agent for Real-time Human-AI Coordination**, [**AAMAS 2024**](https://arxiv.org/abs/2312.15224)
+ 
+- [19 Mar 2025] **SWEET-RL: Training Multi-Turn LLM Agents on Collaborative Reasoning Tasks**, [**arXiv 2025**](https://arxiv.org/abs/2503.15478), [![GitHub stars](https://img.shields.io/github/stars/facebookresearch/sweet_rl?style=social)](https://github.com/facebookresearch/sweet_rl)
+
+- [May 2024] **An LLM-based approach for enabling seamless Human-Robot collaboration in assembly**, [**CIRP 2024**](https://www.sciencedirect.com/science/article/pii/S000785062400012X)
+
+- [27 May 2024] **REVECA: Adaptive Planning and Trajectory-based Validation in Cooperative Language Agents using Information Relevance and Relative Proximity**, [**AAAI 2025**](https://arxiv.org/abs/2405.16751)
+
+- [26 Sep 2024] **AssistantX: An LLM-Powered Proactive Assistant in Collaborative Human-Populated Environment**, [**arXiv 2025**](https://arxiv.org/abs/2409.17655), [![GitHub stars](https://img.shields.io/github/stars/AssistantX-Agent/AssistantX?style=social)](https://github.com/AssistantX-Agent/AssistantX)
+
+- [19 Sep 2023] **MINT: Evaluating LLMs in Multi-turn Interaction with Tools and Language Feedback**, [**ICLR 2024**](https://arxiv.org/abs/2309.10691), [![GitHub stars](https://img.shields.io/github/stars/xingyaoww/mint-bench?style=social)](https://github.com/xingyaoww/mint-bench)
+
+- [21 Apr 2023] **Improving Grounded Language Understanding in a Collaborative Environment by Interacting with Agents Through Help Feedback**, [**EACL 2024**](https://arxiv.org/abs/2304.10750)
+
+- [27 Feb 2025] **ConvCodeWorld: Benchmarking Conversational Code Generation in Reproducible Feedback Environments**, [**ICLR 2025**](https://arxiv.org/abs/2502.19852), [![GitHub stars](https://img.shields.io/github/stars/stovecat/convcodeworld?style=social)](https://github.com/stovecat/convcodeworld)
+
+- [17 Feb 2025] **Leveraging Dual Process Theory in Language Agent Framework for Real-time Simultaneous Human-AI Collaboration**, [**arXiv 2025**](https://arxiv.org/abs/2502.11882), [![GitHub stars](https://img.shields.io/github/stars/sjtu-marl/DPT-Agent?style=social)](https://github.com/sjtu-marl/DPT-Agent)
+
+- [29 Aug 2023] **LLM-Based Human-Robot Collaboration Framework for Manipulation Tasks**, [**arXiv 2023**](https://arxiv.org/abs/2308.14972)
+ 
+- [20 Jun 2024] **Enhancing the LLM-Based Robot Manipulation Through Human-Robot Collaboration**, [**IEEE RA-L**](https://ieeexplore.ieee.org/document/10561501)
+
+- [31 Oct 2024] **PARTNR: A Benchmark for Planning and Reasoning in Embodied Multi-agent Tasks**, [**ICLR 2025**](https://arxiv.org/abs/2502.11882), [![GitHub stars](https://img.shields.io/github/stars/facebookresearch/partnr-planner/tree/?style=social)](https://github.com/facebookresearch/partnr-planner/tree/)
+ 
+- [19 Mar 2024] **Embodied LLM Agents Learn to Cooperate in Organized Teams**, [**arXiv 2024**](https://arxiv.org/abs/2403.12482), [![GitHub stars](https://img.shields.io/github/stars/tobeatraceur/Organized-LLM-Agents?style=social)](https://github.com/tobeatraceur/Organized-LLM-Agents)
+
+- [5 Jul 2023] **Building Cooperative Embodied Agents Modularly with Large Language Models**, [**ICLR 2024**](https://arxiv.org/abs/2307.02485)
 
 
 adding more papers, stay tuned...
