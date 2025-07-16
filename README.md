@@ -52,6 +52,8 @@ Our goal with this project is to build an exhaustive collection of awesome resou
 ## 📄 Latest Research Papers
  ([©️click here back to table of contents👆🏻](#contents))
 
+🤗 *Contributions are welcome! If you have recommended papers and resources, please submit pull requests or open issues.*
+
 - [11 Jun 2025] [[arXiv 2025]](https://arxiv.org/abs/2506.09420) **A Call for Collaborative Intelligence: Why Human-Agent Systems Should Precede AI Autonomy** [![GitHub stars](https://img.shields.io/github/stars/HenryPengZou/Awesome-Human-Agent-Collaboration-Interaction-Systems?style=social)](https://github.com/HenryPengZou/Awesome-Human-Agent-Collaboration-Interaction-Systems)
 
 - [6 Jun 2025] [[arXiv 2025]](https://arxiv.org/abs/2506.06576) **Future of Work with AI Agents: Auditing Automation and Augmentation Potential across the U.S. Workforce** [![GitHub stars](https://img.shields.io/github/stars/SALT-NLP/workbank?style=social)](https://github.com/SALT-NLP/workbank)
@@ -155,10 +157,6 @@ Our goal with this project is to build an exhaustive collection of awesome resou
 - [5 Jul 2023] [[ICLR 2024]](https://arxiv.org/abs/2307.02485) **Building Cooperative Embodied Agents Modularly with Large Language Models** 
 
 - [21 Apr 2023] [[EACL 2024]](https://arxiv.org/abs/2304.10750) **Improving Grounded Language Understanding in a Collaborative Environment by Interacting with Agents Through Help Feedback**
-
-
-adding more papers, stay tuned...
-
 
 
 
