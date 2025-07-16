@@ -52,111 +52,111 @@ Our goal with this project is to build an exhaustive collection of awesome resou
 ## 📄 Latest Research Papers
  ([©️click here back to table of contents👆🏻](#contents))
 
-- [11 Jun 2025] [[arXiv]](https://arxiv.org/abs/2506.09420) **A Call for Collaborative Intelligence: Why Human-Agent Systems Should Precede AI Autonomy**
+- [11 Jun 2025] [[arXiv 2025]](https://arxiv.org/abs/2506.09420) **A Call for Collaborative Intelligence: Why Human-Agent Systems Should Precede AI Autonomy**
 
-- [6 Jun 2025] [[arXiv]](https://arxiv.org/abs/2506.06576) **Future of Work with AI Agents: Auditing Automation and Augmentation Potential across the U.S. Workforce**
+- [6 Jun 2025] [[arXiv 2025]](https://arxiv.org/abs/2506.06576) **Future of Work with AI Agents: Auditing Automation and Augmentation Potential across the U.S. Workforce**
 
-- [5 May 2025] [[arXiv]](https://web3.arxiv.org/abs/2505.02418) **SymbioticRAG: Enhancing Document Intelligence Through Human-LLM Symbiotic Collaboration** 
+- [5 May 2025] [[arXiv 2025]](https://web3.arxiv.org/abs/2505.02418) **SymbioticRAG: Enhancing Document Intelligence Through Human-LLM Symbiotic Collaboration** 
 
-- [1 May 2025] [[arXiv]](https://arxiv.org/abs/2505.00753) **LLM-Based Human-Agent Collaboration and Interaction Systems: A Survey**
+- [1 May 2025] [[arXiv 2025]](https://arxiv.org/abs/2505.00753) **LLM-Based Human-Agent Collaboration and Interaction Systems: A Survey**
 
-- [10 Mar 2025] [[arXiv]](https://arxiv.org/abs/2503.07320) **Experimental Exploration: Investigating Cooperative Interaction Behavior Between Humans and Large Language Model Agents** 
+- [10 Mar 2025] [[arXiv 2025]](https://arxiv.org/abs/2503.07320) **Experimental Exploration: Investigating Cooperative Interaction Behavior Between Humans and Large Language Model Agents** 
 
-- [4 Mar 2025] [[arXiv]](https://arxiv.org/abs/2503.02692) **FinArena: A Human-Agent Collaboration Framework for Financial Market Analysis and Forecasting** 
+- [4 Mar 2025] [[arXiv 2025]](https://arxiv.org/abs/2503.02692) **FinArena: A Human-Agent Collaboration Framework for Financial Market Analysis and Forecasting** 
 
-- [29 Apr 2025] [[arXiv]](https://arxiv.org/abs/2504.20903) **Modeling AI-Human Collaboration as a Multi-Agent Adaptation** 
+- [29 Apr 2025] [[arXiv 2025]](https://arxiv.org/abs/2504.20903) **Modeling AI-Human Collaboration as a Multi-Agent Adaptation** 
 
-- [13 Apr 2025] [[arXiv]](https://arxiv.org/abs/2504.09689) **EmoAgent: Assessing and Safeguarding Human-AI Interaction for Mental Health Safety** [![GitHub stars](https://img.shields.io/github/stars/1akaman/EmoAgent?style=social)](https://github.com/1akaman/EmoAgent)
+- [13 Apr 2025] [[arXiv 2025]](https://arxiv.org/abs/2504.09689) **EmoAgent: Assessing and Safeguarding Human-AI Interaction for Mental Health Safety** [![GitHub stars](https://img.shields.io/github/stars/1akaman/EmoAgent?style=social)](https://github.com/1akaman/EmoAgent)
 
-- [11 Apr 2025] [[arXiv]](https://arxiv.org/abs/2504.08388) **MineWorld: a Real-Time and Open-Source Interactive World Model on Minecraft** [![GitHub stars](https://img.shields.io/github/stars/microsoft/MineWorld?style=social)](https://github.com/microsoft/MineWorld)
+- [11 Apr 2025] [[arXiv 2025]](https://arxiv.org/abs/2504.08388) **MineWorld: a Real-Time and Open-Source Interactive World Model on Minecraft** [![GitHub stars](https://img.shields.io/github/stars/microsoft/MineWorld?style=social)](https://github.com/microsoft/MineWorld)
 
-- [19 Mar 2025] [[arXiv]](https://arxiv.org/abs/2503.15478) **SWEET-RL: Training Multi-Turn LLM Agents on Collaborative Reasoning Tasks** [![GitHub stars](https://img.shields.io/github/stars/facebookresearch/sweet_rl?style=social)](https://github.com/facebookresearch/sweet_rl)
+- [19 Mar 2025] [[arXiv 2025]](https://arxiv.org/abs/2503.15478) **SWEET-RL: Training Multi-Turn LLM Agents on Collaborative Reasoning Tasks** [![GitHub stars](https://img.shields.io/github/stars/facebookresearch/sweet_rl?style=social)](https://github.com/facebookresearch/sweet_rl)
 
-- [3 Mar 2025] [[**ICML 2025**]](https://openreview.net/forum?id=2Sl6Ex7Vmo) **M3HF: Multi-agent Reinforcement Learning from Multi-phase Human Feedback of Mixed Quality** [![GitHub stars](https://img.shields.io/github/stars/facebookresearch/sweet_rl?style=social)](https://github.com/facebookresearch/sweet_rl)
+- [3 Mar 2025] [[ICML 2025]](https://openreview.net/forum?id=2Sl6Ex7Vmo) **M3HF: Multi-agent Reinforcement Learning from Multi-phase Human Feedback of Mixed Quality** [![GitHub stars](https://img.shields.io/github/stars/facebookresearch/sweet_rl?style=social)](https://github.com/facebookresearch/sweet_rl)
 
-- [27 Feb 2025] [[**ICLR 2025**]](https://arxiv.org/abs/2502.19852) **ConvCodeWorld: Benchmarking Conversational Code Generation in Reproducible Feedback Environments** [![GitHub stars](https://img.shields.io/github/stars/stovecat/convcodeworld?style=social)](https://github.com/stovecat/convcodeworld)
+- [27 Feb 2025] [[ICLR 2025]](https://arxiv.org/abs/2502.19852) **ConvCodeWorld: Benchmarking Conversational Code Generation in Reproducible Feedback Environments** [![GitHub stars](https://img.shields.io/github/stars/stovecat/convcodeworld?style=social)](https://github.com/stovecat/convcodeworld)
 
-- [17 Feb 2025] [[arXiv]](https://arxiv.org/abs/2502.11882) **Leveraging Dual Process Theory in Language Agent Framework for Real-time Simultaneous Human-AI Collaboration** [![GitHub stars](https://img.shields.io/github/stars/sjtu-marl/DPT-Agent?style=social)](https://github.com/sjtu-marl/DPT-Agent)
+- [17 Feb 2025] [[arXiv 2025]](https://arxiv.org/abs/2502.11882) **Leveraging Dual Process Theory in Language Agent Framework for Real-time Simultaneous Human-AI Collaboration** [![GitHub stars](https://img.shields.io/github/stars/sjtu-marl/DPT-Agent?style=social)](https://github.com/sjtu-marl/DPT-Agent)
 
-- [2 Feb 2025] [[**ICML 2025**]](https://openreview.net/forum?id=DmH4HHVb3y) **CollabLLM: From Passive Responders to Active Collaborators** [![GitHub stars](https://img.shields.io/github/stars/Wuyxin/collabllm?style=social)](https://github.com/Wuyxin/collabllm)
+- [2 Feb 2025] [[ICML 2025 2025]](https://openreview.net/forum?id=DmH4HHVb3y) **CollabLLM: From Passive Responders to Active Collaborators** [![GitHub stars](https://img.shields.io/github/stars/Wuyxin/collabllm?style=social)](https://github.com/Wuyxin/collabllm)
 
-- [28 Jan 2025] [[arXiv]](https://arxiv.org/abs/2501.16609) **CowPilot: A Framework for Autonomous and Human-Agent Collaborative Web Navigation**
+- [28 Jan 2025] [[arXiv 2025]](https://arxiv.org/abs/2501.16609) **CowPilot: A Framework for Autonomous and Human-Agent Collaborative Web Navigation**
 
-- [25 Dec 2024] [[**IROS 2024**]](https://ieeexplore.ieee.org/abstract/document/10801517) **To Help or Not to Help: LLM-based Attentive Support for Human-Robot Group Interactions** [![GitHub stars](https://img.shields.io/github/stars/HRI-EU/AttentiveSupport?style=social)](https://github.com/HRI-EU/AttentiveSupport)
+- [25 Dec 2024] [[IROS 2024]](https://ieeexplore.ieee.org/abstract/document/10801517) **To Help or Not to Help: LLM-based Attentive Support for Human-Robot Group Interactions** [![GitHub stars](https://img.shields.io/github/stars/HRI-EU/AttentiveSupport?style=social)](https://github.com/HRI-EU/AttentiveSupport)
 
-- [20 Dec 2024] [[arXiv]](https://arxiv.org/abs/2412.15701) **Collaborative Gym: A Framework for Enabling and Evaluating Human-Agent Collaboration** [![GitHub stars](https://img.shields.io/github/stars/SALT-NLP/collaborative-gym?style=social)](https://github.com/SALT-NLP/collaborative-gym)
+- [20 Dec 2024] [[arXiv 2024]](https://arxiv.org/abs/2412.15701) **Collaborative Gym: A Framework for Enabling and Evaluating Human-Agent Collaboration** [![GitHub stars](https://img.shields.io/github/stars/SALT-NLP/collaborative-gym?style=social)](https://github.com/SALT-NLP/collaborative-gym)
 
-- [8 Dec 2024] [[arXiv](https://arxiv.org/abs/2412.05958)] **Towards Modeling Human-Agentic Collaborative Workflows: A BPMN Extension** [![GitHub stars](https://img.shields.io/github/stars/BESSER-PEARL/agentic-bpmn?style=social)](https://github.com/BESSER-PEARL/agentic-bpmn)
+- [8 Dec 2024] [[arXiv 2024](https://arxiv.org/abs/2412.05958)] **Towards Modeling Human-Agentic Collaborative Workflows: A BPMN Extension** [![GitHub stars](https://img.shields.io/github/stars/BESSER-PEARL/agentic-bpmn?style=social)](https://github.com/BESSER-PEARL/agentic-bpmn)
 
-- [26 Nov 2024][[arXiv]](https://arxiv.org/abs/2412.06808) **Effect of Adaptive Communication Support on LLM-powered Human-Robot Collaboration** 
+- [26 Nov 2024][[arXiv 2024]](https://arxiv.org/abs/2412.06808) **Effect of Adaptive Communication Support on LLM-powered Human-Robot Collaboration** 
 
-- [31 Oct 2024] [[**ICLR 2025**]](https://arxiv.org/abs/2502.11882) **PARTNR: A Benchmark for Planning and Reasoning in Embodied Multi-agent Tasks** [![GitHub stars](https://img.shields.io/github/stars/facebookresearch/partnr-planner?style=social)](https://github.com/facebookresearch/partnr-planner)
+- [31 Oct 2024] [[ICLR 2025]](https://arxiv.org/abs/2502.11882) **PARTNR: A Benchmark for Planning and Reasoning in Embodied Multi-agent Tasks** [![GitHub stars](https://img.shields.io/github/stars/facebookresearch/partnr-planner?style=social)](https://github.com/facebookresearch/partnr-planner)
 
-- [16 Oct 2024] [[**ICLR 2025**]](https://openreview.net/forum?id=sRIU6k2TcU) **Proactive Agent: Shifting LLM Agents from Reactive Responses to Active Assistance** [![GitHub stars](https://img.shields.io/github/stars/thunlp/ProactiveAgent?style=social)](https://github.com/thunlp/ProactiveAgent)
+- [16 Oct 2024] [[ICLR 2025]](https://openreview.net/forum?id=sRIU6k2TcU) **Proactive Agent: Shifting LLM Agents from Reactive Responses to Active Assistance** [![GitHub stars](https://img.shields.io/github/stars/thunlp/ProactiveAgent?style=social)](https://github.com/thunlp/ProactiveAgent)
 
-- [26 Sep 2024] [[**arXiv 2025**]](https://arxiv.org/abs/2409.17655) **AssistantX: An LLM-Powered Proactive Assistant in Collaborative Human-Populated Environment** [![GitHub stars](https://img.shields.io/github/stars/AssistantX-Agent/AssistantX?style=social)](https://github.com/AssistantX-Agent/AssistantX)
+- [26 Sep 2024] [[arXiv 2024]](https://arxiv.org/abs/2409.17655) **AssistantX: An LLM-Powered Proactive Assistant in Collaborative Human-Populated Environment** [![GitHub stars](https://img.shields.io/github/stars/AssistantX-Agent/AssistantX?style=social)](https://github.com/AssistantX-Agent/AssistantX)
 
-- [25 Sep 2024] [[arXiv]](https://arxiv.org/abs/2409.17140) **AXIS: Efficient Human-Agent-Computer Interaction with API-First LLM-Based Agents** 
+- [25 Sep 2024] [[arXiv 2024]](https://arxiv.org/abs/2409.17140) **AXIS: Efficient Human-Agent-Computer Interaction with API-First LLM-Based Agents** 
 
-- [13 Sep 2024] [[arXiv]](https://arxiv.org/abs/2409.08811) **Mutual Theory of Mind in Human-AI Collaboration: An Empirical Study with LLM-driven AI Agents in a Real-time Shared Workspace Task**
+- [13 Sep 2024] [[arXiv 2024]](https://arxiv.org/abs/2409.08811) **Mutual Theory of Mind in Human-AI Collaboration: An Empirical Study with LLM-driven AI Agents in a Real-time Shared Workspace Task**
 
-- [27 Aug 2024] [[**EMNLP 2024**]](https://aclanthology.org/2024.emnlp-main.554/) **Into the Unknown Unknowns: Engaged Human Learning through Participation in Language Model Agent Conversations** [![GitHub stars](https://img.shields.io/github/stars/stanford-oval/storm?style=social)](https://github.com/stanford-oval/storm)
+- [27 Aug 2024] [[EMNLP 2024]](https://aclanthology.org/2024.emnlp-main.554/) **Into the Unknown Unknowns: Engaged Human Learning through Participation in Language Model Agent Conversations** [![GitHub stars](https://img.shields.io/github/stars/stanford-oval/storm?style=social)](https://github.com/stanford-oval/storm)
 
-- [12 July 2024] [[**SME 2024**]](https://www.sciencedirect.com/science/article/pii/S0278612525000731) **Human-LLM collaboration in generative design for customization**
+- [12 July 2024] [[SME 2024]](https://www.sciencedirect.com/science/article/pii/S0278612525000731) **Human-LLM collaboration in generative design for customization**
 
-- [20 Jun 2024] [[**RAL 2024**]](https://ieeexplore.ieee.org/document/10561501) **Enhancing the LLM-Based Robot Manipulation Through Human-Robot Collaboration** 
+- [20 Jun 2024] [[RAL 2024]](https://ieeexplore.ieee.org/document/10561501) **Enhancing the LLM-Based Robot Manipulation Through Human-Robot Collaboration** 
 
-- [18 Jun 2024] [[**EMNLP 2024**]](https://aclanthology.org/2024.findings-emnlp.636/) **Ask-before-Plan: Proactive Language Agents for Real-World Planning** [![GitHub stars](https://img.shields.io/github/stars/magicgh/Ask-before-Plan?style=social)](https://github.com/magicgh/Ask-before-Plan)
+- [18 Jun 2024] [[EMNLP 2024]](https://aclanthology.org/2024.findings-emnlp.636/) **Ask-before-Plan: Proactive Language Agents for Real-World Planning** [![GitHub stars](https://img.shields.io/github/stars/magicgh/Ask-before-Plan?style=social)](https://github.com/magicgh/Ask-before-Plan)
 
-- [14 Jun 2024] [[**NeurIPS 2024**]](https://proceedings.neurips.cc/paper_files/paper/2024/hash/1704ddd0bb89f159dfe609b32c889995-Abstract-Conference.html) **DigiRL: Training In-The-Wild Device-Control Agents with Autonomous Reinforcement Learning** [![GitHub stars](https://img.shields.io/github/stars/DigiRL-agent/digirl?style=social)](https://github.com/DigiRL-agent/digirl)
+- [14 Jun 2024] [[NeurIPS 2024]](https://proceedings.neurips.cc/paper_files/paper/2024/hash/1704ddd0bb89f159dfe609b32c889995-Abstract-Conference.html) **DigiRL: Training In-The-Wild Device-Control Agents with Autonomous Reinforcement Learning** [![GitHub stars](https://img.shields.io/github/stars/DigiRL-agent/digirl?style=social)](https://github.com/DigiRL-agent/digirl)
 
-- [4 Jun 2024] [[**CASE 2024**]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10711843) **Enhancing Human-Robot Collaborative Assembly in Manufacturing Systems Using Large Language Models**
+- [4 Jun 2024] [[CASE 2024]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10711843) **Enhancing Human-Robot Collaborative Assembly in Manufacturing Systems Using Large Language Models**
 
-- [30 May 2024] [[arXiv]](https://arxiv.org/abs/2405.20018) **Safe Multi-agent Reinforcement Learning with Natural Language Constraints**
+- [30 May 2024] [[arXiv 2024]](https://arxiv.org/abs/2405.20018) **Safe Multi-agent Reinforcement Learning with Natural Language Constraints**
 
-- [27 May 2024] [[**AAAI 2025**]](https://arxiv.org/abs/2405.16751) **REVECA: Adaptive Planning and Trajectory-based Validation in Cooperative Language Agents using Information Relevance and Relative Proximity**
+- [27 May 2024] [[AAAI 2025]](https://arxiv.org/abs/2405.16751) **REVECA: Adaptive Planning and Trajectory-based Validation in Cooperative Language Agents using Information Relevance and Relative Proximity**
 
-- [24 Apr 2024] [[arXiv]](https://arxiv.org/abs/2404.15974) **A Human-Computer Collaborative Tool for Training a Single Large Language Model Agent into a Network through Few Examples** 
+- [24 Apr 2024] [[arXiv 2024]](https://arxiv.org/abs/2404.15974) **A Human-Computer Collaborative Tool for Training a Single Large Language Model Agent into a Network through Few Examples** 
 
-- [23 Apr 2024] [[**NeurIPS 2024**]](https://openreview.net/forum?id=DlYNGpCuwa) **Aligning LLM Agents by Learning Latent Preference from User Edits** [![GitHub stars](https://img.shields.io/github/stars/gao-g/prelude?style=social)](https://github.com/gao-g/prelude)
+- [23 Apr 2024] [[NeurIPS 2024]](https://openreview.net/forum?id=DlYNGpCuwa) **Aligning LLM Agents by Learning Latent Preference from User Edits** [![GitHub stars](https://img.shields.io/github/stars/gao-g/prelude?style=social)](https://github.com/gao-g/prelude)
 
-- [19 Mar 2024] [[**arXiv 2024**]](https://arxiv.org/abs/2403.12482) **Embodied LLM Agents Learn to Cooperate in Organized Teams** [![GitHub stars](https://img.shields.io/github/stars/tobeatraceur/Organized-LLM-Agents?style=social)](https://github.com/tobeatraceur/Organized-LLM-Agents)
+- [19 Mar 2024] [[arXiv 2024]](https://arxiv.org/abs/2403.12482) **Embodied LLM Agents Learn to Cooperate in Organized Teams** [![GitHub stars](https://img.shields.io/github/stars/tobeatraceur/Organized-LLM-Agents?style=social)](https://github.com/tobeatraceur/Organized-LLM-Agents)
 
-- [18 Apr 2024]] [[**arXiv 2024**]](https://arxiv.org/abs/2404.11943) **AgentCoord: Visually Exploring Coordination Strategy for LLM-based Multi-Agent Collaboration** [![GitHub stars](https://img.shields.io/github/stars/AgentCoord/AgentCoord)](https://github.com/AgentCoord/AgentCoord)
+- [18 Apr 2024]] [[arXiv 2024]](https://arxiv.org/abs/2404.11943) **AgentCoord: Visually Exploring Coordination Strategy for LLM-based Multi-Agent Collaboration** [![GitHub stars](https://img.shields.io/github/stars/AgentCoord/AgentCoord)](https://github.com/AgentCoord/AgentCoord)
 
-- [5 Apr 2024] [[**IUI 2024**]](https://openreview.net/forum?id=sRIU6k2TcU) **PDFChatAnnotator: A Human-LLM Collaborative Multi-Modal Data Annotation Tool for PDF-Format Catalogs**
+- [5 Apr 2024] [[IUI 2024]](https://openreview.net/forum?id=sRIU6k2TcU) **PDFChatAnnotator: A Human-LLM Collaborative Multi-Modal Data Annotation Tool for PDF-Format Catalogs**
 
-- [8 Feb 2024] [[**ICML 2024**](https://arxiv.org/abs/2401.14432)] **WebLINX: Real-World Website Navigation with Multi-Turn Dialogue** [![GitHub stars](https://img.shields.io/github/stars/McGill-NLP/WebLINX?style=social)](https://github.com/McGill-NLP/WebLINX)
+- [8 Feb 2024] [[ICML 2024](https://arxiv.org/abs/2401.14432)] **WebLINX: Real-World Website Navigation with Multi-Turn Dialogue** [![GitHub stars](https://img.shields.io/github/stars/McGill-NLP/WebLINX?style=social)](https://github.com/McGill-NLP/WebLINX)
 
-- [7 Feb 2024] [[**arXiv 2024**]](https://arxiv.org/abs/2402.04559) **Can Large Language Model Agents Simulate Human Trust Behavior?** [![GitHub stars](https://img.shields.io/github/stars/camel-ai/agent-trust?style=social)](https://github.com/camel-ai/agent-trust)
+- [7 Feb 2024] [[arXiv 2024]](https://arxiv.org/abs/2402.04559) **Can Large Language Model Agents Simulate Human Trust Behavior?** [![GitHub stars](https://img.shields.io/github/stars/camel-ai/agent-trust?style=social)](https://github.com/camel-ai/agent-trust)
 
-- [25 Jan 2024] [[arXiv]](https://arxiv.org/abs/2401.14432) **A2C: A Modular Multi-stage Collaborative Decision Framework for Human-AI Teams**
+- [25 Jan 2024] [[arXiv 2024]](https://arxiv.org/abs/2401.14432) **A2C: A Modular Multi-stage Collaborative Decision Framework for Human-AI Teams**
 
-- [18 Oct 2023] [[**ICLR 2024**]](https://openreview.net/forum?id=mM7VurbA4r) **SOTOPIA: Interactive Evaluation for Social Intelligence in Language Agents** [![GitHub stars](https://img.shields.io/github/stars/sotopia-lab/sotopia?style=social)](https://github.com/sotopia-lab/sotopia)
+- [18 Oct 2023] [[ICLR 2024]](https://openreview.net/forum?id=mM7VurbA4r) **SOTOPIA: Interactive Evaluation for Social Intelligence in Language Agents** [![GitHub stars](https://img.shields.io/github/stars/sotopia-lab/sotopia?style=social)](https://github.com/sotopia-lab/sotopia)
 
-- [18 Sep 2023] [[**NAACL 2024**]](https://aclanthology.org/2024.findings-naacl.200/) **MindAgent: Emergent Gaming Interaction** [![GitHub stars](https://img.shields.io/github/stars/mindagent/mindagent?style=social)](https://github.com/mindagent/mindagent)
+- [18 Sep 2023] [[NAACL 2024]](https://aclanthology.org/2024.findings-naacl.200/) **MindAgent: Emergent Gaming Interaction** [![GitHub stars](https://img.shields.io/github/stars/mindagent/mindagent?style=social)](https://github.com/mindagent/mindagent)
 
-- [1 Aug 2023] [[**ICML 2023**]](https://openreview.net/forum?id=VtmBAGCN7o) **MetaGPT: Meta Programming for A Multi-Agent Collaborative Framework** [![GitHub stars](https://img.shields.io/github/stars/FoundationAgents/MetaGPT?style=social)](https://github.com/FoundationAgents/MetaGPT)
+- [1 Aug 2023] [[ICML 2023]](https://openreview.net/forum?id=VtmBAGCN7o) **MetaGPT: Meta Programming for A Multi-Agent Collaborative Framework** [![GitHub stars](https://img.shields.io/github/stars/FoundationAgents/MetaGPT?style=social)](https://github.com/FoundationAgents/MetaGPT)
 
-- [4 Jul 2023] [[**ICML 2023**]](https://arxiv.org/abs/2307.01848) **Embodied Task Planning with Large Language Models** [![GitHub stars](https://img.shields.io/github/stars/Gary3410/TaPA?style=social)](https://github.com/Gary3410/TaPA)
+- [4 Jul 2023] [[ICML 2023]](https://arxiv.org/abs/2307.01848) **Embodied Task Planning with Large Language Models** [![GitHub stars](https://img.shields.io/github/stars/Gary3410/TaPA?style=social)](https://github.com/Gary3410/TaPA)
 
-- [1 Jun 2023] [[**IEEE 2023**]](https://ieeexplore.ieee.org/abstract/document/10141597) **Improved Trust in Human-Robot Collaboration With ChatGPT**
+- [1 Jun 2023] [[IEEE 2023]](https://ieeexplore.ieee.org/abstract/document/10141597) **Improved Trust in Human-Robot Collaboration With ChatGPT**
 
-- [22 May 2023] [[**EACL 2024**]](https://aclanthology.org/2024.eacl-long.119/) **Investigating Agency of LLMs in Human-AI Collaboration Tasks** 
+- [22 May 2023] [[EACL 2024]](https://aclanthology.org/2024.eacl-long.119/) **Investigating Agency of LLMs in Human-AI Collaboration Tasks** 
 
-- [6 Mar 2023] [[**ICML 2023**]](https://openreview.net/forum?id=VTpHpqM3Cf&utm_campaign=The%20Batch&utm_source=hs_email&utm_medium=email&utm_content=284568789&_hsenc=p2ANqtz-9lsSL4nXMrOGBQqGoqktY5Yno_r9-nTOARZinDcgihFNqcOFEQb_MVtHKdpgI2AC3N8SrNW5PxcD0uxl4WeKcPJgUOgw) **PaLM-E: An Embodied Multimodal Language Model** [![GitHub stars](https://img.shields.io/github/stars/kyegomez/PALM-E?style=social)](https://github.com/kyegomez/PALM-E)
+- [6 Mar 2023] [[ICML 2023]](https://openreview.net/forum?id=VTpHpqM3Cf&utm_campaign=The%20Batch&utm_source=hs_email&utm_medium=email&utm_content=284568789&_hsenc=p2ANqtz-9lsSL4nXMrOGBQqGoqktY5Yno_r9-nTOARZinDcgihFNqcOFEQb_MVtHKdpgI2AC3N8SrNW5PxcD0uxl4WeKcPJgUOgw) **PaLM-E: An Embodied Multimodal Language Model** [![GitHub stars](https://img.shields.io/github/stars/kyegomez/PALM-E?style=social)](https://github.com/kyegomez/PALM-E)
 
-- [19 Sep 2023] [[**WACV 2024**]](https://arxiv.org/abs/2309.10228) **Drive as You Speak: Enabling Human-Like Interaction with Large Language Models in Autonomous Vehicles**
+- [19 Sep 2023] [[WACV 2024]](https://arxiv.org/abs/2309.10228) **Drive as You Speak: Enabling Human-Like Interaction with Large Language Models in Autonomous Vehicles**
 
-- [23 Dec 2023] [[**AAMAS 2024**]](https://arxiv.org/abs/2312.15224) **LLM-Powered Hierarchical Language Agent for Real-time Human-AI Coordination**
+- [23 Dec 2023] [[AAMAS 2024]](https://arxiv.org/abs/2312.15224) **LLM-Powered Hierarchical Language Agent for Real-time Human-AI Coordination**
 
-- [19 Sep 2023] [[**ICLR 2024**]](https://arxiv.org/abs/2309.10691) **MINT: Evaluating LLMs in Multi-turn Interaction with Tools and Language Feedback** [![GitHub stars](https://img.shields.io/github/stars/xingyaoww/mint-bench?style=social)](https://github.com/xingyaoww/mint-bench)
+- [19 Sep 2023] [[ICLR 2024]](https://arxiv.org/abs/2309.10691) **MINT: Evaluating LLMs in Multi-turn Interaction with Tools and Language Feedback** [![GitHub stars](https://img.shields.io/github/stars/xingyaoww/mint-bench?style=social)](https://github.com/xingyaoww/mint-bench)
 
-- [29 Aug 2023] [[**arXiv 2023**]](https://arxiv.org/abs/2308.14972) **LLM-Based Human-Robot Collaboration Framework for Manipulation Tasks** 
+- [29 Aug 2023] [[arXiv 2023]](https://arxiv.org/abs/2308.14972) **LLM-Based Human-Robot Collaboration Framework for Manipulation Tasks** 
 
-- [5 Jul 2023] [[**ICLR 2024**]](https://arxiv.org/abs/2307.02485) **Building Cooperative Embodied Agents Modularly with Large Language Models** 
+- [5 Jul 2023] [[ICLR 2024]](https://arxiv.org/abs/2307.02485) **Building Cooperative Embodied Agents Modularly with Large Language Models** 
 
-- [21 Apr 2023] [[**EACL 2024**]](https://arxiv.org/abs/2304.10750) **Improving Grounded Language Understanding in a Collaborative Environment by Interacting with Agents Through Help Feedback**
+- [21 Apr 2023] [[EACL 2024]](https://arxiv.org/abs/2304.10750) **Improving Grounded Language Understanding in a Collaborative Environment by Interacting with Agents Through Help Feedback**
 
 
 adding more papers, stay tuned...
