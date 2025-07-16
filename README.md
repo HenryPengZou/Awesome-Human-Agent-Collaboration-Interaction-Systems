@@ -344,6 +344,10 @@ For a detailed introduction of the taxonomy, please refer to Section 3 in our su
 ## 📄 Selected Research Papers
  ([©️click here back to table of contents👆🏻](#contents))
 
+- [11 Jun 2025] **A Call for Collaborative Intelligence: Why Human-Agent Systems Should Precede AI Autonomy**, [**arXiv**](https://arxiv.org/abs/2506.09420)
+
+- [6 Jun 2025] **Future of Work with AI Agents: Auditing Automation and Augmentation Potential across the U.S. Workforce**, [**arXiv**](https://arxiv.org/abs/2506.06576)
+
 - [5 May 2025] **SymbioticRAG: Enhancing Document Intelligence Through Human-LLM Symbiotic Collaboration**, [**arXiv**](https://web3.arxiv.org/abs/2505.02418)
 
 - [29 Apr 2025] **Modeling AI-Human Collaboration as a Multi-Agent Adaptation**, [**arXiv**](https://arxiv.org/abs/2504.20903)
