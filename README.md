@@ -165,8 +165,20 @@ For a detailed introduction of the taxonomy, please refer to Section 3 in our su
 
 ![image](./images/taxonomy.png)
 
+
+
+
+---
+
 ### 🤝 Human Feedback
+
  ([©️click here back to table of contents👆🏻](#contents))
+
+***Human Feedback*** can occur during ***different phases*** in ***various types*** and ***granularities***. In the following table, we summarize different dimensions of Human Feedback in LLM-based human-agent systems, including feedback type, granularity, and phase. For each dimension, a summary, key characteristics, and example works are provided for comparison. More details are in [Section 3.2 of our survey paper](https://arxiv.org/pdf/2505.00753). 
+
+![image](./images/human_feedback.png)
+
+ 
 
 | Title | Date & Code | Feedback Type | Feedback Subtype | Feedback Granularity | Feedback Phase |
 | --- | :---: | :---: | :---: | :---: | :---: |
@@ -215,6 +227,8 @@ For a detailed introduction of the taxonomy, please refer to Section 3 in our su
 | [Ai chains: Transparent and controllable human-ai interaction by chaining large language model prompts](https://dl.acm.org/doi/abs/10.1145/3491102.3517582) | [2021/10](https://dl.acm.org/doi/abs/10.1145/3491102.3517582) | Corrective | Refinement | Segment | During Task |
 
 
+
+---
 
 ### 🔄 Interaction
  ([©️click here back to table of contents👆🏻](#contents))
@@ -268,6 +282,7 @@ For a detailed introduction of the taxonomy, please refer to Section 3 in our su
 | [AI Chains: Transparent and Controllable Human-AI Interaction by Chaining Large Language Model Prompts](https://dl.acm.org/doi/abs/10.1145/3491102.3517582) | [2021/10](https://dl.acm.org/doi/abs/10.1145/3491102.3517582) | Collaboration | Delegation |
 
 
+---
 
 ### 🎛️ Orchestration
  ([©️click here back to table of contents👆🏻](#contents))
@@ -322,7 +337,7 @@ For a detailed introduction of the taxonomy, please refer to Section 3 in our su
 
 
 
-
+---
 
 
 ### 💬 Communication
