@@ -450,9 +450,9 @@ For a detailed introduction of the taxonomy, please refer to Section 3 in our su
 
 - [31 Oct 2024] **PARTNR: A Benchmark for Planning and Reasoning in Embodied Multi-agent Tasks**, [**ICLR 2025**](https://arxiv.org/abs/2502.11882), [![GitHub stars](https://img.shields.io/github/stars/facebookresearch/partnr-planner?style=social)](https://github.com/facebookresearch/partnr-planner)
 
-
-
 - [19 Mar 2024] **Embodied LLM Agents Learn to Cooperate in Organized Teams**, [**arXiv 2024**](https://arxiv.org/abs/2403.12482), [![GitHub stars](https://img.shields.io/github/stars/tobeatraceur/Organized-LLM-Agents?style=social)](https://github.com/tobeatraceur/Organized-LLM-Agents)
+
+- [7 Feb 2024] **Can Large Language Model Agents Simulate Human Trust Behavior?**, [**arXiv 2024**](https://arxiv.org/abs/2402.04559), [![GitHub stars](https://img.shields.io/github/stars/camel-ai/agent-trust?style=social)](https://github.com/camel-ai/agent-trust)
 
 - [5 Jul 2023] **Building Cooperative Embodied Agents Modularly with Large Language Models**, [**ICLR 2024**](https://arxiv.org/abs/2307.02485)
 
