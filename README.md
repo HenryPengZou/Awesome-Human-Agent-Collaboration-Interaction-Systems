@@ -448,8 +448,10 @@ For a detailed introduction of the taxonomy, please refer to Section 3 in our su
  
 - [20 Jun 2024] **Enhancing the LLM-Based Robot Manipulation Through Human-Robot Collaboration**, [**IEEE RA-L**](https://ieeexplore.ieee.org/document/10561501)
 
-- [31 Oct 2024] **PARTNR: A Benchmark for Planning and Reasoning in Embodied Multi-agent Tasks**, [**ICLR 2025**](https://arxiv.org/abs/2502.11882), [![GitHub stars](https://img.shields.io/github/stars/facebookresearch/partnr-planner/tree/?style=social)](https://github.com/facebookresearch/partnr-planner/tree/)
- 
+- [31 Oct 2024] **PARTNR: A Benchmark for Planning and Reasoning in Embodied Multi-agent Tasks**, [**ICLR 2025**](https://arxiv.org/abs/2502.11882), [![GitHub stars](https://img.shields.io/github/stars/facebookresearch/partnr-planner?style=social)](https://github.com/facebookresearch/partnr-planner)
+
+
+
 - [19 Mar 2024] **Embodied LLM Agents Learn to Cooperate in Organized Teams**, [**arXiv 2024**](https://arxiv.org/abs/2403.12482), [![GitHub stars](https://img.shields.io/github/stars/tobeatraceur/Organized-LLM-Agents?style=social)](https://github.com/tobeatraceur/Organized-LLM-Agents)
 
 - [5 Jul 2023] **Building Cooperative Embodied Agents Modularly with Large Language Models**, [**ICLR 2024**](https://arxiv.org/abs/2307.02485)
