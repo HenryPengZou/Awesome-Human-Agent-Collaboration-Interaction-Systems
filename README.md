@@ -52,19 +52,17 @@ Our goal with this project is to build an exhaustive collection of awesome resou
 ## 📄 Latest Research Papers
  ([©️click here back to table of contents👆🏻](#contents))
 
-- [11 Jun 2025] [[arXiv 2025]](https://arxiv.org/abs/2506.09420) **A Call for Collaborative Intelligence: Why Human-Agent Systems Should Precede AI Autonomy**
+- [11 Jun 2025] [[arXiv 2025]](https://arxiv.org/abs/2506.09420) **A Call for Collaborative Intelligence: Why Human-Agent Systems Should Precede AI Autonomy** [![GitHub stars](https://img.shields.io/github/stars/HenryPengZou/Awesome-Human-Agent-Collaboration-Interaction-Systems?style=social)](https://github.com/HenryPengZou/Awesome-Human-Agent-Collaboration-Interaction-Systems)
 
-- [6 Jun 2025] [[arXiv 2025]](https://arxiv.org/abs/2506.06576) **Future of Work with AI Agents: Auditing Automation and Augmentation Potential across the U.S. Workforce**
+- [6 Jun 2025] [[arXiv 2025]](https://arxiv.org/abs/2506.06576) **Future of Work with AI Agents: Auditing Automation and Augmentation Potential across the U.S. Workforce** [![GitHub stars](https://img.shields.io/github/stars/SALT-NLP/workbank?style=social)](https://github.com/SALT-NLP/workbank)
 
 - [5 May 2025] [[arXiv 2025]](https://web3.arxiv.org/abs/2505.02418) **SymbioticRAG: Enhancing Document Intelligence Through Human-LLM Symbiotic Collaboration** 
 
-- [1 May 2025] [[arXiv 2025]](https://arxiv.org/abs/2505.00753) **LLM-Based Human-Agent Collaboration and Interaction Systems: A Survey**
+- [1 May 2025] [[arXiv 2025]](https://arxiv.org/abs/2505.00753) **LLM-Based Human-Agent Collaboration and Interaction Systems: A Survey** [![GitHub stars](https://img.shields.io/github/stars/HenryPengZou/Awesome-Human-Agent-Collaboration-Interaction-Systems?style=social)](https://github.com/HenryPengZou/Awesome-Human-Agent-Collaboration-Interaction-Systems)
 
 - [10 Mar 2025] [[arXiv 2025]](https://arxiv.org/abs/2503.07320) **Experimental Exploration: Investigating Cooperative Interaction Behavior Between Humans and Large Language Model Agents** 
 
 - [4 Mar 2025] [[arXiv 2025]](https://arxiv.org/abs/2503.02692) **FinArena: A Human-Agent Collaboration Framework for Financial Market Analysis and Forecasting** 
-
-- [29 Apr 2025] [[arXiv 2025]](https://arxiv.org/abs/2504.20903) **Modeling AI-Human Collaboration as a Multi-Agent Adaptation** 
 
 - [13 Apr 2025] [[arXiv 2025]](https://arxiv.org/abs/2504.09689) **EmoAgent: Assessing and Safeguarding Human-AI Interaction for Mental Health Safety** [![GitHub stars](https://img.shields.io/github/stars/1akaman/EmoAgent?style=social)](https://github.com/1akaman/EmoAgent)
 
