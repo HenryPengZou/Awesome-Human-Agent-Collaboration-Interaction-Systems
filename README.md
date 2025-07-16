@@ -64,13 +64,13 @@ Our goal with this project is to build an exhaustive collection of awesome resou
 
 - [11 Apr 2025] **MineWorld: a Real-Time and Open-Source Interactive World Model on Minecraft** [[**arXiv**]](https://arxiv.org/abs/2504.08388) [![GitHub stars](https://img.shields.io/github/stars/microsoft/MineWorld?style=social)](https://github.com/microsoft/MineWorld)
 
-- [19 Mar 2025] **SWEET-RL: Training Multi-Turn LLM Agents on Collaborative Reasoning Tasks** [[**arXiv-FAIR Meta**]](https://arxiv.org/abs/2503.15478), [![GitHub stars](https://img.shields.io/github/stars/facebookresearch/sweet_rl?style=social)](https://github.com/facebookresearch/sweet_rl)
+- [19 Mar 2025] **SWEET-RL: Training Multi-Turn LLM Agents on Collaborative Reasoning Tasks** [[**arXiv-FAIR Meta**]](https://arxiv.org/abs/2503.15478) [![GitHub stars](https://img.shields.io/github/stars/facebookresearch/sweet_rl?style=social)](https://github.com/facebookresearch/sweet_rl)
 
-- [3 Mar 2025] **M3HF: Multi-agent Reinforcement Learning from Multi-phase Human Feedback of Mixed Quality**, [[**ICML 2025**]](https://openreview.net/forum?id=2Sl6Ex7Vmo) [![GitHub stars](https://img.shields.io/github/stars/facebookresearch/sweet_rl?style=social)](https://github.com/facebookresearch/sweet_rl)
+- [3 Mar 2025] **M3HF: Multi-agent Reinforcement Learning from Multi-phase Human Feedback of Mixed Quality** [[**ICML 2025**]](https://openreview.net/forum?id=2Sl6Ex7Vmo) [![GitHub stars](https://img.shields.io/github/stars/facebookresearch/sweet_rl?style=social)](https://github.com/facebookresearch/sweet_rl)
 
 - [2 Feb 2025] **CollabLLM: From Passive Responders to Active Collaborators** [[**ICML 2025**]](https://openreview.net/forum?id=DmH4HHVb3y) [![GitHub stars](https://img.shields.io/github/stars/Wuyxin/collabllm?style=social)](https://github.com/Wuyxin/collabllm)
 
-- [25 Dec 2024] **To Help or Not to Help: LLM-based Attentive Support for Human-Robot Group Interactions** [[**IEEE 2024**]](https://ieeexplore.ieee.org/abstract/document/10801517) [![GitHub stars](https://img.shields.io/github/stars/HRI-EU/AttentiveSupport?style=social)](https://github.com/HRI-EU/AttentiveSupport)
+- [25 Dec 2024] **To Help or Not to Help: LLM-based Attentive Support for Human-Robot Group Interactions** [[**IROS 2024**]](https://ieeexplore.ieee.org/abstract/document/10801517) [![GitHub stars](https://img.shields.io/github/stars/HRI-EU/AttentiveSupport?style=social)](https://github.com/HRI-EU/AttentiveSupport)
 
 - [20 Dec 2024] **Collaborative Gym: A Framework for Enabling and Evaluating Human-Agent Collaboration** [[**arXiv**]](https://arxiv.org/abs/2412.15701) [![GitHub stars](https://img.shields.io/github/stars/SALT-NLP/collaborative-gym?style=social)](https://github.com/SALT-NLP/collaborative-gym)
 
@@ -102,7 +102,7 @@ Our goal with this project is to build an exhaustive collection of awesome resou
 
 - [25 Jan 2024] **A2C: A Modular Multi-stage Collaborative Decision Framework for Human-AI Teams** [[**arxiv**]](https://arxiv.org/abs/2401.14432)
 
-- [18 Oct 2023] **SOTOPIA: Interactive Evaluation for Social Intelligence in Language Agents** [[**ICLR 2024**]](https://openreview.net/forum?id=mM7VurbA4r), [![GitHub stars](https://img.shields.io/github/stars/sotopia-lab/sotopia?style=social)](https://github.com/sotopia-lab/sotopia)
+- [18 Oct 2023] **SOTOPIA: Interactive Evaluation for Social Intelligence in Language Agents** [[**ICLR 2024**]](https://openreview.net/forum?id=mM7VurbA4r) [![GitHub stars](https://img.shields.io/github/stars/sotopia-lab/sotopia?style=social)](https://github.com/sotopia-lab/sotopia)
 
 - [18 Sep 2023] **MindAgent: Emergent Gaming Interaction** [[**NAACL 2024**]](https://aclanthology.org/2024.findings-naacl.200/) [![GitHub stars](https://img.shields.io/github/stars/mindagent/mindagent?style=social)](https://github.com/mindagent/mindagent)
 
