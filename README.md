@@ -56,8 +56,10 @@ Our goal with this project is to build an exhaustive collection of awesome resou
 
 - [11 Jun 2025] [[arXiv 2025]](https://arxiv.org/abs/2506.09420) **A Call for Collaborative Intelligence: Why Human-Agent Systems Should Precede AI Autonomy** [![GitHub stars](https://img.shields.io/github/stars/HenryPengZou/Awesome-Human-Agent-Collaboration-Interaction-Systems?style=social)](https://github.com/HenryPengZou/Awesome-Human-Agent-Collaboration-Interaction-Systems)
 
-- [6 Jun 2025] [[arXiv 2025]](https://arxiv.org/abs/2506.06576) **Future of Work with AI Agents: Auditing Automation and Augmentation Potential across the U.S. Workforce** [![GitHub stars](https://img.shields.io/github/stars/SALT-NLP/workbank?style=social)](https://github.com/SALT-NLP/workbank)
+- [6 Jun 2025] [[arXiv 2025]](https://arxiv.org/abs/2505.11336) **XtraGPT: LLMs for Human-AI Collaboration on Controllable Academic Paper Revision** [![GitHub stars](https://img.shields.io/github/stars/NuoJohnChen/XtraGPT?style=social)](https://github.com/NuoJohnChen/XtraGPT)
 
+- [16 May 2025] [[arXiv 2025]](https://web3.arxiv.org/abs/2505.02418) **SymbioticRAG: Enhancing Document Intelligence Through Human-LLM Symbiotic Collaboration**
+- 
 - [5 May 2025] [[arXiv 2025]](https://web3.arxiv.org/abs/2505.02418) **SymbioticRAG: Enhancing Document Intelligence Through Human-LLM Symbiotic Collaboration** 
 
 - [1 May 2025] [[arXiv 2025]](https://arxiv.org/abs/2505.00753) **LLM-Based Human-Agent Collaboration and Interaction Systems: A Survey** [![GitHub stars](https://img.shields.io/github/stars/HenryPengZou/Awesome-Human-Agent-Collaboration-Interaction-Systems?style=social)](https://github.com/HenryPengZou/Awesome-Human-Agent-Collaboration-Interaction-Systems)
