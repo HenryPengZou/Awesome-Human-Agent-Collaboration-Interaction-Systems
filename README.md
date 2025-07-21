@@ -432,7 +432,7 @@ For a detailed introduction of the taxonomy, please refer to Section 3 in our su
 
 ### 💬 Conversation System
 
-- [27 Aug 2024] [EMNLP 2024](https://arxiv.org/abs/2408.15232) **Into the Unknown Unknowns: Engaged Human Learning through Participation in Language Model Agent Conversations** [![GitHub stars](https://img.shields.io/github/stars/stanford-oval/storm?style=social)]
+- [27 Aug 2024] [EMNLP 2024](https://arxiv.org/abs/2408.15232) **Into the Unknown Unknowns: Engaged Human Learning through Participation in Language Model Agent Conversations** [![GitHub stars](https://img.shields.io/github/stars/stanford-oval/storm?style=social)]([https://github.com/1akaman/EmoAgent](https://github.com/stanford-oval/storm))
 
 - [8 Feb 2024] [arXiv 2024](https://arxiv.org/abs/2402.05930) **WebLINX: Real-World Website Navigation with Multi-Turn Dialogue** [![GitHub stars](https://img.shields.io/github/stars/McGill-NLP/WebLINX?style=social)](https://github.com/McGill-NLP/WebLINX)
 
