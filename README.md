@@ -38,8 +38,8 @@ Our goal with this project is to build an exhaustive collection of awesome resou
     - [🎛️ Orchestration](#️-orchestration)
     - [💬 Communication](#-communication)
 - [📚 Applications, Datasets & Benchmarks](#-applications-datasets--benchmarks)
-    - [🤖 Emobodied AI, Robotics](#-emobodied-ai-robotics)
     - [💻 Software Engineering, Coding](#-software-engineering-coding)
+    - [🤖 Emobodied AI, Robotics](#-emobodied-ai-robotics)
     - [💬 Conversation System](#-conversation-system)
     - [🎮 Gaming](#-gaming)
     - [💰 Finance](#-finance)
@@ -405,52 +405,45 @@ For a detailed introduction of the taxonomy, please refer to Section 3 in our su
  ([©️click here back to table of contents👆🏻](#contents))
 
 
-### 🤖 Emobodied AI, Robotics
-
-- [31 Oct 2024] [**ICLR 2025**](https://arxiv.org/abs/2411.00081) **PARTNR: A Benchmark for Planning and Reasoning in Embodied Multi-agent Tasks** [![GitHub stars](https://img.shields.io/github/stars/facebookresearch/partnr-planner?style=social)](https://github.com/facebookresearch/partnr-planner)
-
-
-- [19 Sep 2023] [**ICLR 2024**](https://arxiv.org/abs/2309.10691) **MINT: Evaluating LLMs in Multi-turn Interaction with Tools and Language Feedback** [![GitHub stars](https://img.shields.io/github/stars/xingyaoww/mint-bench?style=social)](https://github.com/xingyaoww/mint-bench)
-
-- [5 Jul 2023] [**ICLR 2024**](https://arxiv.org/abs/2307.02485) **Building Cooperative Embodied Agents Modularly with Large Language Models** [![GitHub stars](https://img.shields.io/github/stars/UMass-Embodied-AGI/CoELA?style=social)](https://github.com/UMass-Embodied-AGI/CoELA)
-
-- [4 Jul 2023] [arXiv 2023](https://arxiv.org/abs/2307.01848) **Embodied Task Planning with Large Language Models** [![GitHub stars](https://img.shields.io/github/stars/Gary3410/TaPA?style=social)](https://github.com/Gary3410/TaPA)
-
-- [21 Apr 2023] [**EACL 2024 Findings**](https://arxiv.org/abs/2304.10750) **Improving Grounded Language Understanding in a Collaborative Environment by Interacting with Agents Through Help Feedback** [![GitHub stars](https://img.shields.io/github/stars/microsoft/iglu-datasets?style=social)](https://github.com/microsoft/iglu-datasets)
-
-
-
 ### 💻 Software Engineering, Coding
 
 - [19 Mar 2025] [arXiv 2025](https://arxiv.org/abs/2503.15478) **SWEET-RL: Training Multi-Turn LLM Agents on Collaborative Reasoning Tasks** [![GitHub stars](https://img.shields.io/github/stars/facebookresearch/sweet_rl?style=social)](https://github.com/facebookresearch/sweet_rl)
 
-- [27 Feb 2025] [**ICLR 2025**](https://arxiv.org/abs/2503.15478) **ConvCodeWorld: Benchmarking Conversational Code Generation in Reproducible Feedback Environments** [![GitHub stars](https://img.shields.io/github/stars/stovecat/convcodeworld?style=social)](https://github.com/stovecat/convcodeworld)
+- [27 Feb 2025] [ICLR 2025](https://arxiv.org/abs/2503.15478) **ConvCodeWorld: Benchmarking Conversational Code Generation in Reproducible Feedback Environments** [![GitHub stars](https://img.shields.io/github/stars/stovecat/convcodeworld?style=social)](https://github.com/stovecat/convcodeworld)
 
-- [19 Sep 2023] [**ICLR 2024**](https://arxiv.org/abs/2309.10691) **MINT: Evaluating LLMs in Multi-turn Interaction with Tools and Language Feedback** [![GitHub stars](https://img.shields.io/github/stars/xingyaoww/mint-bench?style=social)](https://github.com/xingyaoww/mint-bench)
+- [19 Sep 2023] [ICLR 2024](https://arxiv.org/abs/2309.10691) **MINT: Evaluating LLMs in Multi-turn Interaction with Tools and Language Feedback** [![GitHub stars](https://img.shields.io/github/stars/xingyaoww/mint-bench?style=social)](https://github.com/xingyaoww/mint-bench)
 
-- [26 Jun 2023] [**NeurIPS 2023**](https://arxiv.org/abs/2306.14898) **InterCode: Standardizing and Benchmarking Interactive Coding with Execution Feedback** [![GitHub stars](https://img.shields.io/github/stars/princeton-nlp/intercode?style=social)](https://github.com/princeton-nlp/intercode)
+- [26 Jun 2023] [NeurIPS 2023](https://arxiv.org/abs/2306.14898) **InterCode: Standardizing and Benchmarking Interactive Coding with Execution Feedback** [![GitHub stars](https://img.shields.io/github/stars/princeton-nlp/intercode?style=social)](https://github.com/princeton-nlp/intercode)
+
+
+### 🤖 Emobodied AI, Robotics
+
+- [31 Oct 2024] [ICLR 2025](https://arxiv.org/abs/2411.00081) **PARTNR: A Benchmark for Planning and Reasoning in Embodied Multi-agent Tasks** [![GitHub stars](https://img.shields.io/github/stars/facebookresearch/partnr-planner?style=social)](https://github.com/facebookresearch/partnr-planner)
+
+
+- [19 Sep 2023] [ICLR 2024](https://arxiv.org/abs/2309.10691) **MINT: Evaluating LLMs in Multi-turn Interaction with Tools and Language Feedback** [![GitHub stars](https://img.shields.io/github/stars/xingyaoww/mint-bench?style=social)](https://github.com/xingyaoww/mint-bench)
+
+- [5 Jul 2023] [ICLR 2024](https://arxiv.org/abs/2307.02485) **Building Cooperative Embodied Agents Modularly with Large Language Models** [![GitHub stars](https://img.shields.io/github/stars/UMass-Embodied-AGI/CoELA?style=social)](https://github.com/UMass-Embodied-AGI/CoELA)
+
+- [4 Jul 2023] [arXiv 2023](https://arxiv.org/abs/2307.01848) **Embodied Task Planning with Large Language Models** [![GitHub stars](https://img.shields.io/github/stars/Gary3410/TaPA?style=social)](https://github.com/Gary3410/TaPA)
+
+- [21 Apr 2023] [EACL 2024 Findings](https://arxiv.org/abs/2304.10750) **Improving Grounded Language Understanding in a Collaborative Environment by Interacting with Agents Through Help Feedback** [![GitHub stars](https://img.shields.io/github/stars/microsoft/iglu-datasets?style=social)](https://github.com/microsoft/iglu-datasets)
 
 
 ### 💬 Conversation System
 
-- [27 Aug 2024] [**EMNLP 2024**](https://arxiv.org/abs/2408.15232) **Into the Unknown Unknowns: Engaged Human Learning through Participation in Language Model Agent Conversations** [![GitHub stars](https://img.shields.io/github/stars/stanford-oval/storm?style=social)]
+- [27 Aug 2024] [EMNLP 2024](https://arxiv.org/abs/2408.15232) **Into the Unknown Unknowns: Engaged Human Learning through Participation in Language Model Agent Conversations** [![GitHub stars](https://img.shields.io/github/stars/stanford-oval/storm?style=social)]
 
-- [8 Feb 2024] [arXiv 2024](https://arxiv.org/abs/2402.05930) **WebLINX: Real-World Website Navigation with Multi-Turn Dialogue** [![GitHub stars](https://img.shields.io/github/stars/McGill-NLP/WebLINX?style=social)]
+- [8 Feb 2024] [arXiv 2024](https://arxiv.org/abs/2402.05930) **WebLINX: Real-World Website Navigation with Multi-Turn Dialogue** [![GitHub stars](https://img.shields.io/github/stars/McGill-NLP/WebLINX?style=social)](https://github.com/McGill-NLP/WebLINX)
 
-- [25 Jan 2024] [**ESWA 2025**](https://arxiv.org/abs/2401.14432) **A2C: A Modular Multi-stage Collaborative Decision Framework for Human-AI Teams** [![GitHub stars](https://img.shields.io/github/stars/magicgh/Ask-before-Plan?style=social)]
-
-- [19 Sep 2023] [**ICLR 2024**](https://arxiv.org/abs/2309.10691) **MINT: Evaluating LLMs in Multi-turn Interaction with Tools and Language Feedback** [![GitHub stars](https://img.shields.io/github/stars/1akaman/EmoAgent?style=social)](https://github.com/1akaman/EmoAgent)
-
-- [22 May 2023] [**EACL 2024**](https://arxiv.org/abs/2305.12815) **Investigating Agency of LLMs in Human-AI Collaboration Tasks**
-
-- [6 Jan 2021] [**TACL 2021**](https://arxiv.org/abs/2101.02235) **Did Aristotle Use a Laptop? A Question Answering Benchmark with Implicit Reasoning Strategies** [![GitHub stars](https://img.shields.io/github/stars/hotpotqa/hotpot?style=social)]
+- [19 Sep 2023] [ICLR 2024](https://arxiv.org/abs/2309.10691) **MINT: Evaluating LLMs in Multi-turn Interaction with Tools and Language Feedback** [![GitHub stars](https://img.shields.io/github/stars/1akaman/EmoAgent?style=social)](https://github.com/1akaman/EmoAgent)
 
 
 ### 🎮 Gaming
 
 - [11 Apr 2025] [arXiv 2025](https://arxiv.org/abs/2504.08388) **MineWorld: a Real-Time and Open-Source Interactive World Model on Minecraft** [![GitHub stars](https://img.shields.io/github/stars/microsoft/MineWorldt?style=social)](https://github.com/microsoft/MineWorld)
 
-- [18 Sep 2023] [**ICLR 2024**](https://arxiv.org/abs/2309.09971) **MindAgent: Emergent Gaming Interaction** [![GitHub stars](https://img.shields.io/github/stars/mindagent/mindagent?style=social)](https://github.com/mindagent/mindagent)
+- [18 Sep 2023] [ICLR 2024](https://arxiv.org/abs/2309.09971) **MindAgent: Emergent Gaming Interaction** [![GitHub stars](https://img.shields.io/github/stars/mindagent/mindagent?style=social)](https://github.com/mindagent/mindagent)
 
 
 ### 💰 Finance
@@ -468,7 +461,7 @@ For a detailed introduction of the taxonomy, please refer to Section 3 in our su
 
 - [9 Jun 2025] [arXiv 2025](https://arxiv.org/abs/2506.09420) **τ2-Bench: Evaluating Conversational Agents in a Dual-Control Environment** [![GitHub stars](https://img.shields.io/github/stars/sierra-research/tau2-bench?style=social)](https://github.com/sierra-research/tau2-bench)
 
-- [18 Jun 2024] [**ICLR 2025**](https://openreview.net/forum?id=roNSXZpUDN) **τ-bench: A Benchmark for Tool-Agent-User Interaction in Real-World Domains** [![GitHub stars](https://img.shields.io/github/stars/sierra-research/tau-bench?style=social)](https://github.com/sierra-research/tau-bench)
+- [18 Jun 2024] [ICLR 2025](https://openreview.net/forum?id=roNSXZpUDN) **τ-bench: A Benchmark for Tool-Agent-User Interaction in Real-World Domains** [![GitHub stars](https://img.shields.io/github/stars/sierra-research/tau-bench?style=social)](https://github.com/sierra-research/tau-bench)
 
 
 <!-- ## 🔗 Other Resources   -->
