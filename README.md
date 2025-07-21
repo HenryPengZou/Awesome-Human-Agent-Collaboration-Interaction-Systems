@@ -474,6 +474,7 @@ For a detailed introduction of the taxonomy, please refer to Section 3 in our su
 
 
 ### 🛍️ Retail, Airline, Telecom
+<a name="-retail-airline-telecom"></a>
 
 - [9 Jun 2025] [arXiv 2025](https://arxiv.org/abs/2506.09420) **τ2-Bench: Evaluating Conversational Agents in a Dual-Control Environment** [![GitHub stars](https://img.shields.io/github/stars/sierra-research/tau2-bench?style=social)](https://github.com/sierra-research/tau2-bench)
 
