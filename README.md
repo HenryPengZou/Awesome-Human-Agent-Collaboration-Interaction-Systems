@@ -44,6 +44,7 @@ Our goal with this project is to build an exhaustive collection of awesome resou
     - [🎮 Gaming](#-gaming)
     - [💰 Finance](#-finance)
     - [🏥 Healthcare, Medicine](#-healthcare-medicine)
+    - [🛍️ Retail, Airlines, Telecom](#-retail-airlines-telecom)
 - [📌 Contributing](#-contributing)
 - [📝 Citation](#-citation)
 
@@ -54,7 +55,11 @@ Our goal with this project is to build an exhaustive collection of awesome resou
 
 🤗 *Contributions are welcome! If you have recommended papers and resources, please submit pull requests or open issues.*
 
-- [11 Jun 2025] [[arXiv 2025]](https://arxiv.org/abs/2506.09420) **A Call for Collaborative Intelligence: Why Human-Agent Systems Should Precede AI Autonomy** [![GitHub stars](https://img.shields.io/github/stars/HenryPengZou/Awesome-Human-Agent-Collaboration-Interaction-Systems?style=social)](https://github.com/HenryPengZou/Awesome-Human-Agent-Collaboration-Interaction-Systems)
+- [11 Jun 2025] [[arXiv 2025]](https://arxiv.org/abs/2506.07982) **A Call for Collaborative Intelligence: Why Human-Agent Systems Should Precede AI Autonomy** [![GitHub stars](https://img.shields.io/github/stars/HenryPengZou/Awesome-Human-Agent-Collaboration-Interaction-Systems?style=social)](https://github.com/HenryPengZou/Awesome-Human-Agent-Collaboration-Interaction-Systems)
+
+
+- [9 Jun 2025] [[arXiv 2025]](https://arxiv.org/abs/2506.09420) **τ2-Bench: Evaluating Conversational Agents in a Dual-Control Environment** [![GitHub stars](https://img.shields.io/github/stars/sierra-research/tau2-bench?style=social)](https://github.com/sierra-research/tau2-bench)
+
 
 - [6 Jun 2025] [[arXiv 2025]](https://arxiv.org/abs/2506.06576) **Future of Work with AI Agents: Auditing Automation and Augmentation Potential across the U.S. Workforce** [![GitHub stars](https://img.shields.io/github/stars/SALT-NLP/workbank?style=social)](https://github.com/SALT-NLP/workbank)
 
@@ -110,7 +115,9 @@ Our goal with this project is to build an exhaustive collection of awesome resou
 
 - [20 Jun 2024] [[RAL 2024]](https://ieeexplore.ieee.org/document/10561501) **Enhancing the LLM-Based Robot Manipulation Through Human-Robot Collaboration** 
 
-- [18 Jun 2024] [[EMNLP 2024]](https://aclanthology.org/2024.findings-emnlp.636/) **Ask-before-Plan: Proactive Language Agents for Real-World Planning** [![GitHub stars](https://img.shields.io/github/stars/magicgh/Ask-before-Plan?style=social)](https://github.com/magicgh/Ask-before-Plan)
+- [18 Jun 2024] [[ICLR 2025]](https://openreview.net/forum?id=roNSXZpUDN) **τ-bench: A Benchmark for Tool-Agent-User Interaction in Real-World Domains** [![GitHub stars](https://img.shields.io/github/stars/sierra-research/tau-bench?style=social)](https://github.com/sierra-research/tau-bench)
+
+- [17 Jun 2024] [[EMNLP 2024]](https://aclanthology.org/2024.findings-emnlp.636/) **Ask-before-Plan: Proactive Language Agents for Real-World Planning** [![GitHub stars](https://img.shields.io/github/stars/magicgh/Ask-before-Plan?style=social)](https://github.com/magicgh/Ask-before-Plan)
 
 - [14 Jun 2024] [[NeurIPS 2024]](https://proceedings.neurips.cc/paper_files/paper/2024/hash/1704ddd0bb89f159dfe609b32c889995-Abstract-Conference.html) **DigiRL: Training In-The-Wild Device-Control Agents with Autonomous Reinforcement Learning** [![GitHub stars](https://img.shields.io/github/stars/DigiRL-agent/digirl?style=social)](https://github.com/DigiRL-agent/digirl)
 
@@ -444,7 +451,7 @@ For a detailed introduction of the taxonomy, please refer to Section 3 in our su
 
 - [25 Sep 2018] [**EMNLP 2018**](https://arxiv.org/abs/1809.09600) **HotpotQA: A Dataset for Diverse, Explainable Multi-hop Question Answering** [![GitHub stars](https://img.shields.io/github/stars/eladsegal/strategyqa?style=social)]
 
-- [6 Jan 2021] [**TACL 2021**]((https://arxiv.org/abs/2101.02235) **Did Aristotle Use a Laptop? A Question Answering Benchmark with Implicit Reasoning Strategies** [![GitHub stars](https://img.shields.io/github/stars/hotpotqa/hotpot?style=social)]
+- [6 Jan 2021] [**TACL 2021**](https://arxiv.org/abs/2101.02235) **Did Aristotle Use a Laptop? A Question Answering Benchmark with Implicit Reasoning Strategies** [![GitHub stars](https://img.shields.io/github/stars/hotpotqa/hotpot?style=social)]
 
 
 
@@ -463,7 +470,14 @@ For a detailed introduction of the taxonomy, please refer to Section 3 in our su
 
 ### 🏥 Healthcare, Medicine
 
-- [13 Apr 2025] [arXiv 2025](https://arxiv.org/abs/2504.09689) **EmoAgent: Assessing and Safeguarding Human-AI Interaction for Mental Health Safety** [![GitHub stars](https://img.shields.io/github/stars/xingyaoww/mint-bench?style=social)](https://github.com/xingyaoww/mint-bench)
+- [13 Apr 2025] [arXiv 2025](https://arxiv.org/abs/2504.09689) **EmoAgent: Assessing and Safeguarding Human-AI Interaction for Mental Health Safety** [![GitHub stars](https://img.shields.io/github/stars/1akaman/EmoAgent?style=social)](https://github.com/1akaman/EmoAgent)
+
+
+### 🛍️ Retail, Airlines, Telecom
+
+- [9 Jun 2025] [arXiv 2025](https://arxiv.org/abs/2506.09420) **τ2-Bench: Evaluating Conversational Agents in a Dual-Control Environment** [![GitHub stars](https://img.shields.io/github/stars/sierra-research/tau2-bench?style=social)](https://github.com/sierra-research/tau2-bench)
+
+- [18 Jun 2024] [**ICLR 2025**](https://openreview.net/forum?id=roNSXZpUDN) **τ-bench: A Benchmark for Tool-Agent-User Interaction in Real-World Domains** [![GitHub stars](https://img.shields.io/github/stars/sierra-research/tau-bench?style=social)](https://github.com/sierra-research/tau-bench)
 
 
 <!-- ## 🔗 Other Resources   -->
