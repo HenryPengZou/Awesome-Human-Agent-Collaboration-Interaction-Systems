@@ -44,7 +44,7 @@ Our goal with this project is to build an exhaustive collection of awesome resou
     - [🎮 Gaming](#-gaming)
     - [💰 Finance](#-finance)
     - [🏥 Healthcare, Medicine](#-healthcare-medicine)
-    - [🛍️ Retail, Airlines, Telecom](#-retail-airlines-telecom)
+    - [🛍️ Retail, Airline, Telecom](#-retail-airline-telecom)
 - [📌 Contributing](#-contributing)
 - [📝 Citation](#-citation)
 
@@ -473,7 +473,7 @@ For a detailed introduction of the taxonomy, please refer to Section 3 in our su
 - [13 Apr 2025] [arXiv 2025](https://arxiv.org/abs/2504.09689) **EmoAgent: Assessing and Safeguarding Human-AI Interaction for Mental Health Safety** [![GitHub stars](https://img.shields.io/github/stars/1akaman/EmoAgent?style=social)](https://github.com/1akaman/EmoAgent)
 
 
-### 🛍️ Retail, Airlines, Telecom
+### 🛍️ Retail, Airline, Telecom
 
 - [9 Jun 2025] [arXiv 2025](https://arxiv.org/abs/2506.09420) **τ2-Bench: Evaluating Conversational Agents in a Dual-Control Environment** [![GitHub stars](https://img.shields.io/github/stars/sierra-research/tau2-bench?style=social)](https://github.com/sierra-research/tau2-bench)
 
