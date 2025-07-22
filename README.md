@@ -89,7 +89,7 @@ Our goal with this project is to build an exhaustive collection of awesome resou
 
 - [2 Feb 2025] [[ICML 2025]](https://openreview.net/forum?id=DmH4HHVb3y) **CollabLLM: From Passive Responders to Active Collaborators** [![GitHub stars](https://img.shields.io/github/stars/Wuyxin/collabllm?style=social)](https://github.com/Wuyxin/collabllm)
 
-- [28 Jan 2025] [[arXiv 2025]](https://arxiv.org/abs/2501.16609) **CowPilot: A Framework for Autonomous and Human-Agent Collaborative Web Navigation**
+- [28 Jan 2025] [[NAACL 2025 Demo]](https://arxiv.org/abs/2501.16609) **CowPilot: A Framework for Autonomous and Human-Agent Collaborative Web Navigation**
 
 - [25 Dec 2024] [[IROS 2024]](https://ieeexplore.ieee.org/abstract/document/10801517) **To Help or Not to Help: LLM-based Attentive Support for Human-Robot Group Interactions** [![GitHub stars](https://img.shields.io/github/stars/HRI-EU/AttentiveSupport?style=social)](https://github.com/HRI-EU/AttentiveSupport)
 
