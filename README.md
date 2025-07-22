@@ -101,6 +101,8 @@ Our goal with this project is to build an exhaustive collection of awesome resou
 
 - [31 Oct 2024] [[ICLR 2025]](https://arxiv.org/abs/2502.11882) **PARTNR: A Benchmark for Planning and Reasoning in Embodied Multi-agent Tasks** [![GitHub stars](https://img.shields.io/github/stars/facebookresearch/partnr-planner?style=social)](https://github.com/facebookresearch/partnr-planner)
 
+- [30 Oct 2024] [[ICLR 2025]](https://openreview.net/forum?id=nfKfAzkiez) **ACC-Collab: An Actor-Critic Approach to Multi-Agent LLM Collaboration** [![GitHub stars](https://img.shields.io/github/stars/LlenRotse/ACC-Collab?style=social)](https://github.com/LlenRotse/ACC-Collab)
+
 - [16 Oct 2024] [[ICLR 2025]](https://openreview.net/forum?id=sRIU6k2TcU) **Proactive Agent: Shifting LLM Agents from Reactive Responses to Active Assistance** [![GitHub stars](https://img.shields.io/github/stars/thunlp/ProactiveAgent?style=social)](https://github.com/thunlp/ProactiveAgent)
 
 - [26 Sep 2024] [[arXiv 2024]](https://arxiv.org/abs/2409.17655) **AssistantX: An LLM-Powered Proactive Assistant in Collaborative Human-Populated Environment** [![GitHub stars](https://img.shields.io/github/stars/AssistantX-Agent/AssistantX?style=social)](https://github.com/AssistantX-Agent/AssistantX)
