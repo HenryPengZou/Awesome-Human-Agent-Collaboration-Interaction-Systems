@@ -55,6 +55,9 @@ Our goal with this project is to build an exhaustive collection of awesome resou
 
 🤗 *Contributions are welcome! If you have recommended papers and resources, please submit pull requests or open issues.*
 
+- [23 Jul 2025] [[arXiv 2025]](https://www.arxiv.org/abs/2507.17131) **Enabling Self-Improving Agents to Learn at Test Time With Human-In-The-Loop Guidance** [![GitHub stars](https://img.shields.io/github/stars/yf-he/aria?style=social)](https://github.com/yf-he/aria)
+
+
 - [11 Jun 2025] [[arXiv 2025]](https://arxiv.org/abs/2506.09420) **A Call for Collaborative Intelligence: Why Human-Agent Systems Should Precede AI Autonomy** [![GitHub stars](https://img.shields.io/github/stars/HenryPengZou/Awesome-Human-Agent-Collaboration-Interaction-Systems?style=social)](https://github.com/HenryPengZou/Awesome-Human-Agent-Collaboration-Interaction-Systems)
 
 
