@@ -81,7 +81,9 @@ Our goal with this project is to build an exhaustive collection of awesome resou
 
 - [4 Apr 2025] [[arXiv 2025]](https://arxiv.org/abs/2504.03601) **APIGen-MT: Agentic Pipeline for Multi-Turn Data Generation via Simulated Agent-Human Interplay**
 
-- [19 Mar 2025] [[arXiv 2025]](https://arxiv.org/abs/2503.15478) **SWEET-RL: Training Multi-Turn LLM Agents on Collaborative Reasoning Tasks** [![GitHub stars](https://img.shields.io/github/stars/facebookresearch/sweet_rl?style=social)](https://github.com/facebookresearch/sweet_rl)
+- [24 Mar 2025] [[ACL 2025 Findings]](https://arxiv.org/abs/2504.07971) **SPHERE: An Evaluation Card for Human-AI Systems** [![GitHub stars](https://img.shields.io/github/stars/facebookresearch/sweet_rl?style=social)](https://github.com/facebookresearch/sweet_rl)
+
+- [19 Mar 2025] [[arXiv 2025]](https://arxiv.org/abs/2503.15478) **SWEET-RL: Training Multi-Turn LLM Agents on Collaborative Reasoning Tasks** [![GitHub stars](https://img.shields.io/github/stars/sphere-eval/sphere-eval.github.io?style=social)](https://github.com/sphere-eval/sphere-eval.github.io)
 
 - [10 Mar 2025] [[arXiv 2025]](https://arxiv.org/abs/2503.07320) **Experimental Exploration: Investigating Cooperative Interaction Behavior Between Humans and Large Language Model Agents** 
 
