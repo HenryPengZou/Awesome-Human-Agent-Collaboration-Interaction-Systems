@@ -490,17 +490,21 @@ Contributions are welcome! If you have relevant papers, code, or insights, feel 
 ## 📝 Citation
  ([©️click here back to table of contents👆🏻](#contents))
 
-If you find our survey helpful, please consider citing our work 💕:
+If you find this repository useful, please consider citing our papers 💕:
 
 ```
-@misc{zou2025surveylargelanguagemodel,
-      title={LLM-Based Human-Agent Collaboration and Interaction Systems: A Survey}, 
-      author={Henry Peng Zou and Wei-Chieh Huang and Yaozu Wu and Yankai Chen and Chunyu Miao and Hoang Nguyen and Yue Zhou and Weizhi Zhang and Liancheng Fang and Langzhou He and Yangning Li and Yuwei Cao and Dongyuan Li and Renhe Jiang and Philip S. Yu},
-      year={2025},
-      eprint={2505.00753},
-      archivePrefix={arXiv},
-      primaryClass={cs.CL},
-      url={https://arxiv.org/abs/2505.00753}, 
+@article{zou2025llmbasedhumanagentcollaboration,
+  title={LLM-Based Human-Agent Collaboration and Interaction Systems: A Survey},
+  author={Zou, Henry Peng and Huang, Wei-Chieh and Wu, Yaozu and Chen, Yankai and Miao, Chunyu and Nguyen, Hoang and Zhou, Yue and Zhang, Weizhi and Fang, Liancheng and He, Langzhou and others},
+  journal={arXiv preprint arXiv:2505.00753},
+  year={2025}
+}
+
+@article{zou2025call,
+  title={A Call for Collaborative Intelligence: Why Human-Agent Systems Should Precede AI Autonomy},
+  author={Zou, Henry Peng and Huang, Wei-Chieh and Wu, Yaozu and Miao, Chunyu and Li, Dongyuan and Liu, Aiwei and Zhou, Yue and Chen, Yankai and Zhang, Weizhi and Li, Yangning and others},
+  journal={arXiv preprint arXiv:2506.09420},
+  year={2025}
 }
 ```
 
