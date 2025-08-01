@@ -45,7 +45,7 @@ Our goal with this project is to build an exhaustive collection of awesome resou
     - [💰 Finance](#-finance)
     - [🏥 Healthcare, Medicine](#-healthcare-medicine)
     - [🛍️ Retail, Telecom](#-retail-telecom)
-    - [✈️ Travel](#-travel)
+    - [🛩️ Travel](#-travel)
 - [📌 Contributing](#-contributing)
 - [📝 Citation](#-citation)
 
@@ -479,7 +479,7 @@ For a detailed introduction of the taxonomy, please refer to Section 3 in our su
 
 
 
-### ✈️ Travel
+### 🛩️ Travel
 <a name="-travel"></a>
 
 - [29 Jul 2025] [[arXiv 2025]](https://arxiv.org/abs/2507.22034) **UserBench: An Interactive Gym Environment for User-Centric Agents** [![GitHub stars](https://img.shields.io/github/stars/SalesforceAIResearch/UserBench?style=social)](https://github.com/SalesforceAIResearch/UserBench)
