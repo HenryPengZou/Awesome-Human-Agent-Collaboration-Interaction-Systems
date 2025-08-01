@@ -57,6 +57,7 @@ Our goal with this project is to build an exhaustive collection of awesome resou
 
 - [30 Jul 2025] [[arXiv 2025]](https://www.arxiv.org/abs/2507.22358) **Magentic-UI: Towards Human-in-the-loop Agentic Systems** [![GitHub stars](https://img.shields.io/github/stars/microsoft/magentic-ui?style=social)](https://github.com/microsoft/magentic-ui)
 
+- [29 Jul 2025] [[arXiv 2025]](https://arxiv.org/abs/2507.22034) **UserBench: An Interactive Gym Environment for User-Centric Agents** [![GitHub stars](https://img.shields.io/github/stars/SalesforceAIResearch/UserBench?style=social)](https://github.com/SalesforceAIResearch/UserBench)
 
 - [23 Jul 2025] [[arXiv 2025]](https://www.arxiv.org/abs/2507.17131) **Enabling Self-Improving Agents to Learn at Test Time With Human-In-The-Loop Guidance** [![GitHub stars](https://img.shields.io/github/stars/yf-he/aria?style=social)](https://github.com/yf-he/aria)
 
