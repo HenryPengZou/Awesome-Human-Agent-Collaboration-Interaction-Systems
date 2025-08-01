@@ -44,10 +44,10 @@ Our goal with this project is to build an exhaustive collection of awesome resou
     - [🎮 Gaming](#-gaming)
     - [💰 Finance](#-finance)
     - [🏥 Healthcare, Medicine](#-healthcare-medicine)
-    - [🛍️ Retail, Airline, Telecom](#-retail-airline-telecom)
+    - [🛍️ Retail, Telecom](#-retail-telecom)
+    - [✈️ Travel](#-travel)
 - [📌 Contributing](#-contributing)
 - [📝 Citation](#-citation)
-
 
 
 ## 📄 Latest Research Papers
@@ -470,12 +470,26 @@ For a detailed introduction of the taxonomy, please refer to Section 3 in our su
 - [13 Apr 2025] [arXiv 2025](https://arxiv.org/abs/2504.09689) **EmoAgent: Assessing and Safeguarding Human-AI Interaction for Mental Health Safety** [![GitHub stars](https://img.shields.io/github/stars/1akaman/EmoAgent?style=social)](https://github.com/1akaman/EmoAgent)
 
 
-### 🛍️ Retail, Airline, Telecom
-<a name="-retail-airline-telecom"></a>
+### 🛍️ Retail, Telecom
+<a name="-retail-telecom"></a>
 
 - [9 Jun 2025] [arXiv 2025](https://arxiv.org/abs/2506.09420) **τ2-Bench: Evaluating Conversational Agents in a Dual-Control Environment** [![GitHub stars](https://img.shields.io/github/stars/sierra-research/tau2-bench?style=social)](https://github.com/sierra-research/tau2-bench)
 
 - [18 Jun 2024] [ICLR 2025](https://openreview.net/forum?id=roNSXZpUDN) **τ-bench: A Benchmark for Tool-Agent-User Interaction in Real-World Domains** [![GitHub stars](https://img.shields.io/github/stars/sierra-research/tau-bench?style=social)](https://github.com/sierra-research/tau-bench)
+
+
+
+### ✈️ Travel
+<a name="-travel"></a>
+
+- [29 Jul 2025] [[arXiv 2025]](https://arxiv.org/abs/2507.22034) **UserBench: An Interactive Gym Environment for User-Centric Agents** [![GitHub stars](https://img.shields.io/github/stars/SalesforceAIResearch/UserBench?style=social)](https://github.com/SalesforceAIResearch/UserBench)
+
+- [9 Jun 2025] [arXiv 2025](https://arxiv.org/abs/2506.09420) **τ2-Bench: Evaluating Conversational Agents in a Dual-Control Environment** [![GitHub stars](https://img.shields.io/github/stars/sierra-research/tau2-bench?style=social)](https://github.com/sierra-research/tau2-bench)
+
+- [18 Jun 2024] [ICLR 2025](https://openreview.net/forum?id=roNSXZpUDN) **τ-bench: A Benchmark for Tool-Agent-User Interaction in Real-World Domains** [![GitHub stars](https://img.shields.io/github/stars/sierra-research/tau-bench?style=social)](https://github.com/sierra-research/tau-bench)
+
+
+
 
 
 <!-- ## 🔗 Other Resources   -->
