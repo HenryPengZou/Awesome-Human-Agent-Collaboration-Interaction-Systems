@@ -85,15 +85,15 @@ Our goal with this project is to build an exhaustive collection of awesome resou
 
 - [4 Apr 2025] [[arXiv 2025]](https://arxiv.org/abs/2504.03601) **APIGen-MT: Agentic Pipeline for Multi-Turn Data Generation via Simulated Agent-Human Interplay**
 
-- [24 Mar 2025] [[ACL 2025 Findings]](https://arxiv.org/abs/2504.07971) **SPHERE: An Evaluation Card for Human-AI Systems** [![GitHub stars](https://img.shields.io/github/stars/facebookresearch/sweet_rl?style=social)](https://github.com/facebookresearch/sweet_rl)
+- [24 Mar 2025] [[ACL 2025 Findings]](https://arxiv.org/abs/2504.07971) **SPHERE: An Evaluation Card for Human-AI Systems** [![GitHub stars](https://img.shields.io/github/stars/sphere-eval/sphere-eval.github.io?style=social)](https://github.com/sphere-eval/sphere-eval.github.io)
 
-- [19 Mar 2025] [[arXiv 2025]](https://arxiv.org/abs/2503.15478) **SWEET-RL: Training Multi-Turn LLM Agents on Collaborative Reasoning Tasks** [![GitHub stars](https://img.shields.io/github/stars/sphere-eval/sphere-eval.github.io?style=social)](https://github.com/sphere-eval/sphere-eval.github.io)
+- [19 Mar 2025] [[arXiv 2025]](https://arxiv.org/abs/2503.15478) **SWEET-RL: Training Multi-Turn LLM Agents on Collaborative Reasoning Tasks** [![GitHub stars](https://img.shields.io/github/stars/facebookresearch/sweet_rl?style=social)](https://github.com/facebookresearch/sweet_rl)
 
 - [10 Mar 2025] [[arXiv 2025]](https://arxiv.org/abs/2503.07320) **Experimental Exploration: Investigating Cooperative Interaction Behavior Between Humans and Large Language Model Agents** 
 
 - [4 Mar 2025] [[arXiv 2025]](https://arxiv.org/abs/2503.02692) **FinArena: A Human-Agent Collaboration Framework for Financial Market Analysis and Forecasting**
   
-- [3 Mar 2025] [[ICML 2025]](https://openreview.net/forum?id=2Sl6Ex7Vmo) **M3HF: Multi-agent Reinforcement Learning from Multi-phase Human Feedback of Mixed Quality** [![GitHub stars](https://img.shields.io/github/stars/facebookresearch/sweet_rl?style=social)](https://github.com/facebookresearch/sweet_rl)
+- [3 Mar 2025] [[ICML 2025]](https://openreview.net/forum?id=2Sl6Ex7Vmo) **M3HF: Multi-agent Reinforcement Learning from Multi-phase Human Feedback of Mixed Quality**
 
 - [27 Feb 2025] [[ICLR 2025]](https://arxiv.org/abs/2502.19852) **ConvCodeWorld: Benchmarking Conversational Code Generation in Reproducible Feedback Environments** [![GitHub stars](https://img.shields.io/github/stars/stovecat/convcodeworld?style=social)](https://github.com/stovecat/convcodeworld)
 
