@@ -143,11 +143,11 @@ Our goal with this project is to build an exhaustive collection of awesome resou
 
 - [23 Apr 2024] [[NeurIPS 2024]](https://openreview.net/forum?id=DlYNGpCuwa) **Aligning LLM Agents by Learning Latent Preference from User Edits** [![GitHub stars](https://img.shields.io/github/stars/gao-g/prelude?style=social)](https://github.com/gao-g/prelude)
 
-- [19 Mar 2024] [[arXiv 2024]](https://arxiv.org/abs/2403.12482) **Embodied LLM Agents Learn to Cooperate in Organized Teams** [![GitHub stars](https://img.shields.io/github/stars/tobeatraceur/Organized-LLM-Agents?style=social)](https://github.com/tobeatraceur/Organized-LLM-Agents)
-
 - [18 Apr 2024]] [[arXiv 2024]](https://arxiv.org/abs/2404.11943) **AgentCoord: Visually Exploring Coordination Strategy for LLM-based Multi-Agent Collaboration** [![GitHub stars](https://img.shields.io/github/stars/AgentCoord/AgentCoord)](https://github.com/AgentCoord/AgentCoord)
 
 - [5 Apr 2024] [[IUI 2024]](https://openreview.net/forum?id=sRIU6k2TcU) **PDFChatAnnotator: A Human-LLM Collaborative Multi-Modal Data Annotation Tool for PDF-Format Catalogs**
+
+- [19 Mar 2024] [[arXiv 2024]](https://arxiv.org/abs/2403.12482) **Embodied LLM Agents Learn to Cooperate in Organized Teams** [![GitHub stars](https://img.shields.io/github/stars/tobeatraceur/Organized-LLM-Agents?style=social)](https://github.com/tobeatraceur/Organized-LLM-Agents)
 
 - [8 Feb 2024] [[ICML 2024](https://arxiv.org/abs/2401.14432)] **WebLINX: Real-World Website Navigation with Multi-Turn Dialogue** [![GitHub stars](https://img.shields.io/github/stars/McGill-NLP/WebLINX?style=social)](https://github.com/McGill-NLP/WebLINX)
 
@@ -155,11 +155,19 @@ Our goal with this project is to build an exhaustive collection of awesome resou
 
 - [25 Jan 2024] [[arXiv 2024]](https://arxiv.org/abs/2401.14432) **A2C: A Modular Multi-stage Collaborative Decision Framework for Human-AI Teams**
 
+- [23 Dec 2023] [[AAMAS 2024]](https://arxiv.org/abs/2312.15224) **LLM-Powered Hierarchical Language Agent for Real-time Human-AI Coordination**
+
 - [18 Oct 2023] [[ICLR 2024]](https://openreview.net/forum?id=mM7VurbA4r) **SOTOPIA: Interactive Evaluation for Social Intelligence in Language Agents** [![GitHub stars](https://img.shields.io/github/stars/sotopia-lab/sotopia?style=social)](https://github.com/sotopia-lab/sotopia)
+
+- [19 Sep 2023] [[WACV 2024]](https://arxiv.org/abs/2309.10228) **Drive as You Speak: Enabling Human-Like Interaction with Large Language Models in Autonomous Vehicles**
+
+- [19 Sep 2023] [[ICLR 2024]](https://arxiv.org/abs/2309.10691) **MINT: Evaluating LLMs in Multi-turn Interaction with Tools and Language Feedback** [![GitHub stars](https://img.shields.io/github/stars/xingyaoww/mint-bench?style=social)](https://github.com/xingyaoww/mint-bench)
 
 - [18 Sep 2023] [[NAACL 2024]](https://aclanthology.org/2024.findings-naacl.200/) **MindAgent: Emergent Gaming Interaction** [![GitHub stars](https://img.shields.io/github/stars/mindagent/mindagent?style=social)](https://github.com/mindagent/mindagent)
 
 - [1 Aug 2023] [[ICML 2023]](https://openreview.net/forum?id=VtmBAGCN7o) **MetaGPT: Meta Programming for A Multi-Agent Collaborative Framework** [![GitHub stars](https://img.shields.io/github/stars/FoundationAgents/MetaGPT?style=social)](https://github.com/FoundationAgents/MetaGPT)
+
+- [5 Jul 2023] [[ICLR 2024]](https://arxiv.org/abs/2307.02485) **Building Cooperative Embodied Agents Modularly with Large Language Models** 
 
 - [4 Jul 2023] [[ICML 2023]](https://arxiv.org/abs/2307.01848) **Embodied Task Planning with Large Language Models** [![GitHub stars](https://img.shields.io/github/stars/Gary3410/TaPA?style=social)](https://github.com/Gary3410/TaPA)
 
@@ -167,18 +175,7 @@ Our goal with this project is to build an exhaustive collection of awesome resou
 
 - [22 May 2023] [[EACL 2024]](https://aclanthology.org/2024.eacl-long.119/) **Investigating Agency of LLMs in Human-AI Collaboration Tasks** 
 
-- [6 Mar 2023] [[ICML 2023]](https://openreview.net/forum?id=VTpHpqM3Cf&utm_campaign=The%20Batch&utm_source=hs_email&utm_medium=email&utm_content=284568789&_hsenc=p2ANqtz-9lsSL4nXMrOGBQqGoqktY5Yno_r9-nTOARZinDcgihFNqcOFEQb_MVtHKdpgI2AC3N8SrNW5PxcD0uxl4WeKcPJgUOgw) **PaLM-E: An Embodied Multimodal Language Model** [![GitHub stars](https://img.shields.io/github/stars/kyegomez/PALM-E?style=social)](https://github.com/kyegomez/PALM-E)
-
-- [19 Sep 2023] [[WACV 2024]](https://arxiv.org/abs/2309.10228) **Drive as You Speak: Enabling Human-Like Interaction with Large Language Models in Autonomous Vehicles**
-
-- [23 Dec 2023] [[AAMAS 2024]](https://arxiv.org/abs/2312.15224) **LLM-Powered Hierarchical Language Agent for Real-time Human-AI Coordination**
-
-- [19 Sep 2023] [[ICLR 2024]](https://arxiv.org/abs/2309.10691) **MINT: Evaluating LLMs in Multi-turn Interaction with Tools and Language Feedback** [![GitHub stars](https://img.shields.io/github/stars/xingyaoww/mint-bench?style=social)](https://github.com/xingyaoww/mint-bench)
-
-- [5 Jul 2023] [[ICLR 2024]](https://arxiv.org/abs/2307.02485) **Building Cooperative Embodied Agents Modularly with Large Language Models** 
-
 - [21 Apr 2023] [[EACL 2024]](https://arxiv.org/abs/2304.10750) **Improving Grounded Language Understanding in a Collaborative Environment by Interacting with Agents Through Help Feedback**
-
 
 
 ## 🔍 Taxonomy
