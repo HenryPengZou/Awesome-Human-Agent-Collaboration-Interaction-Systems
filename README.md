@@ -12,7 +12,7 @@
     <img src="https://i.imgur.com/waxVImv.png" alt="Oryx Video-ChatGPT">
 </p>
 
-Welcome to Awesome-Human-Agent-Collaboration-Interaction-Systems! 🚀 This repository serves as your comprehensive guide to the cutting-edge world of LLM-Based Human-Agent Collaboration and Interaction Systems. We've meticulously curated a collection of resources for you.
+Welcome to Awesome-Human-Agent-Collaboration-Interaction-Systems! 🚀 This repository serves as your comprehensive guide to the cutting-edge world of LLM-Based Human-Agent/AI Collaboration and Interaction Systems. We've meticulously curated a collection of resources for you.
 
 ![image](./images/overview_llm_has.jpg)
 
