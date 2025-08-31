@@ -66,7 +66,7 @@ Our goal with this project is to build an exhaustive collection of awesome resou
 
 - [21 Jul 2025] [[arXiv 2025]](https://arxiv.org/abs/2507.15759) **Interaction as Intelligence: Deep Research With Human-AI Partnership**
 
-- [13 June 2025] [[arXiv 2025]](https://arxiv.org/abs/2506.11718) **Interaction, Process, Infrastructure: A Unified Architecture for Human-Agent Collaboration**
+- [13 Jun 2025] [[arXiv 2025]](https://arxiv.org/abs/2506.11718) **Interaction, Process, Infrastructure: A Unified Architecture for Human-Agent Collaboration**
 
 - [11 Jun 2025] [[arXiv 2025]](https://arxiv.org/abs/2506.09420) **A Call for Collaborative Intelligence: Why Human-Agent Systems Should Precede AI Autonomy** [![GitHub stars](https://img.shields.io/github/stars/HenryPengZou/Awesome-Human-Agent-Collaboration-Interaction-Systems?style=social)](https://github.com/HenryPengZou/Awesome-Human-Agent-Collaboration-Interaction-Systems)
 
