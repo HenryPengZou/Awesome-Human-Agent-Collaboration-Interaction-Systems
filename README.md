@@ -55,6 +55,9 @@ Our goal with this project is to build an exhaustive collection of awesome resou
 
 🤗 *Contributions are welcome! If you have recommended papers and resources, please submit pull requests or open issues.*
 
+
+- [31 Jul 2025] [[arXiv 2025]](https://arxiv.org/abs/2507.23633) **MemoCue: Empowering LLM-Based Agents for Human Memory Recall via Strategy-Guided Querying** 
+
 - [30 Jul 2025] [[arXiv 2025]](https://www.arxiv.org/abs/2507.22358) **Magentic-UI: Towards Human-in-the-loop Agentic Systems** [![GitHub stars](https://img.shields.io/github/stars/microsoft/magentic-ui?style=social)](https://github.com/microsoft/magentic-ui)
 
 - [29 Jul 2025] [[arXiv 2025]](https://arxiv.org/abs/2507.22034) **UserBench: An Interactive Gym Environment for User-Centric Agents** [![GitHub stars](https://img.shields.io/github/stars/SalesforceAIResearch/UserBench?style=social)](https://github.com/SalesforceAIResearch/UserBench)
@@ -72,6 +75,9 @@ Our goal with this project is to build an exhaustive collection of awesome resou
 
 
 - [6 Jun 2025] [[arXiv 2025]](https://arxiv.org/abs/2506.06576) **Future of Work with AI Agents: Auditing Automation and Augmentation Potential across the U.S. Workforce** [![GitHub stars](https://img.shields.io/github/stars/SALT-NLP/workbank?style=social)](https://github.com/SALT-NLP/workbank)
+
+
+- [23 May 2025] [[arXiv 2025]](https://arxiv.org/abs/2505.18279v1) **Collaborative Memory: Multi-User Memory Sharing in LLM Agents with Dynamic Access Control** 
 
 - [21 May 2025] [[arXiv 2025]](https://arxiv.org/abs/2505.16023) **Prototypical Human-AI Collaboration Behaviors from LLM-Assisted Writing in the Wild** [![GitHub stars](https://img.shields.io/github/stars/microsoft/prototypical-hai-collaborations?style=social)](https://github.com/microsoft/prototypical-hai-collaborations)
 
