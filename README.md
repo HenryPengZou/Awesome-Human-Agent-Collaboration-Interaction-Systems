@@ -56,6 +56,8 @@ Our goal with this project is to build an exhaustive collection of awesome resou
 🤗 *Contributions are welcome! If you have recommended papers and resources, please submit pull requests or open issues.*
 
 
+- [26 Aug 2025] [[arXiv 2025]](https://arxiv.org/abs/2508.18669) **MUA-RL: Multi-turn User-interacting Agent Reinforcement Learning for agentic tool use**
+  
 - [31 Jul 2025] [[arXiv 2025]](https://arxiv.org/abs/2507.23633) **MemoCue: Empowering LLM-Based Agents for Human Memory Recall via Strategy-Guided Querying** 
 
 - [30 Jul 2025] [[arXiv 2025]](https://www.arxiv.org/abs/2507.22358) **Magentic-UI: Towards Human-in-the-loop Agentic Systems** [![GitHub stars](https://img.shields.io/github/stars/microsoft/magentic-ui?style=social)](https://github.com/microsoft/magentic-ui)
