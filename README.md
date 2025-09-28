@@ -55,7 +55,8 @@ Our goal with this project is to build an exhaustive collection of awesome resou
 
 🤗 *Contributions are welcome! If you have recommended papers and resources, please submit pull requests or open issues.*
 
-
+- [24 Sep 2025] [[arXiv 2025]](https://arxiv.org/abs/2509.19736) **UserRL: Training Proactive User-Centric Agent via Reinforcement Learning** [![GitHub stars](https://img.shields.io/github/stars/SalesforceAIResearch/UserRL?style=social)](https://github.com/SalesforceAIResearch/UserRL)
+  
 - [26 Aug 2025] [[arXiv 2025]](https://arxiv.org/abs/2508.18669) **MUA-RL: Multi-turn User-interacting Agent Reinforcement Learning for agentic tool use** [![GitHub stars](https://img.shields.io/github/stars/zzwkk/MUA-RL?style=social)](https://github.com/zzwkk/MUA-RL)
   
 - [31 Jul 2025] [[arXiv 2025]](https://arxiv.org/abs/2507.23633) **MemoCue: Empowering LLM-Based Agents for Human Memory Recall via Strategy-Guided Querying** 
