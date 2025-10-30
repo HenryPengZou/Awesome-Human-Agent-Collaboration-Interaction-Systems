@@ -436,6 +436,8 @@ For a detailed introduction of the taxonomy, please refer to Section 3 in our su
 
 ### 💻 Software Engineering, Coding
 
+- [7 Oct 2025 ] [[arXiv 2025]](https://arxiv.org/abs/2510.06186) **RECODE-H: A Benchmark for Research Code Development with Interactive Human Feedback** [![GitHub stars](https://img.shields.io/github/stars/ChunyuMiao98/RECODE-H?style=social)](https://github.com/ChunyuMiao98/RECODE-H)
+
 - [19 Mar 2025] [arXiv 2025](https://arxiv.org/abs/2503.15478) **SWEET-RL: Training Multi-Turn LLM Agents on Collaborative Reasoning Tasks** [![GitHub stars](https://img.shields.io/github/stars/facebookresearch/sweet_rl?style=social)](https://github.com/facebookresearch/sweet_rl)
 
 - [27 Feb 2025] [ICLR 2025](https://arxiv.org/abs/2503.15478) **ConvCodeWorld: Benchmarking Conversational Code Generation in Reproducible Feedback Environments** [![GitHub stars](https://img.shields.io/github/stars/stovecat/convcodeworld?style=social)](https://github.com/stovecat/convcodeworld)
