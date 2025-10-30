@@ -55,6 +55,9 @@ Our goal with this project is to build an exhaustive collection of awesome resou
 
 🤗 *Contributions are welcome! If you have recommended papers and resources, please submit pull requests or open issues.*
 
+- [7 Oct 2025 ] [[arXiv 2025]](https://arxiv.org/abs/2510.06186) **RECODE-H: A Benchmark for Research Code Development with Interactive Human Feedback** [![GitHub stars](https://img.shields.io/github/stars/ChunyuMiao98/RECODE-H?style=social)](https://github.com/ChunyuMiao98/RECODE-H)
+
+
 - [24 Sep 2025] [[arXiv 2025]](https://arxiv.org/abs/2509.19736) **UserRL: Training Proactive User-Centric Agent via Reinforcement Learning** [![GitHub stars](https://img.shields.io/github/stars/SalesforceAIResearch/UserRL?style=social)](https://github.com/SalesforceAIResearch/UserRL)
   
 - [26 Aug 2025] [[arXiv 2025]](https://arxiv.org/abs/2508.18669) **MUA-RL: Multi-turn User-interacting Agent Reinforcement Learning for agentic tool use** [![GitHub stars](https://img.shields.io/github/stars/zzwkk/MUA-RL?style=social)](https://github.com/zzwkk/MUA-RL)
