@@ -12,9 +12,24 @@
     <img src="https://i.imgur.com/waxVImv.png" alt="Oryx Video-ChatGPT">
 </p>
 
-Welcome to Awesome-Human-Agent-Collaboration-Interaction-Systems! 🚀 This repository serves as your comprehensive guide to the cutting-edge world of LLM-Based Human-Agent/AI Collaboration and Interaction Systems. We've meticulously curated a collection of resources for you.
-
 ![image](./images/overview_llm_has.jpg)
+
+Welcome to Awesome-Human-Agent-Collaboration-Interaction-Systems! 🚀 
+
+This is the repo for our [Survey on LLM-Based Human-Agent Collaboration and Interaction Systems](https://arxiv.org/abs/2505.00753). If you find this repo helpful, please support us by citing:
+
+```
+@article{zou2025llmbasedhumanagentcollaboration,
+  title={LLM-Based Human-Agent Collaboration and Interaction Systems: A Survey},
+  author={Zou, Henry Peng and Huang, Wei-Chieh and Wu, Yaozu and Chen, Yankai and Miao, Chunyu and Nguyen, Hoang and Zhou, Yue and Zhang, Weizhi and Fang, Liancheng and He, Langzhou and others},
+  journal={arXiv preprint arXiv:2505.00753},
+  year={2025}
+}
+```
+
+🤗 *Contributions are welcome! If you have recommended papers, resources or suggestions, please submit pull requests, open issues or contact us. We will keep updating our repo & survey paper.*
+
+
 
 
 ## 🌟 Introduction
@@ -23,7 +38,7 @@ Recent advances in large language models (LLMs) have sparked growing interest in
 
 **LLM-based human-agent collaboration systems are interactive frameworks where humans actively provide** ***(1) additional information***, ***(2) feedback***, or ***(3) control*** during interaction with LLM-powered agents to *enhance system performance, reliability, and safety*. These human-agent collaboration systems enable humans and LLM-based agents to collaborate effectively by leveraging their complementary strengths. For a detailed introduction, please refer to our survey paper: [LLM-Based Human-Agent Collaboration and Interaction Systems: A Survey](https://arxiv.org/abs/2505.00753). 
 
-Our goal with this project is to build an exhaustive collection of awesome resources relevant to LLM-HAS encompassing papers, repositories, and more to foster further research and innovation in this rapidly evolving interdisciplinary field of human-ai collaboration.
+Our goal with this project is to build an exhaustive collection of awesome resources relevant to LLM-Based Human-Agent/AI Collaboration and Interaction Systems, encompassing papers, repositories, and more to foster further research and innovation in this rapidly evolving interdisciplinary field of human-ai collaboration.
 
 
 <div id="contents"></div>
@@ -32,11 +47,6 @@ Our goal with this project is to build an exhaustive collection of awesome resou
 ## 📄 Contents
 
 - [📄 Latest Research Papers](#-latest-research-papers)
-- [🔍 Taxonomy](#-taxonomy)
-    - [🤝 Human Feedback](#-human-feedback)
-    - [🔄 Interaction](#-interaction)
-    - [🎛️ Orchestration](#️-orchestration)
-    - [💬 Communication](#-communication)
 - [📚 Applications, Datasets & Benchmarks](#-applications-datasets--benchmarks)
     - [💻 Software Engineering, Coding](#-software-engineering-coding)
     - [🤖 Emobodied AI, Robotics](#-emobodied-ai-robotics)
@@ -46,6 +56,11 @@ Our goal with this project is to build an exhaustive collection of awesome resou
     - [🏥 Healthcare, Medicine](#-healthcare-medicine)
     - [🛍️ Retail, Telecom](#-retail-telecom)
     - [🛩️ Travel](#-travel)
+- [🔍 Taxonomy](#-taxonomy)
+    - [🤝 Human Feedback](#-human-feedback)
+    - [🔄 Interaction](#-interaction)
+    - [🎛️ Orchestration](#️-orchestration)
+    - [💬 Communication](#-communication)
 - [📌 Contributing](#-contributing)
 - [📝 Citation](#-citation)
 
@@ -196,14 +211,96 @@ Our goal with this project is to build an exhaustive collection of awesome resou
 - [21 Apr 2023] [[EACL 2024]](https://arxiv.org/abs/2304.10750) **Improving Grounded Language Understanding in a Collaborative Environment by Interacting with Agents Through Help Feedback**
 
 
+
+
+## 📚 Applications, Datasets & Benchmarks
+ ([©️click here back to table of contents👆🏻](#contents))
+
+
+### 💻 Software Engineering, Coding
+
+- [7 Oct 2025 ] [[arXiv 2025]](https://arxiv.org/abs/2510.06186) **RECODE-H: A Benchmark for Research Code Development with Interactive Human Feedback** [![GitHub stars](https://img.shields.io/github/stars/ChunyuMiao98/RECODE-H?style=social)](https://github.com/ChunyuMiao98/RECODE-H)
+
+- [19 Mar 2025] [arXiv 2025](https://arxiv.org/abs/2503.15478) **SWEET-RL: Training Multi-Turn LLM Agents on Collaborative Reasoning Tasks** [![GitHub stars](https://img.shields.io/github/stars/facebookresearch/sweet_rl?style=social)](https://github.com/facebookresearch/sweet_rl)
+
+- [27 Feb 2025] [ICLR 2025](https://arxiv.org/abs/2503.15478) **ConvCodeWorld: Benchmarking Conversational Code Generation in Reproducible Feedback Environments** [![GitHub stars](https://img.shields.io/github/stars/stovecat/convcodeworld?style=social)](https://github.com/stovecat/convcodeworld)
+
+- [19 Sep 2023] [ICLR 2024](https://arxiv.org/abs/2309.10691) **MINT: Evaluating LLMs in Multi-turn Interaction with Tools and Language Feedback** [![GitHub stars](https://img.shields.io/github/stars/xingyaoww/mint-bench?style=social)](https://github.com/xingyaoww/mint-bench)
+
+- [26 Jun 2023] [NeurIPS 2023](https://arxiv.org/abs/2306.14898) **InterCode: Standardizing and Benchmarking Interactive Coding with Execution Feedback** [![GitHub stars](https://img.shields.io/github/stars/princeton-nlp/intercode?style=social)](https://github.com/princeton-nlp/intercode)
+
+
+### 🤖 Emobodied AI, Robotics
+
+- [31 Oct 2024] [ICLR 2025](https://arxiv.org/abs/2411.00081) **PARTNR: A Benchmark for Planning and Reasoning in Embodied Multi-agent Tasks** [![GitHub stars](https://img.shields.io/github/stars/facebookresearch/partnr-planner?style=social)](https://github.com/facebookresearch/partnr-planner)
+
+
+- [19 Sep 2023] [ICLR 2024](https://arxiv.org/abs/2309.10691) **MINT: Evaluating LLMs in Multi-turn Interaction with Tools and Language Feedback** [![GitHub stars](https://img.shields.io/github/stars/xingyaoww/mint-bench?style=social)](https://github.com/xingyaoww/mint-bench)
+
+- [5 Jul 2023] [ICLR 2024](https://arxiv.org/abs/2307.02485) **Building Cooperative Embodied Agents Modularly with Large Language Models** [![GitHub stars](https://img.shields.io/github/stars/UMass-Embodied-AGI/CoELA?style=social)](https://github.com/UMass-Embodied-AGI/CoELA)
+
+- [4 Jul 2023] [arXiv 2023](https://arxiv.org/abs/2307.01848) **Embodied Task Planning with Large Language Models** [![GitHub stars](https://img.shields.io/github/stars/Gary3410/TaPA?style=social)](https://github.com/Gary3410/TaPA)
+
+- [21 Apr 2023] [EACL 2024 Findings](https://arxiv.org/abs/2304.10750) **Improving Grounded Language Understanding in a Collaborative Environment by Interacting with Agents Through Help Feedback** [![GitHub stars](https://img.shields.io/github/stars/microsoft/iglu-datasets?style=social)](https://github.com/microsoft/iglu-datasets)
+
+
+### 💬 Conversation System
+
+- [27 Aug 2024] [EMNLP 2024](https://arxiv.org/abs/2408.15232) **Into the Unknown Unknowns: Engaged Human Learning through Participation in Language Model Agent Conversations** [![GitHub stars](https://img.shields.io/github/stars/stanford-oval/storm?style=social)]([https://github.com/1akaman/EmoAgent](https://github.com/stanford-oval/storm))
+
+- [8 Feb 2024] [arXiv 2024](https://arxiv.org/abs/2402.05930) **WebLINX: Real-World Website Navigation with Multi-Turn Dialogue** [![GitHub stars](https://img.shields.io/github/stars/McGill-NLP/WebLINX?style=social)](https://github.com/McGill-NLP/WebLINX)
+
+- [19 Sep 2023] [ICLR 2024](https://arxiv.org/abs/2309.10691) **MINT: Evaluating LLMs in Multi-turn Interaction with Tools and Language Feedback** [![GitHub stars](https://img.shields.io/github/stars/1akaman/EmoAgent?style=social)](https://github.com/1akaman/EmoAgent)
+
+
+### 🎮 Gaming
+
+- [11 Apr 2025] [arXiv 2025](https://arxiv.org/abs/2504.08388) **MineWorld: a Real-Time and Open-Source Interactive World Model on Minecraft** [![GitHub stars](https://img.shields.io/github/stars/microsoft/MineWorldt?style=social)](https://github.com/microsoft/MineWorld)
+
+- [18 Sep 2023] [ICLR 2024](https://arxiv.org/abs/2309.09971) **MindAgent: Emergent Gaming Interaction** [![GitHub stars](https://img.shields.io/github/stars/mindagent/mindagent?style=social)](https://github.com/mindagent/mindagent)
+
+
+### 💰 Finance
+
+- [4 Mar 2025] [arXiv 2025](https://arxiv.org/abs/2503.02692) **FinArena: A Human-Agent Collaboration Framework for Financial Market Analysis and Forecasting** [Data Link](https://huggingface.co/datasets/Illogicaler/FinArena-low-cost-dataset)
+
+
+### 🏥 Healthcare, Medicine
+
+- [28 Jul 2025] [arXiv 2025](https://arxiv.org/abs/2507.21035) **GenoMAS: A Multi-Agent Framework for Scientific Discovery via Code-Driven Gene Expression Analysis** [![GitHub stars](https://img.shields.io/github/stars/Liu-Hy/GenoMAS?style=social)](https://github.com/Liu-Hy/GenoMAS)
+
+- [13 Apr 2025] [arXiv 2025](https://arxiv.org/abs/2504.09689) **EmoAgent: Assessing and Safeguarding Human-AI Interaction for Mental Health Safety** [![GitHub stars](https://img.shields.io/github/stars/1akaman/EmoAgent?style=social)](https://github.com/1akaman/EmoAgent)
+
+
+### 🛍️ Retail, Telecom
+<a name="-retail-telecom"></a>
+
+- [9 Jun 2025] [arXiv 2025](https://arxiv.org/abs/2506.09420) **τ2-Bench: Evaluating Conversational Agents in a Dual-Control Environment** [![GitHub stars](https://img.shields.io/github/stars/sierra-research/tau2-bench?style=social)](https://github.com/sierra-research/tau2-bench)
+
+- [18 Jun 2024] [ICLR 2025](https://openreview.net/forum?id=roNSXZpUDN) **τ-bench: A Benchmark for Tool-Agent-User Interaction in Real-World Domains** [![GitHub stars](https://img.shields.io/github/stars/sierra-research/tau-bench?style=social)](https://github.com/sierra-research/tau-bench)
+
+
+
+### 🛩️ Travel
+<a name="-travel"></a>
+
+- [29 Jul 2025] [[arXiv 2025]](https://arxiv.org/abs/2507.22034) **UserBench: An Interactive Gym Environment for User-Centric Agents** [![GitHub stars](https://img.shields.io/github/stars/SalesforceAIResearch/UserBench?style=social)](https://github.com/SalesforceAIResearch/UserBench)
+
+- [9 Jun 2025] [arXiv 2025](https://arxiv.org/abs/2506.09420) **τ2-Bench: Evaluating Conversational Agents in a Dual-Control Environment** [![GitHub stars](https://img.shields.io/github/stars/sierra-research/tau2-bench?style=social)](https://github.com/sierra-research/tau2-bench)
+
+- [18 Jun 2024] [ICLR 2025](https://openreview.net/forum?id=roNSXZpUDN) **τ-bench: A Benchmark for Tool-Agent-User Interaction in Real-World Domains** [![GitHub stars](https://img.shields.io/github/stars/sierra-research/tau-bench?style=social)](https://github.com/sierra-research/tau-bench)
+
+
+
+
+
+
 ## 🔍 Taxonomy
  ([©️click here back to table of contents👆🏻](#contents))
 
 For a detailed introduction of the taxonomy, please refer to Section 3 in our survey paper: [LLM-Based Human-Agent Collaboration and Interaction Systems: A Survey](https://arxiv.org/pdf/2505.00753). 
 
 ![image](./images/taxonomy.png)
-
-
 
 
 ---
@@ -428,85 +525,6 @@ For a detailed introduction of the taxonomy, please refer to Section 3 in our su
 | [Improving Grounded Language Understanding in a Collaborative Environment by Interacting with Agents through Help Feedback](https://arxiv.org/abs/2304.10750) | [2023/04](https://arxiv.org/abs/2304.10750) | Decentralized | Conversation |
 | [PaLM-E: An Embodied Multimodal Language Model](https://openreview.net/forum?id=VTpHpqM3Cf&utm_campaign=The%20Batch&utm_source=hs_email&utm_medium=email&utm_content=284568789&_hsenc=p2ANqtz-9lsSL4nXMrOGBQqGoqktY5Yno_r9-nTOARZinDcgihFNqcOFEQb_MVtHKdpgI2AC3N8SrNW5PxcD0uxl4WeKcPJgUOgw) | [2023/03](https://palm-e.github.io) | Decentralized | Conversation |
 | [AI Chains: Transparent and Controllable Human-AI Interaction by Chaining Large Language Model Prompts](https://dl.acm.org/doi/abs/10.1145/3491102.3517582) | [2021/10](https://dl.acm.org/doi/abs/10.1145/3491102.3517582) | Hierarchical | Conversation |
-
-
-## 📚 Applications, Datasets & Benchmarks
- ([©️click here back to table of contents👆🏻](#contents))
-
-
-### 💻 Software Engineering, Coding
-
-- [7 Oct 2025 ] [[arXiv 2025]](https://arxiv.org/abs/2510.06186) **RECODE-H: A Benchmark for Research Code Development with Interactive Human Feedback** [![GitHub stars](https://img.shields.io/github/stars/ChunyuMiao98/RECODE-H?style=social)](https://github.com/ChunyuMiao98/RECODE-H)
-
-- [19 Mar 2025] [arXiv 2025](https://arxiv.org/abs/2503.15478) **SWEET-RL: Training Multi-Turn LLM Agents on Collaborative Reasoning Tasks** [![GitHub stars](https://img.shields.io/github/stars/facebookresearch/sweet_rl?style=social)](https://github.com/facebookresearch/sweet_rl)
-
-- [27 Feb 2025] [ICLR 2025](https://arxiv.org/abs/2503.15478) **ConvCodeWorld: Benchmarking Conversational Code Generation in Reproducible Feedback Environments** [![GitHub stars](https://img.shields.io/github/stars/stovecat/convcodeworld?style=social)](https://github.com/stovecat/convcodeworld)
-
-- [19 Sep 2023] [ICLR 2024](https://arxiv.org/abs/2309.10691) **MINT: Evaluating LLMs in Multi-turn Interaction with Tools and Language Feedback** [![GitHub stars](https://img.shields.io/github/stars/xingyaoww/mint-bench?style=social)](https://github.com/xingyaoww/mint-bench)
-
-- [26 Jun 2023] [NeurIPS 2023](https://arxiv.org/abs/2306.14898) **InterCode: Standardizing and Benchmarking Interactive Coding with Execution Feedback** [![GitHub stars](https://img.shields.io/github/stars/princeton-nlp/intercode?style=social)](https://github.com/princeton-nlp/intercode)
-
-
-### 🤖 Emobodied AI, Robotics
-
-- [31 Oct 2024] [ICLR 2025](https://arxiv.org/abs/2411.00081) **PARTNR: A Benchmark for Planning and Reasoning in Embodied Multi-agent Tasks** [![GitHub stars](https://img.shields.io/github/stars/facebookresearch/partnr-planner?style=social)](https://github.com/facebookresearch/partnr-planner)
-
-
-- [19 Sep 2023] [ICLR 2024](https://arxiv.org/abs/2309.10691) **MINT: Evaluating LLMs in Multi-turn Interaction with Tools and Language Feedback** [![GitHub stars](https://img.shields.io/github/stars/xingyaoww/mint-bench?style=social)](https://github.com/xingyaoww/mint-bench)
-
-- [5 Jul 2023] [ICLR 2024](https://arxiv.org/abs/2307.02485) **Building Cooperative Embodied Agents Modularly with Large Language Models** [![GitHub stars](https://img.shields.io/github/stars/UMass-Embodied-AGI/CoELA?style=social)](https://github.com/UMass-Embodied-AGI/CoELA)
-
-- [4 Jul 2023] [arXiv 2023](https://arxiv.org/abs/2307.01848) **Embodied Task Planning with Large Language Models** [![GitHub stars](https://img.shields.io/github/stars/Gary3410/TaPA?style=social)](https://github.com/Gary3410/TaPA)
-
-- [21 Apr 2023] [EACL 2024 Findings](https://arxiv.org/abs/2304.10750) **Improving Grounded Language Understanding in a Collaborative Environment by Interacting with Agents Through Help Feedback** [![GitHub stars](https://img.shields.io/github/stars/microsoft/iglu-datasets?style=social)](https://github.com/microsoft/iglu-datasets)
-
-
-### 💬 Conversation System
-
-- [27 Aug 2024] [EMNLP 2024](https://arxiv.org/abs/2408.15232) **Into the Unknown Unknowns: Engaged Human Learning through Participation in Language Model Agent Conversations** [![GitHub stars](https://img.shields.io/github/stars/stanford-oval/storm?style=social)]([https://github.com/1akaman/EmoAgent](https://github.com/stanford-oval/storm))
-
-- [8 Feb 2024] [arXiv 2024](https://arxiv.org/abs/2402.05930) **WebLINX: Real-World Website Navigation with Multi-Turn Dialogue** [![GitHub stars](https://img.shields.io/github/stars/McGill-NLP/WebLINX?style=social)](https://github.com/McGill-NLP/WebLINX)
-
-- [19 Sep 2023] [ICLR 2024](https://arxiv.org/abs/2309.10691) **MINT: Evaluating LLMs in Multi-turn Interaction with Tools and Language Feedback** [![GitHub stars](https://img.shields.io/github/stars/1akaman/EmoAgent?style=social)](https://github.com/1akaman/EmoAgent)
-
-
-### 🎮 Gaming
-
-- [11 Apr 2025] [arXiv 2025](https://arxiv.org/abs/2504.08388) **MineWorld: a Real-Time and Open-Source Interactive World Model on Minecraft** [![GitHub stars](https://img.shields.io/github/stars/microsoft/MineWorldt?style=social)](https://github.com/microsoft/MineWorld)
-
-- [18 Sep 2023] [ICLR 2024](https://arxiv.org/abs/2309.09971) **MindAgent: Emergent Gaming Interaction** [![GitHub stars](https://img.shields.io/github/stars/mindagent/mindagent?style=social)](https://github.com/mindagent/mindagent)
-
-
-### 💰 Finance
-
-- [4 Mar 2025] [arXiv 2025](https://arxiv.org/abs/2503.02692) **FinArena: A Human-Agent Collaboration Framework for Financial Market Analysis and Forecasting** [Data Link](https://huggingface.co/datasets/Illogicaler/FinArena-low-cost-dataset)
-
-
-### 🏥 Healthcare, Medicine
-
-- [28 Jul 2025] [arXiv 2025](https://arxiv.org/abs/2507.21035) **GenoMAS: A Multi-Agent Framework for Scientific Discovery via Code-Driven Gene Expression Analysis** [![GitHub stars](https://img.shields.io/github/stars/Liu-Hy/GenoMAS?style=social)](https://github.com/Liu-Hy/GenoMAS)
-
-- [13 Apr 2025] [arXiv 2025](https://arxiv.org/abs/2504.09689) **EmoAgent: Assessing and Safeguarding Human-AI Interaction for Mental Health Safety** [![GitHub stars](https://img.shields.io/github/stars/1akaman/EmoAgent?style=social)](https://github.com/1akaman/EmoAgent)
-
-
-### 🛍️ Retail, Telecom
-<a name="-retail-telecom"></a>
-
-- [9 Jun 2025] [arXiv 2025](https://arxiv.org/abs/2506.09420) **τ2-Bench: Evaluating Conversational Agents in a Dual-Control Environment** [![GitHub stars](https://img.shields.io/github/stars/sierra-research/tau2-bench?style=social)](https://github.com/sierra-research/tau2-bench)
-
-- [18 Jun 2024] [ICLR 2025](https://openreview.net/forum?id=roNSXZpUDN) **τ-bench: A Benchmark for Tool-Agent-User Interaction in Real-World Domains** [![GitHub stars](https://img.shields.io/github/stars/sierra-research/tau-bench?style=social)](https://github.com/sierra-research/tau-bench)
-
-
-
-### 🛩️ Travel
-<a name="-travel"></a>
-
-- [29 Jul 2025] [[arXiv 2025]](https://arxiv.org/abs/2507.22034) **UserBench: An Interactive Gym Environment for User-Centric Agents** [![GitHub stars](https://img.shields.io/github/stars/SalesforceAIResearch/UserBench?style=social)](https://github.com/SalesforceAIResearch/UserBench)
-
-- [9 Jun 2025] [arXiv 2025](https://arxiv.org/abs/2506.09420) **τ2-Bench: Evaluating Conversational Agents in a Dual-Control Environment** [![GitHub stars](https://img.shields.io/github/stars/sierra-research/tau2-bench?style=social)](https://github.com/sierra-research/tau2-bench)
-
-- [18 Jun 2024] [ICLR 2025](https://openreview.net/forum?id=roNSXZpUDN) **τ-bench: A Benchmark for Tool-Agent-User Interaction in Real-World Domains** [![GitHub stars](https://img.shields.io/github/stars/sierra-research/tau-bench?style=social)](https://github.com/sierra-research/tau-bench)
-
 
 
 
