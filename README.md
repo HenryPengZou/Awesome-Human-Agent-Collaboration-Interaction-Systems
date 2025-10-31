@@ -30,10 +30,6 @@ This is the repo for our [Survey on LLM-Based Human-Agent Collaboration and Inte
 }
 ```
 
-🤗 *Contributions are welcome! If you have recommended papers, resources or suggestions, please submit pull requests, open issues or contact us. We will keep updating our repo & survey paper.*
-
-
-
 
 ## 🌟 Introduction
 
@@ -41,7 +37,7 @@ Recent advances in large language models (LLMs) have sparked growing interest in
 
 **LLM-based human-agent collaboration systems are interactive frameworks where humans actively provide** ***(1) additional information***, ***(2) feedback***, or ***(3) control*** during interaction with LLM-powered agents to *enhance system performance, reliability, and safety*. These human-agent collaboration systems enable humans and LLM-based agents to collaborate effectively by leveraging their complementary strengths. For a detailed introduction, please refer to our survey paper: [LLM-Based Human-Agent Collaboration and Interaction Systems: A Survey](https://arxiv.org/abs/2505.00753). 
 
-Our goal with this project is to build an exhaustive collection of awesome resources relevant to LLM-Based Human-Agent/AI Collaboration and Interaction Systems, encompassing papers, repositories, and more to foster further research and innovation in this rapidly evolving interdisciplinary field of human-ai collaboration.
+Our goal with this project is to build an exhaustive collection of awesome resources relevant to LLM-Based Human-Agent/AI Collaboration and Interaction Systems, encompassing papers, repositories, and more to foster further research and innovation in this rapidly evolving interdisciplinary field of human-ai collaboration. 🤗 *Contributions are welcome! If you have recommended papers, resources or suggestions, please submit pull requests, open issues or contact us. We will keep updating our repo & survey paper.*
 
 
 <div id="contents"></div>
