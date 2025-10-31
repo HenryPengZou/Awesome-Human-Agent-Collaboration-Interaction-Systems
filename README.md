@@ -14,9 +14,7 @@
 
 ![image](./images/overview_llm_has.jpg)
 
-Welcome to Awesome-Human-Agent-Collaboration-Interaction-Systems! 🚀 
-
-This is the repo for our [Survey on LLM-Based Human-Agent Collaboration and Interaction Systems](https://arxiv.org/abs/2505.00753). If you find this repo helpful, please support us by citing:
+Welcome to Awesome-Human-Agent-Collaboration-Interaction-Systems! 🚀 This is the repo for our [Survey on LLM-Based Human-Agent Collaboration and Interaction Systems](https://arxiv.org/abs/2505.00753). If you find this repo helpful, please support us by citing:
 
 ```
 @misc{zou2025llmbasedhumanagentcollaborationinteraction,
