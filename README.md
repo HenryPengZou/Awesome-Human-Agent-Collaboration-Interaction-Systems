@@ -98,6 +98,7 @@ Our goal with this project is to build an exhaustive collection of awesome resou
 
 - [6 Jun 2025] [[arXiv 2025]](https://arxiv.org/abs/2506.06576) **Future of Work with AI Agents: Auditing Automation and Augmentation Potential across the U.S. Workforce** [![GitHub stars](https://img.shields.io/github/stars/SALT-NLP/workbank?style=social)](https://github.com/SALT-NLP/workbank)
 
+- [24 May 2025] [[ICLR 2025]](https://arxiv.org/abs/2406.00222) **Learning to Clarify: Multi-turn Conversations with Action-Based Contrastive Self-Training** [[Code]](https://github.com/google-research/google-research/tree/master/learning_to_clarify)
 
 - [23 May 2025] [[arXiv 2025]](https://arxiv.org/abs/2505.18279v1) **Collaborative Memory: Multi-User Memory Sharing in LLM Agents with Dynamic Access Control** 
 
