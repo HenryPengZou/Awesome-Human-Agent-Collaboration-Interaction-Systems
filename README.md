@@ -67,6 +67,8 @@ Our goal with this project is to build an exhaustive collection of awesome resou
 
 🤗 *Contributions are welcome! If you have recommended papers and resources, please submit pull requests or open issues.*
 
+- [10 Oct 2025 ] [[arXiv 2025]](https://arxiv.org/abs/2510.09801v2) **How can we assess human-agent interactions? Case studies in software agent design** 
+
 - [7 Oct 2025 ] [[arXiv 2025]](https://arxiv.org/abs/2510.06186) **RECODE-H: A Benchmark for Research Code Development with Interactive Human Feedback** [![GitHub stars](https://img.shields.io/github/stars/ChunyuMiao98/RECODE-H?style=social)](https://github.com/ChunyuMiao98/RECODE-H)
 
 
