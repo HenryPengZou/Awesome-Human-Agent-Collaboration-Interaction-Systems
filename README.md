@@ -14,19 +14,7 @@
 
 ![image](./images/overview_llm_has.jpg)
 
-Welcome to Awesome-Human-Agent-Collaboration-Interaction-Systems! 🚀 This is the repo for our [Survey on LLM-Based Human-Agent Collaboration and Interaction Systems](https://arxiv.org/abs/2505.00753). If you find this repo helpful, please support us by citing:
-
-```
-@misc{zou2025llmbasedhumanagentcollaborationinteraction,
-      title={LLM-Based Human-Agent Collaboration and Interaction Systems: A Survey}, 
-      author={Henry Peng Zou and Wei-Chieh Huang and Yaozu Wu and Yankai Chen and Chunyu Miao and Hoang Nguyen and Yue Zhou and Weizhi Zhang and Liancheng Fang and Langzhou He and Yangning Li and Dongyuan Li and Renhe Jiang and Xue Liu and Philip S. Yu},
-      year={2025},
-      eprint={2505.00753},
-      archivePrefix={arXiv},
-      primaryClass={cs.CL},
-      url={https://arxiv.org/abs/2505.00753}, 
-}
-```
+Welcome to Awesome-Human-Agent-Collaboration-Interaction-Systems! 🚀 This is the repo for our [Survey on LLM-Based Human-Agent Collaboration and Interaction Systems](https://arxiv.org/abs/2505.00753).
 
 
 ## 🌟 Introduction
