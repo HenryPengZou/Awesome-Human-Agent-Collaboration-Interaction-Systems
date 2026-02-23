@@ -56,7 +56,7 @@ Our goal with this project is to build an exhaustive collection of awesome resou
 
 🤗 *Contributions are welcome! If you have recommended papers and resources, please submit pull requests or open issues.*
 
-- [18 Feb 2025] [[arXiv 2026]](https://arxiv.org/abs/2602.16173) **Learning Personalized Agents from Human Feedback** [![GitHub stars](https://img.shields.io/github/stars/facebookresearch/PAHF?style=social)](https://github.com/facebookresearch/PAHF)
+- [18 Feb 2026] [[arXiv 2026]](https://arxiv.org/abs/2602.16173) **Learning Personalized Agents from Human Feedback** [![GitHub stars](https://img.shields.io/github/stars/facebookresearch/PAHF?style=social)](https://github.com/facebookresearch/PAHF)
 
 
 - [30 Nov 2025] [[arXiv 2025]](https://arxiv.org/abs/2512.04111) **HAI-Eval: Measuring Human-AI Synergy in Collaborative Coding**
