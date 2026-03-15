@@ -59,8 +59,6 @@ Our goal with this project is to build an exhaustive collection of awesome resou
 
 - [2 Mar 2026] [[arXiv 2026]](https://arxiv.org/abs/2602.16173) **Demonstrating ViviDoc: Generating Interactive Documents through Human-Agent Collaboration** [![GitHub stars](https://img.shields.io/github/stars/MisterBrookT/vividoc?style=social)](https://github.com/MisterBrookT/vividoc)
 
-Demonstrating ViviDoc: Generating Interactive Documents through Human-Agent Collaboration
-
 - [18 Feb 2026] [[arXiv 2026]](https://arxiv.org/abs/2602.16173) **Learning Personalized Agents from Human Feedback** [![GitHub stars](https://img.shields.io/github/stars/facebookresearch/PAHF?style=social)](https://github.com/facebookresearch/PAHF)
 
 
