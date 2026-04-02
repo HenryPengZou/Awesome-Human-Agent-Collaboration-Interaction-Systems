@@ -33,6 +33,7 @@ Our goal with this project is to build an exhaustive collection of awesome resou
 
 - [📄 Latest Research Papers](#-latest-research-papers)
 - [📚 Applications, Datasets & Benchmarks](#-applications-datasets--benchmarks)
+    - [💻 Web Navigation & Computer Use](#-web-navigation--computer-use)
     - [👨🏻‍💻 Software Engineering, Coding](#-software-engineering-coding)
     - [🤖 Embodied AI, Robotics](#-embodied-ai-robotics)
     - [💬 Conversation System](#-conversation-system)
