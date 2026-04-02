@@ -33,7 +33,7 @@ Our goal with this project is to build an exhaustive collection of awesome resou
 
 - [📄 Latest Research Papers](#-latest-research-papers)
 - [📚 Applications, Datasets & Benchmarks](#-applications-datasets--benchmarks)
-    - [💻 Software Engineering, Coding](#-software-engineering-coding)
+    - [👨🏻‍💻 Software Engineering, Coding](#-software-engineering-coding)
     - [🤖 Embodied AI, Robotics](#-embodied-ai-robotics)
     - [💬 Conversation System](#-conversation-system)
     - [🎮 Gaming](#-gaming)
@@ -56,8 +56,9 @@ Our goal with this project is to build an exhaustive collection of awesome resou
 
 🤗 *Contributions are welcome! If you have recommended papers and resources, please submit pull requests or open issues.*
 
+- [1 Apr 2026] [[arXiv 2026]](https://arxiv.org/abs/2604.00892) **When Users Change Their Mind: Evaluating Interruptible Agents in Long-Horizon Web Navigation** [![GitHub stars](https://img.shields.io/github/stars/HenryPengZou/InterruptBench?style=social)](https://github.com/HenryPengZou/InterruptBench)
 
-- [2 Mar 2026] [[arXiv 2026]](https://arxiv.org/abs/2602.16173) **Demonstrating ViviDoc: Generating Interactive Documents through Human-Agent Collaboration** [![GitHub stars](https://img.shields.io/github/stars/MisterBrookT/vividoc?style=social)](https://github.com/MisterBrookT/vividoc)
+- [30 Mar 2026] [[arXiv 2026]](https://arxiv.org/pdf/2603.01912) **ViviDoc: Generating Interactive Documents through Human-Agent Collaboration** [![GitHub stars](https://img.shields.io/github/stars/MisterBrookT/vividoc?style=social)](https://github.com/MisterBrookT/vividoc)
 
 - [18 Feb 2026] [[arXiv 2026]](https://arxiv.org/abs/2602.16173) **Learning Personalized Agents from Human Feedback** [![GitHub stars](https://img.shields.io/github/stars/facebookresearch/PAHF?style=social)](https://github.com/facebookresearch/PAHF)
 
@@ -218,18 +219,12 @@ Our goal with this project is to build an exhaustive collection of awesome resou
 ## 📚 Applications, Datasets & Benchmarks
  ([©️click here back to table of contents👆🏻](#contents))
 
+### 💻 Web Navigation & Computer Use
 
-### 💻 Software Engineering, Coding
+- [1 Apr 2026] [[arXiv 2026]](https://arxiv.org/abs/2604.00892) **When Users Change Their Mind: Evaluating Interruptible Agents in Long-Horizon Web Navigation** [![GitHub stars](https://img.shields.io/github/stars/HenryPengZou/InterruptBench?style=social)](https://github.com/HenryPengZou/InterruptBench)
 
-- [29 Dec 2025] [[arXiv 2025]](https://arxiv.org/abs/2512.23844) **From Correctness to Collaboration: Toward a Human-Centered Framework for Evaluating AI Agent Behavior in Software Engineering**
 
-- [30 Nov 2025] [[arXiv 2025]](https://arxiv.org/abs/2512.04111) **HAI-Eval: Measuring Human-AI Synergy in Collaborative Coding**
-
-- [4 Nov 2025] [[arXiv 2025]](https://arxiv.org/abs/2511.02208) **Training Proactive and Personalized LLM Agents** [![GitHub stars](https://img.shields.io/github/stars/sunnweiwei/PPP-Agent?style=social)](https://github.com/sunnweiwei/PPP-Agent)
-
-- [15 Oct 2025] [[arXiv 2025]](https://arxiv.org/abs/2510.13709) **Training LLM Agents to Empower Humans**  [![GitHub stars](https://img.shields.io/github/stars/festusev/codegen_empowerment?style=social)](https://github.com/festusev/codegen_empowerment)
-
-- [10 Oct 2025] [[arXiv 2025]](https://arxiv.org/abs/2510.09801v2) **How can we assess human-agent interactions? Case studies in software agent design**
+### 👨🏻‍💻 Software Engineering, Coding
 
 - [7 Oct 2025] [[arXiv 2025]](https://arxiv.org/abs/2510.06186) **RECODE-H: A Benchmark for Research Code Development with Interactive Human Feedback** [![GitHub stars](https://img.shields.io/github/stars/ChunyuMiao98/RECODE-H?style=social)](https://github.com/ChunyuMiao98/RECODE-H)
 
