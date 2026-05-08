@@ -19,6 +19,9 @@ Welcome to Awesome-Human-Agent-Collaboration-Interaction-Systems! 🚀 This is t
 
 ## 🌟 Introduction
 
+- [OpenClaw Monitor](https://github.com/flik2002/openclaw-monitor) - Real-time AI agent monitoring dashboard for OpenClaw — tracks Gateway status, sessions, token usage & trends
+
+
 Recent advances in large language models (LLMs) have sparked growing interest in building fully autonomous agents. However, **fully autonomous LLM-based agents** still face significant challenges, including ***(1) limited reliability due to hallucinations***, ***(2) difficulty in handling complex tasks***, and ***(3) substantial safety and ethical risks***, all of which limit their feasibility and trustworthiness in real-world applications.
 
 **LLM-based human-agent collaboration systems are interactive frameworks where humans actively provide** ***(1) additional information***, ***(2) feedback***, or ***(3) control*** during interaction with LLM-powered agents to *enhance system performance, reliability, and safety*. These human-agent collaboration systems enable humans and LLM-based agents to collaborate effectively by leveraging their complementary strengths. For a detailed introduction, please refer to our survey paper: [LLM-Based Human-Agent Collaboration and Interaction Systems: A Survey](https://arxiv.org/abs/2505.00753). 
