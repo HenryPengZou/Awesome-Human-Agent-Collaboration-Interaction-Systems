@@ -286,6 +286,8 @@ Our goal with this project is to build an exhaustive collection of awesome resou
 
 ### 💻 Web Navigation & Computer Use
 
+- [Clickyy](https://github.com/jayamitkatariya/clickyyy) - Shake your cursor to summon an AI agent that sees your screen and clicks, types, drags, and acts for you on macOS. Open-source, MIT.
+
 - **[2026-04-01]** [arXiv 2026] [When Users Change Their Mind: Evaluating Interruptible Agents in Long-Horizon Web Navigation](https://arxiv.org/abs/2604.00892) [![GitHub stars](https://img.shields.io/github/stars/HenryPengZou/InterruptBench?style=social)](https://github.com/HenryPengZou/InterruptBench)
 
 - **[2026-03-20]** [arXiv 2026] [LiveClawBench: Benchmarking LLM Agents on Complex, Real-World Assistant Tasks](https://arxiv.org/abs/2604.13072) [![GitHub stars](https://img.shields.io/github/stars/Mosi-AI/LiveClawBench?style=social)](https://github.com/Mosi-AI/LiveClawBench)
