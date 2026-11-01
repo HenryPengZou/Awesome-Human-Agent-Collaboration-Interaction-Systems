@@ -61,6 +61,8 @@ Our goal with this project is to build an exhaustive collection of awesome resou
 
 🤗 *Contributions are welcome! If you have recommended papers and resources, please submit pull requests or open issues.*
 
+- **[2026-10-15]** [arXiv 2026] [SciΠvot: Benchmarking Principal-Investigator Judgment at Pivotal Moments of Scientific AutoResearch Agents](https://arxiv.org/abs/2610.21082) [![GitHub stars](https://img.shields.io/github/stars/AutoResearch-Factory/SciPIvot?style=social)](https://github.com/AutoResearch-Factory/SciPIvot)
+
 - **[2026-07-18]** [arXiv 2026] [Just A Rather Very Intelligent Spoken Agent (JarvisBench)](https://arxiv.org/abs/2607.16610) [[Project]](https://cchen1436.github.io/jarvis)
 
 - **[2026-07-07]** [arXiv 2026] [LLM Agents for Deliberative Collaboration: A Study on Joint Decision Making Under Partial Observability](https://arxiv.org/abs/2607.06157) [![GitHub stars](https://img.shields.io/github/stars/wcx21/deliberative-collaboration-agents?style=social)](https://github.com/wcx21/deliberative-collaboration-agents)
@@ -368,6 +370,8 @@ Our goal with this project is to build an exhaustive collection of awesome resou
 
 
 ### 📊 Data Science, Scientific Discovery
+
+- **[2026-10-15]** [arXiv 2026] [SciΠvot: Benchmarking Principal-Investigator Judgment at Pivotal Moments of Scientific AutoResearch Agents](https://arxiv.org/abs/2610.21082) [![GitHub stars](https://img.shields.io/github/stars/AutoResearch-Factory/SciPIvot?style=social)](https://github.com/AutoResearch-Factory/SciPIvot)
 
 - **[2026-06-07]** [arXiv 2026] [PerspectiveGap: A Benchmark for Multi-Agent Orchestration Prompting](https://arxiv.org/abs/2606.08878) [![GitHub stars](https://img.shields.io/github/stars/WhymustIhaveaname/PerspectiveGap?style=social)](https://github.com/WhymustIhaveaname/PerspectiveGap)
 
