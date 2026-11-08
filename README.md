@@ -391,6 +391,8 @@ Our goal with this project is to build an exhaustive collection of awesome resou
 
 ### 🏥 Healthcare, Medicine
 
+- **[2026-06-30]** [NeurIPS 2026] [Teaching LLMs to Recommend and Defer in Underrepresented Epilepsy Care](https://arxiv.org/abs/2606.31036) [![GitHub stars](https://img.shields.io/github/stars/roychowdhuryresearch/Manana?style=social)](https://github.com/roychowdhuryresearch/Manana)
+
 - **[2026-05-27]** [FAccT 2026] [Not All Uncertainty Is Equal: How Uncertainty Granularity Shapes Human Verification in LLM-Assisted Decision Making](https://arxiv.org/abs/2605.28571)
 
 - **[2025-07-28]** [arXiv 2025] [GenoMAS: A Multi-Agent Framework for Scientific Discovery via Code-Driven Gene Expression Analysis](https://arxiv.org/abs/2507.21035) [![GitHub stars](https://img.shields.io/github/stars/Liu-Hy/GenoMAS?style=social)](https://github.com/Liu-Hy/GenoMAS)
