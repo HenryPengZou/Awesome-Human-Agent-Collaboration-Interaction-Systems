@@ -61,6 +61,8 @@ Our goal with this project is to build an exhaustive collection of awesome resou
 
 🤗 *Contributions are welcome! If you have recommended papers and resources, please submit pull requests or open issues.*
 
+- **[2026-11-07]** [arXiv 2026] [Who Remembers What? Multi-Granularity Memory Extraction for Multi-User, Multi-Agent Interaction (MixUA)](https://arxiv.org/abs/2611.10439)
+
 - **[2026-07-18]** [arXiv 2026] [Just A Rather Very Intelligent Spoken Agent (JarvisBench)](https://arxiv.org/abs/2607.16610) [[Project]](https://cchen1436.github.io/jarvis)
 
 - **[2026-07-07]** [arXiv 2026] [LLM Agents for Deliberative Collaboration: A Study on Joint Decision Making Under Partial Observability](https://arxiv.org/abs/2607.06157) [![GitHub stars](https://img.shields.io/github/stars/wcx21/deliberative-collaboration-agents?style=social)](https://github.com/wcx21/deliberative-collaboration-agents)
